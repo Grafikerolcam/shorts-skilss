@@ -1,0 +1,22 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+# --- güvenlik / boyut ---
+.env*
+!.env.example
+*.key
+*.pem
+# medya: ham çekimler, yüz fotoğrafları, ses dosyaları (Mixkit lisansı yeniden dağıtıma izin vermez), görseller
+public/**
+!public/**/
+!public/**/CREDITS.json
+*.mp4
+*.mov
+*.MOV
+*.mp3
+*.wav

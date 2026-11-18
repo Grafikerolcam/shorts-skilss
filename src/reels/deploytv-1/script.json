@@ -1,0 +1,166 @@
+{
+  "voiceId": "",
+  "date": "17 KASIM 2026",
+  "scenes": [
+    {
+      "text": "Merhaba, Diploy Tivi'ye hoş geldiniz. Bu hafta teknoloji dünyasında yer yerinden oynadı: sürpriz bir CEO istifası, tarihin en büyük halka arzı olabilecek bir hamle, yılların beklenen oyunu ve hemen kapatmanız gereken iki güvenlik açığı. Hazırsanız başlayalım.",
+      "tag": "BU HAFTA", "headline": "TEKNOLOJİDE 8 BÜYÜK GELİŞME", "title": "BU HAFTA", "accent": "#FFD23F",
+      "items": [
+        { "k": "chip", "at": "istifası", "t": "👔 Sürpriz CEO istifası" },
+        { "k": "chip", "at": "halka", "t": "📈 Rekor halka arz" },
+        { "k": "chip", "at": "oyunu", "t": "🎮 Yılların beklenen oyunu" },
+        { "k": "chip", "at": "güvenlik", "t": "🛡️ 2 acil güvenlik güncellemesi" }
+      ]
+    },
+    {
+      "text": "İlk haberimiz Nvidia'dan. Yapay zeka çağının en değerli şirketlerinden Nvidia'nın kurucusu Jensen Huang, 12 Kasım'da CEO'luk görevinden ve yönetim kurulundan, anında geçerli olmak üzere ayrıldı. Şirketin finans direktörü Colette Kress geçici CEO oldu; yönetim kurulu kalıcı bir isim arıyor.",
+      "tag": "HABER 1/8", "headline": "NVIDIA'NIN KURUCUSU JENSEN HUANG AYRILDI", "title": "NVIDIA'DA DEPREM", "accent": "#76B900",
+      "img": "jensen.jpg", "fit": "cover", "pos": "50% 25%",
+      "src": "Kaynak: Nvidia SEC bildirimi (8-K)",
+      "items": [
+        { "k": "stamp", "at": "ayrıldı", "t": "CEO İSTİFA ETTİ" },
+        { "k": "chip", "at": "12", "t": "📅 12 Kasım · anında geçerli" },
+        { "k": "chip", "at": "colette", "t": "👤 Geçici CEO: Colette Kress" },
+        { "k": "chip", "at": "kalıcı", "t": "🔎 Kalıcı CEO aranıyor" }
+      ]
+    },
+    {
+      "text": "Şirket ayrılığın sebebini açıklamadı. CNBC'nin haberine göre karar, Huang'ın özel hayatıyla ilgili iddiaların ardından yürütülen bağımsız bir soruşturmanın sonucunda geldi. Hisseler son altı haftada yüzde otuzdan fazla değer kaybetti. Ve şirket, 17 Kasım akşamı Huang'sız ilk bilançosunu açıklıyor; analistler yaklaşık 109 milyar dolar gelir bekliyor.",
+      "tag": "HABER 1/8", "headline": "NVIDIA HİSSELERİ 6 HAFTADA %30'DAN FAZLA DÜŞTÜ", "title": "PEKİ NEDEN?", "accent": "#76B900",
+      "img": "nvidia-hq.jpg", "fit": "cover",
+      "src": "Kaynak: CNBC · analist beklentisi (TipRanks)",
+      "items": [
+        { "k": "chip", "at": "açıklamadı", "t": "🤐 Resmi sebep açıklanmadı" },
+        { "k": "chip", "at": "soruşturmanın", "t": "📰 CNBC: bağımsız soruşturma" },
+        { "k": "big", "at": "otuzdan", "to": 30, "pre": "-%", "suf": "", "label": "hisse, son 6 haftada", "color": "#E5383B" },
+        { "k": "big", "at": "109", "to": 109, "pre": "$", "suf": "milyar", "label": "gelir beklentisi · bilanço 17 Kasım" }
+      ]
+    },
+    {
+      "text": "İkinci haber: Claude'un yapımcısı Anthropic halka arz oluyor. Şirket Nasdaq'ta ANT koduyla, hisse başına 70 ile 78 dolar arasında bir fiyat aralığı belirledi. Hisselerin bu hafta işlem görmeye başlaması bekleniyor.",
+      "tag": "HABER 2/8", "headline": "ANTHROPIC NASDAQ'TA HALKA ARZ OLUYOR", "title": "HALKA ARZ", "accent": "#D97757",
+      "img": "anthropic-logo.svg", "fit": "contain", "imgBg": "#F4EFE6",
+      "src": "Kaynak: CNBC · Anthropic",
+      "items": [
+        { "k": "ticker", "at": "nasdaq", "ex": "NASDAQ", "sym": "ANT" },
+        { "k": "chip", "at": "70", "t": "💵 70 – 78 $ / hisse" },
+        { "k": "chip", "at": "hafta", "t": "📅 İşlemler bu hafta başlıyor" }
+      ]
+    },
+    {
+      "text": "Aralığın üst ucunda şirketin değeri yaklaşık 1,4 trilyon dolar ediyor. 825 milyon hisse satılacak; bu da yaklaşık 64 milyar dolar demek ve tarihin en büyük halka arzı olabilir. Üstelik Nvidia, Google ve Microsoft gibi devler, halka arz fiyatından 26 milyar dolarlık ayrı bir hisse alımı yapıyor.",
+      "tag": "HABER 2/8", "headline": "TARİHİN EN BÜYÜK HALKA ARZI OLABİLİR", "title": "RAKAMLARLA", "accent": "#D97757",
+      "src": "Kaynak: CNBC · TechCrunch (hesaplama: 825 milyon × 78 $)",
+      "items": [
+        { "k": "big", "at": "1,4", "to": 1.4, "dec": 1, "pre": "$", "suf": "trilyon", "label": "aralığın üst ucunda değerleme" },
+        { "k": "chip", "at": "825", "t": "📊 825 milyon hisse ≈ 64 milyar $" },
+        { "k": "stamp", "at": "tarihin", "t": "TARİHİN EN BÜYÜĞÜ?", "color": "#FFD23F" },
+        { "k": "chip", "at": "26", "t": "🤝 Devlerden +26 milyar $ özel alım" }
+      ]
+    },
+    {
+      "text": "Üçüncü haber de yapay zeka parasıyla ilgili. Bloomberg'e göre OpenAI, 1,25 trilyon dolarlık değerleme üzerinden 11 milyar dolar topladı. Ama dikkat: bu tur başta en az 30 milyar dolar ve 1,4 trilyon dolar değerleme hedefiyle konuşuluyordu. Yatırımcı ilgisi zayıf kalınca hedef küçültüldü. Yani yapay zeka değerlemelerinde rüzgar biraz serinliyor.",
+      "tag": "HABER 3/8", "headline": "OPENAI 11 MİLYAR DOLAR TOPLADI, HEDEF KÜÇÜLDÜ", "title": "OPENAI YATIRIMI", "accent": "#10A37F",
+      "img": "openai-logo.svg", "fit": "contain", "imgBg": "#FFFFFF",
+      "src": "Kaynak: Bloomberg · TechCrunch (raporlara göre)",
+      "items": [
+        { "k": "big", "at": "11", "to": 11, "pre": "+$", "suf": "milyar", "label": "1,25 trilyon $ değerleme ile", "color": "#2ECC71" },
+        { "k": "bars", "at": "30", "unit": "milyar $", "bars": [ { "n": "İlk hedef", "v": 30, "c": "#5B6B8C" }, { "n": "Toplanan", "v": 11, "c": "#10A37F" } ] },
+        { "k": "chip", "at": "serinliyor", "t": "🌬️ Değerlemelerde rüzgar serinliyor" }
+      ]
+    },
+    {
+      "text": "Dördüncü haber Google'dan. Google, en güçlü modeli Gemini 4 Carbon'u 10 Kasım'da tüm ücretli API müşterilerine açtı. Model, Gemini uygulamasında ve aramadaki AI Mode'da da AI Ultra abonelerine geliyor.",
+      "tag": "HABER 4/8", "headline": "GEMINI 4 CARBON KULLANIMA AÇILDI", "title": "GEMINI 4 CARBON", "accent": "#4C8DF6",
+      "img": "gemini-icon.svg", "fit": "contain", "imgBg": "#0F1A3A",
+      "src": "Kaynak: Google Blog",
+      "items": [
+        { "k": "chip", "at": "gemini", "t": "✦ Google'ın en güçlü modeli" },
+        { "k": "chip", "at": "ücretli", "t": "👩‍💻 Tüm ücretli API müşterileri" },
+        { "k": "chip", "at": "uygulamasında", "t": "📱 Gemini uygulaması" },
+        { "k": "chip", "at": "mode'da", "t": "🔎 Aramada AI Mode" }
+      ]
+    },
+    {
+      "text": "Google'a göre model, uzun süren ajan görevlerinde ve siber güvenlikte iddialı. Tanıtım fiyatı, milyon giriş tokenı başına 2 dolar; ama 30 Kasım'dan itibaren fiyat iki katına çıkıyor.",
+      "tag": "HABER 4/8", "headline": "30 KASIM'DA FİYAT İKİ KATINA ÇIKIYOR", "title": "NEDEN ÖNEMLİ?", "accent": "#4C8DF6",
+      "src": "Kaynak: Google Blog (performans iddiaları Google'a ait)",
+      "items": [
+        { "k": "chip", "at": "ajan", "t": "🤖 Uzun ajan görevleri" },
+        { "k": "chip", "at": "siber", "t": "🛡️ Siber güvenlik" },
+        { "k": "big", "at": "2", "to": 2, "pre": "$", "suf": "→ $4", "label": "milyon giriş tokenı · 30 Kasım'dan itibaren" }
+      ]
+    },
+    {
+      "text": "Ve oyunculara gelelim. Yılların beklediği GTA altı, 19 Kasım'da PlayStation 5 ve Xbox Series için çıkıyor. Dijital ön yükleme 10 Kasım'da açıldı; yani şimdiden indirmeye başlayabilirsiniz.",
+      "tag": "HABER 5/8", "headline": "GTA VI 19 KASIM'DA ÇIKIYOR", "title": "GTA VI GELİYOR", "accent": "#F25FA2",
+      "img": "gta-billboard.jpg", "fit": "cover",
+      "src": "Kaynak: Rockstar Games",
+      "items": [
+        { "k": "stamp", "at": "19", "t": "19 KASIM", "color": "#F25FA2" },
+        { "k": "chip", "at": "playstation", "t": "🎮 PS5 · Xbox Series X|S" },
+        { "k": "chip", "at": "ön", "t": "⬇️ Ön yükleme açık" }
+      ]
+    },
+    {
+      "text": "Yalnız yerinizi hazırlayın: oyunun 212 gigabayta kadar boş alan istediği bildiriliyor. PC sürümü için ise henüz bir tarih yok.",
+      "tag": "HABER 5/8", "headline": "212 GB'A KADAR ALAN GEREKEBİLİR", "title": "YERİNİZİ AÇIN", "accent": "#F25FA2",
+      "img": "gta-logo.svg", "fit": "contain", "imgBg": "#1A1030",
+      "src": "Kaynak: Rockstar Games · Forbes",
+      "items": [
+        { "k": "big", "at": "212", "to": 212, "pre": "", "suf": "GB", "label": "boş alan (bildirilen)", "color": "#F25FA2" },
+        { "k": "chip", "at": "pc", "t": "💻 PC: henüz tarih yok" }
+      ]
+    },
+    {
+      "text": "Şimdi hemen yapmanız gereken bir şey var. Google Chrome'da, saldırganların aktif olarak kullandığı bir sıfırıncı gün açığı kapatıldı. Chrome'u açın, Ayarlar, Chrome Hakkında'ya girin, güncelleyin ve tarayıcıyı mutlaka yeniden başlatın.",
+      "tag": "HABER 6/8", "headline": "CHROME'U HEMEN GÜNCELLEYİN", "title": "ACİL GÜNCELLEME", "accent": "#E5383B",
+      "img": "chrome-icon.svg", "fit": "contain", "imgBg": "#F4F6FA",
+      "src": "Kaynak: Google Chrome Releases · CISA",
+      "items": [
+        { "k": "stamp", "at": "hemen", "t": "ŞİMDİ GÜNCELLE" },
+        { "k": "chip", "at": "sıfırıncı", "t": "⚠️ Aktif saldırı: sıfırıncı gün açığı" },
+        { "k": "steps", "steps": [ { "at": "ayarlar", "t": "Ayarlar" }, { "at": "hakkında", "t": "Chrome Hakkında" }, { "at": "yeniden", "t": "Yeniden başlat" } ] }
+      ]
+    },
+    {
+      "text": "Outlook kullanıyorsanız dikkat: Microsoft da bu ay yaklaşık 1100 açığı kapattı ve bunlardan biri, şifre özetlerinizi sızdırabilen bir Outlook açığı. Önemli detay: Windows güncellemesi bu açığı kapatmıyor; Office güncellemesini ayrıca yüklemeniz gerekiyor.",
+      "tag": "HABER 6/8", "headline": "OUTLOOK İÇİN OFFICE GÜNCELLEMESİ ŞART", "title": "OUTLOOK AÇIĞI", "accent": "#E5383B",
+      "img": "outlook-icon.svg", "fit": "contain", "imgBg": "#F4F6FA",
+      "src": "Kaynak: Microsoft · SecurityWeek · CISA",
+      "items": [
+        { "k": "big", "at": "1100", "to": 1100, "pre": "~", "suf": "açık", "label": "Kasım güncellemesinde kapatıldı" },
+        { "k": "chip", "at": "outlook", "t": "📧 Outlook: şifre özetleri sızabilir" },
+        { "k": "stamp", "at": "ayrıca", "t": "OFFICE'İ GÜNCELLE" }
+      ]
+    },
+    {
+      "text": "Yedinci haber: İtalya'nın veri koruma kurumu, Meta'ya 805 milyon euro ceza kesti; bu, kurumun tarihindeki en büyük ceza. Sebep: Android'deki Facebook uygulaması, tek bir izinle telefon galerisindeki fotoğraflara, videolara ve bu dosyaların bilgilerine erişiyordu. Meta kararı orantısız bulduğunu söyledi ve itiraz edecek.",
+      "tag": "HABER 7/8", "headline": "İTALYA'DAN META'YA 805 MİLYON EURO CEZA", "title": "META'YA REKOR CEZA", "accent": "#4C8DF6",
+      "img": "meta-logo.svg", "fit": "contain", "imgBg": "#FFFFFF",
+      "src": "Kaynak: AP · The Hacker News",
+      "items": [
+        { "k": "big", "at": "805", "to": 805, "pre": "€", "suf": "milyon", "label": "İtalya veri koruma kurumu (Garante)" },
+        { "k": "chip", "at": "galerisindeki", "t": "📷 Tek izinle galeri erişimi" },
+        { "k": "chip", "at": "itiraz", "t": "⚖️ Meta itiraz edecek" }
+      ]
+    },
+    {
+      "text": "Ve sekizinci haber Türkiye'den. Yurt dışından telefon getirenler için IMEI kayıt ücreti, 2027'de yaklaşık 69 bin 358 liraya çıkabilir. Bu, yeniden değerleme oranıyla yapılan bir hesap; kesin rakam Resmi Gazete'de yayımlandığında belli olacak.",
+      "tag": "HABER 8/8", "headline": "IMEI KAYIT ÜCRETİ 69 BİN LİRAYI AŞABİLİR", "title": "IMEI ÜCRETİ", "accent": "#E5383B",
+      "img": "phone-sim.jpg", "fit": "cover",
+      "src": "Kaynak: Webrazzi · CHIP (yeniden değerleme hesabı, kesin değil)",
+      "items": [
+        { "k": "chip", "at": "kayıt", "t": "📱 2026: 54.258 TL" },
+        { "k": "big", "at": "69", "to": 69358, "pre": "", "suf": "TL", "label": "2027 tahmini (+%27,83)", "group": true },
+        { "k": "chip", "at": "resmi", "t": "⏳ Kesinleşmedi · Resmi Gazete bekleniyor" }
+      ]
+    },
+    {
+      "text": "Bu haftalık bu kadar. Sizce haftanın en büyük haberi hangisiydi? Yorumlarda buluşalım. Videoyu beğenmeyi ve Diploy Tivi'ye abone olmayı unutmayın. Görüşmek üzere!",
+      "tag": "DEPLOYTV", "headline": "ABONE OLMAYI UNUTMAYIN", "title": "SIRA SİZDE", "accent": "#FFD23F",
+      "outro": true,
+      "items": []
+    }
+  ]
+}

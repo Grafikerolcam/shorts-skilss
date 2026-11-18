@@ -1,0 +1,3036 @@
+{
+ "fake": false,
+ "duration": 253.097,
+ "words": [
+  {
+   "text": "Merhaba,",
+   "start": 0,
+   "end": 0.685,
+   "scene": 0
+  },
+  {
+   "text": "Diploy",
+   "start": 0.72,
+   "end": 1.068,
+   "scene": 0
+  },
+  {
+   "text": "Tivi'ye",
+   "start": 1.115,
+   "end": 1.37,
+   "scene": 0
+  },
+  {
+   "text": "hoş",
+   "start": 1.405,
+   "end": 1.579,
+   "scene": 0
+  },
+  {
+   "text": "geldiniz.",
+   "start": 1.649,
+   "end": 2.287,
+   "scene": 0
+  },
+  {
+   "text": "Bu",
+   "start": 2.357,
+   "end": 2.485,
+   "scene": 0
+  },
+  {
+   "text": "hafta",
+   "start": 2.519,
+   "end": 2.798,
+   "scene": 0
+  },
+  {
+   "text": "teknoloji",
+   "start": 2.844,
+   "end": 3.355,
+   "scene": 0
+  },
+  {
+   "text": "dünyasında",
+   "start": 3.39,
+   "end": 3.994,
+   "scene": 0
+  },
+  {
+   "text": "yer",
+   "start": 4.075,
+   "end": 4.272,
+   "scene": 0
+  },
+  {
+   "text": "yerinden",
+   "start": 4.365,
+   "end": 4.76,
+   "scene": 0
+  },
+  {
+   "text": "oynadı:",
+   "start": 4.83,
+   "end": 5.341,
+   "scene": 0
+  },
+  {
+   "text": "sürpriz",
+   "start": 5.492,
+   "end": 5.863,
+   "scene": 0
+  },
+  {
+   "text": "bir",
+   "start": 5.921,
+   "end": 6.06,
+   "scene": 0
+  },
+  {
+   "text": "CEO",
+   "start": 6.13,
+   "end": 6.42,
+   "scene": 0
+  },
+  {
+   "text": "istifası,",
+   "start": 6.478,
+   "end": 7.221,
+   "scene": 0
+  },
+  {
+   "text": "tarihin",
+   "start": 7.268,
+   "end": 7.709,
+   "scene": 0
+  },
+  {
+   "text": "en",
+   "start": 7.79,
+   "end": 7.93,
+   "scene": 0
+  },
+  {
+   "text": "büyük",
+   "start": 7.988,
+   "end": 8.197,
+   "scene": 0
+  },
+  {
+   "text": "halka",
+   "start": 8.255,
+   "end": 8.557,
+   "scene": 0
+  },
+  {
+   "text": "arzı",
+   "start": 8.591,
+   "end": 8.812,
+   "scene": 0
+  },
+  {
+   "text": "olabilecek",
+   "start": 8.847,
+   "end": 9.369,
+   "scene": 0
+  },
+  {
+   "text": "bir",
+   "start": 9.427,
+   "end": 9.532,
+   "scene": 0
+  },
+  {
+   "text": "hamle,",
+   "start": 9.578,
+   "end": 10.054,
+   "scene": 0
+  },
+  {
+   "text": "yılların",
+   "start": 10.136,
+   "end": 10.519,
+   "scene": 0
+  },
+  {
+   "text": "beklenen",
+   "start": 10.577,
+   "end": 10.983,
+   "scene": 0
+  },
+  {
+   "text": "oyunu",
+   "start": 11.053,
+   "end": 11.401,
+   "scene": 0
+  },
+  {
+   "text": "ve",
+   "start": 11.471,
+   "end": 11.564,
+   "scene": 0
+  },
+  {
+   "text": "hemen",
+   "start": 11.633,
+   "end": 11.9,
+   "scene": 0
+  },
+  {
+   "text": "kapatmanız",
+   "start": 11.97,
+   "end": 12.539,
+   "scene": 0
+  },
+  {
+   "text": "gereken",
+   "start": 12.597,
+   "end": 13.015,
+   "scene": 0
+  },
+  {
+   "text": "iki",
+   "start": 13.108,
+   "end": 13.328,
+   "scene": 0
+  },
+  {
+   "text": "güvenlik",
+   "start": 13.374,
+   "end": 13.804,
+   "scene": 0
+  },
+  {
+   "text": "açığı.",
+   "start": 13.85,
+   "end": 14.245,
+   "scene": 0
+  },
+  {
+   "text": "Hazırsanız",
+   "start": 14.315,
+   "end": 14.837,
+   "scene": 0
+  },
+  {
+   "text": "başlayalım.",
+   "start": 14.895,
+   "end": 15.58,
+   "scene": 0
+  },
+  {
+   "text": "İlk",
+   "start": 15.859,
+   "end": 16.033,
+   "scene": 1
+  },
+  {
+   "text": "haberimiz",
+   "start": 16.091,
+   "end": 16.544,
+   "scene": 1
+  },
+  {
+   "text": "Nvidia'dan.",
+   "start": 16.625,
+   "end": 17.31,
+   "scene": 1
+  },
+  {
+   "text": "Yapay",
+   "start": 17.357,
+   "end": 17.67,
+   "scene": 1
+  },
+  {
+   "text": "zeka",
+   "start": 17.705,
+   "end": 18.007,
+   "scene": 1
+  },
+  {
+   "text": "çağının",
+   "start": 18.065,
+   "end": 18.46,
+   "scene": 1
+  },
+  {
+   "text": "en",
+   "start": 18.576,
+   "end": 18.715,
+   "scene": 1
+  },
+  {
+   "text": "değerli",
+   "start": 18.785,
+   "end": 19.087,
+   "scene": 1
+  },
+  {
+   "text": "şirketlerinden",
+   "start": 19.133,
+   "end": 19.992,
+   "scene": 1
+  },
+  {
+   "text": "Nvidia'nın",
+   "start": 20.108,
+   "end": 20.666,
+   "scene": 1
+  },
+  {
+   "text": "kurucusu",
+   "start": 20.712,
+   "end": 21.234,
+   "scene": 1
+  },
+  {
+   "text": "Jensen",
+   "start": 21.304,
+   "end": 21.734,
+   "scene": 1
+  },
+  {
+   "text": "Huang,",
+   "start": 21.792,
+   "end": 22.244,
+   "scene": 1
+  },
+  {
+   "text": "12",
+   "start": 22.57,
+   "end": 22.732,
+   "scene": 1
+  },
+  {
+   "text": "Kasım'da",
+   "start": 22.825,
+   "end": 23.231,
+   "scene": 1
+  },
+  {
+   "text": "CEO'luk",
+   "start": 23.278,
+   "end": 23.696,
+   "scene": 1
+  },
+  {
+   "text": "görevinden",
+   "start": 23.731,
+   "end": 24.288,
+   "scene": 1
+  },
+  {
+   "text": "ve",
+   "start": 24.357,
+   "end": 24.427,
+   "scene": 1
+  },
+  {
+   "text": "yönetim",
+   "start": 24.474,
+   "end": 24.845,
+   "scene": 1
+  },
+  {
+   "text": "kurulundan,",
+   "start": 24.903,
+   "end": 25.623,
+   "scene": 1
+  },
+  {
+   "text": "anında",
+   "start": 25.797,
+   "end": 26.238,
+   "scene": 1
+  },
+  {
+   "text": "geçerli",
+   "start": 26.285,
+   "end": 26.668,
+   "scene": 1
+  },
+  {
+   "text": "olmak",
+   "start": 26.703,
+   "end": 26.946,
+   "scene": 1
+  },
+  {
+   "text": "üzere",
+   "start": 27.005,
+   "end": 27.249,
+   "scene": 1
+  },
+  {
+   "text": "ayrıldı.",
+   "start": 27.295,
+   "end": 27.852,
+   "scene": 1
+  },
+  {
+   "text": "Şirketin",
+   "start": 28.236,
+   "end": 28.688,
+   "scene": 1
+  },
+  {
+   "text": "finans",
+   "start": 28.735,
+   "end": 29.025,
+   "scene": 1
+  },
+  {
+   "text": "direktörü",
+   "start": 29.071,
+   "end": 29.629,
+   "scene": 1
+  },
+  {
+   "text": "Colette",
+   "start": 29.698,
+   "end": 30.047,
+   "scene": 1
+  },
+  {
+   "text": "Kress",
+   "start": 30.081,
+   "end": 30.36,
+   "scene": 1
+  },
+  {
+   "text": "geçici",
+   "start": 30.43,
+   "end": 30.79,
+   "scene": 1
+  },
+  {
+   "text": "CEO",
+   "start": 30.836,
+   "end": 31.196,
+   "scene": 1
+  },
+  {
+   "text": "oldu;",
+   "start": 31.289,
+   "end": 31.765,
+   "scene": 1
+  },
+  {
+   "text": "yönetim",
+   "start": 31.835,
+   "end": 32.218,
+   "scene": 1
+  },
+  {
+   "text": "kurulu",
+   "start": 32.276,
+   "end": 32.531,
+   "scene": 1
+  },
+  {
+   "text": "kalıcı",
+   "start": 32.578,
+   "end": 32.879,
+   "scene": 1
+  },
+  {
+   "text": "bir",
+   "start": 32.926,
+   "end": 33.065,
+   "scene": 1
+  },
+  {
+   "text": "isim",
+   "start": 33.123,
+   "end": 33.379,
+   "scene": 1
+  },
+  {
+   "text": "arıyor.",
+   "start": 33.448,
+   "end": 33.866,
+   "scene": 1
+  },
+  {
+   "text": "Şirket",
+   "start": 34.191,
+   "end": 34.54,
+   "scene": 2
+  },
+  {
+   "text": "ayrılığın",
+   "start": 34.598,
+   "end": 34.958,
+   "scene": 2
+  },
+  {
+   "text": "sebebini",
+   "start": 35.027,
+   "end": 35.48,
+   "scene": 2
+  },
+  {
+   "text": "açıklamadı.",
+   "start": 35.527,
+   "end": 36.304,
+   "scene": 2
+  },
+  {
+   "text": "CNBC'nin",
+   "start": 36.455,
+   "end": 37.14,
+   "scene": 2
+  },
+  {
+   "text": "haberine",
+   "start": 37.198,
+   "end": 37.605,
+   "scene": 2
+  },
+  {
+   "text": "göre",
+   "start": 37.651,
+   "end": 37.849,
+   "scene": 2
+  },
+  {
+   "text": "karar,",
+   "start": 37.907,
+   "end": 38.359,
+   "scene": 2
+  },
+  {
+   "text": "Huang'ın",
+   "start": 38.534,
+   "end": 38.998,
+   "scene": 2
+  },
+  {
+   "text": "özel",
+   "start": 39.091,
+   "end": 39.358,
+   "scene": 2
+  },
+  {
+   "text": "hayatıyla",
+   "start": 39.416,
+   "end": 39.95,
+   "scene": 2
+  },
+  {
+   "text": "ilgili",
+   "start": 39.996,
+   "end": 40.229,
+   "scene": 2
+  },
+  {
+   "text": "iddiaların",
+   "start": 40.275,
+   "end": 40.844,
+   "scene": 2
+  },
+  {
+   "text": "ardından",
+   "start": 40.914,
+   "end": 41.32,
+   "scene": 2
+  },
+  {
+   "text": "yürütülen",
+   "start": 41.343,
+   "end": 41.807,
+   "scene": 2
+  },
+  {
+   "text": "bağımsız",
+   "start": 41.877,
+   "end": 42.272,
+   "scene": 2
+  },
+  {
+   "text": "bir",
+   "start": 42.318,
+   "end": 42.423,
+   "scene": 2
+  },
+  {
+   "text": "soruşturmanın",
+   "start": 42.469,
+   "end": 43.026,
+   "scene": 2
+  },
+  {
+   "text": "sonucunda",
+   "start": 43.085,
+   "end": 43.537,
+   "scene": 2
+  },
+  {
+   "text": "geldi.",
+   "start": 43.595,
+   "end": 44.013,
+   "scene": 2
+  },
+  {
+   "text": "Hisseler",
+   "start": 44.187,
+   "end": 44.675,
+   "scene": 2
+  },
+  {
+   "text": "son",
+   "start": 44.733,
+   "end": 44.907,
+   "scene": 2
+  },
+  {
+   "text": "altı",
+   "start": 44.965,
+   "end": 45.209,
+   "scene": 2
+  },
+  {
+   "text": "haftada",
+   "start": 45.232,
+   "end": 45.592,
+   "scene": 2
+  },
+  {
+   "text": "yüzde",
+   "start": 45.639,
+   "end": 45.859,
+   "scene": 2
+  },
+  {
+   "text": "otuzdan",
+   "start": 45.894,
+   "end": 46.266,
+   "scene": 2
+  },
+  {
+   "text": "fazla",
+   "start": 46.335,
+   "end": 46.614,
+   "scene": 2
+  },
+  {
+   "text": "değer",
+   "start": 46.684,
+   "end": 46.881,
+   "scene": 2
+  },
+  {
+   "text": "kaybetti.",
+   "start": 46.951,
+   "end": 47.543,
+   "scene": 2
+  },
+  {
+   "text": "Ve",
+   "start": 47.752,
+   "end": 47.845,
+   "scene": 2
+  },
+  {
+   "text": "şirket,",
+   "start": 47.903,
+   "end": 48.448,
+   "scene": 2
+  },
+  {
+   "text": "17",
+   "start": 48.692,
+   "end": 48.878,
+   "scene": 2
+  },
+  {
+   "text": "Kasım",
+   "start": 48.959,
+   "end": 49.215,
+   "scene": 2
+  },
+  {
+   "text": "akşamı",
+   "start": 49.273,
+   "end": 49.679,
+   "scene": 2
+  },
+  {
+   "text": "Huang'sız",
+   "start": 49.795,
+   "end": 50.352,
+   "scene": 2
+  },
+  {
+   "text": "ilk",
+   "start": 50.468,
+   "end": 50.596,
+   "scene": 2
+  },
+  {
+   "text": "bilançosunu",
+   "start": 50.666,
+   "end": 51.2,
+   "scene": 2
+  },
+  {
+   "text": "açıklıyor;",
+   "start": 51.235,
+   "end": 51.815,
+   "scene": 2
+  },
+  {
+   "text": "analistler",
+   "start": 52.024,
+   "end": 52.674,
+   "scene": 2
+  },
+  {
+   "text": "yaklaşık",
+   "start": 52.79,
+   "end": 53.278,
+   "scene": 2
+  },
+  {
+   "text": "109",
+   "start": 53.394,
+   "end": 53.928,
+   "scene": 2
+  },
+  {
+   "text": "milyar",
+   "start": 54.021,
+   "end": 54.335,
+   "scene": 2
+  },
+  {
+   "text": "dolar",
+   "start": 54.393,
+   "end": 54.671,
+   "scene": 2
+  },
+  {
+   "text": "gelir",
+   "start": 54.729,
+   "end": 54.962,
+   "scene": 2
+  },
+  {
+   "text": "bekliyor.",
+   "start": 55.02,
+   "end": 55.507,
+   "scene": 2
+  },
+  {
+   "text": "İkinci",
+   "start": 55.786,
+   "end": 56.146,
+   "scene": 3
+  },
+  {
+   "text": "haber:",
+   "start": 56.192,
+   "end": 56.576,
+   "scene": 3
+  },
+  {
+   "text": "Claude'un",
+   "start": 56.785,
+   "end": 57.237,
+   "scene": 3
+  },
+  {
+   "text": "yapımcısı",
+   "start": 57.307,
+   "end": 58.015,
+   "scene": 3
+  },
+  {
+   "text": "Anthropic",
+   "start": 58.189,
+   "end": 58.747,
+   "scene": 3
+  },
+  {
+   "text": "halka",
+   "start": 58.816,
+   "end": 59.141,
+   "scene": 3
+  },
+  {
+   "text": "arz",
+   "start": 59.211,
+   "end": 59.408,
+   "scene": 3
+  },
+  {
+   "text": "oluyor.",
+   "start": 59.49,
+   "end": 59.919,
+   "scene": 3
+  },
+  {
+   "text": "Şirket",
+   "start": 60.198,
+   "end": 60.709,
+   "scene": 3
+  },
+  {
+   "text": "Nasdaq'ta",
+   "start": 60.86,
+   "end": 61.568,
+   "scene": 3
+  },
+  {
+   "text": "ANT",
+   "start": 61.649,
+   "end": 61.997,
+   "scene": 3
+  },
+  {
+   "text": "koduyla,",
+   "start": 62.125,
+   "end": 62.81,
+   "scene": 3
+  },
+  {
+   "text": "hisse",
+   "start": 63.089,
+   "end": 63.402,
+   "scene": 3
+  },
+  {
+   "text": "başına",
+   "start": 63.46,
+   "end": 63.89,
+   "scene": 3
+  },
+  {
+   "text": "70",
+   "start": 64.041,
+   "end": 64.552,
+   "scene": 3
+  },
+  {
+   "text": "ile",
+   "start": 64.598,
+   "end": 64.807,
+   "scene": 3
+  },
+  {
+   "text": "78",
+   "start": 64.981,
+   "end": 65.55,
+   "scene": 3
+  },
+  {
+   "text": "dolar",
+   "start": 65.631,
+   "end": 65.945,
+   "scene": 3
+  },
+  {
+   "text": "arasında",
+   "start": 66.015,
+   "end": 66.607,
+   "scene": 3
+  },
+  {
+   "text": "bir",
+   "start": 66.653,
+   "end": 66.804,
+   "scene": 3
+  },
+  {
+   "text": "fiyat",
+   "start": 66.862,
+   "end": 67.152,
+   "scene": 3
+  },
+  {
+   "text": "aralığı",
+   "start": 67.21,
+   "end": 67.524,
+   "scene": 3
+  },
+  {
+   "text": "belirledi.",
+   "start": 67.57,
+   "end": 68.267,
+   "scene": 3
+  },
+  {
+   "text": "Hisselerin",
+   "start": 68.511,
+   "end": 69.114,
+   "scene": 3
+  },
+  {
+   "text": "bu",
+   "start": 69.172,
+   "end": 69.289,
+   "scene": 3
+  },
+  {
+   "text": "hafta",
+   "start": 69.335,
+   "end": 69.625,
+   "scene": 3
+  },
+  {
+   "text": "işlem",
+   "start": 69.683,
+   "end": 70.008,
+   "scene": 3
+  },
+  {
+   "text": "görmeye",
+   "start": 70.078,
+   "end": 70.426,
+   "scene": 3
+  },
+  {
+   "text": "başlaması",
+   "start": 70.473,
+   "end": 71.007,
+   "scene": 3
+  },
+  {
+   "text": "bekleniyor.",
+   "start": 71.053,
+   "end": 71.645,
+   "scene": 3
+  },
+  {
+   "text": "Aralığın",
+   "start": 71.97,
+   "end": 72.377,
+   "scene": 4
+  },
+  {
+   "text": "üst",
+   "start": 72.458,
+   "end": 72.621,
+   "scene": 4
+  },
+  {
+   "text": "ucunda",
+   "start": 72.69,
+   "end": 73.097,
+   "scene": 4
+  },
+  {
+   "text": "şirketin",
+   "start": 73.271,
+   "end": 73.816,
+   "scene": 4
+  },
+  {
+   "text": "değeri",
+   "start": 73.874,
+   "end": 74.246,
+   "scene": 4
+  },
+  {
+   "text": "yaklaşık",
+   "start": 74.362,
+   "end": 74.931,
+   "scene": 4
+  },
+  {
+   "text": "1,4",
+   "start": 75.047,
+   "end": 75.755,
+   "scene": 4
+  },
+  {
+   "text": "trilyon",
+   "start": 75.906,
+   "end": 76.301,
+   "scene": 4
+  },
+  {
+   "text": "dolar",
+   "start": 76.347,
+   "end": 76.614,
+   "scene": 4
+  },
+  {
+   "text": "ediyor.",
+   "start": 76.672,
+   "end": 77.044,
+   "scene": 4
+  },
+  {
+   "text": "825",
+   "start": 77.369,
+   "end": 78.135,
+   "scene": 4
+  },
+  {
+   "text": "milyon",
+   "start": 78.251,
+   "end": 78.518,
+   "scene": 4
+  },
+  {
+   "text": "hisse",
+   "start": 78.565,
+   "end": 78.809,
+   "scene": 4
+  },
+  {
+   "text": "satılacak;",
+   "start": 78.855,
+   "end": 79.424,
+   "scene": 4
+  },
+  {
+   "text": "bu",
+   "start": 79.459,
+   "end": 79.563,
+   "scene": 4
+  },
+  {
+   "text": "da",
+   "start": 79.61,
+   "end": 79.679,
+   "scene": 4
+  },
+  {
+   "text": "yaklaşık",
+   "start": 79.726,
+   "end": 80.167,
+   "scene": 4
+  },
+  {
+   "text": "64",
+   "start": 80.213,
+   "end": 80.701,
+   "scene": 4
+  },
+  {
+   "text": "milyar",
+   "start": 80.817,
+   "end": 81.107,
+   "scene": 4
+  },
+  {
+   "text": "dolar",
+   "start": 81.165,
+   "end": 81.444,
+   "scene": 4
+  },
+  {
+   "text": "demek",
+   "start": 81.502,
+   "end": 81.827,
+   "scene": 4
+  },
+  {
+   "text": "ve",
+   "start": 82.152,
+   "end": 82.303,
+   "scene": 4
+  },
+  {
+   "text": "tarihin",
+   "start": 82.373,
+   "end": 82.884,
+   "scene": 4
+  },
+  {
+   "text": "en",
+   "start": 82.977,
+   "end": 83.151,
+   "scene": 4
+  },
+  {
+   "text": "büyük",
+   "start": 83.22,
+   "end": 83.441,
+   "scene": 4
+  },
+  {
+   "text": "halka",
+   "start": 83.487,
+   "end": 83.836,
+   "scene": 4
+  },
+  {
+   "text": "arzı",
+   "start": 83.871,
+   "end": 84.172,
+   "scene": 4
+  },
+  {
+   "text": "olabilir.",
+   "start": 84.207,
+   "end": 84.776,
+   "scene": 4
+  },
+  {
+   "text": "Üstelik",
+   "start": 85.101,
+   "end": 85.531,
+   "scene": 4
+  },
+  {
+   "text": "Nvidia,",
+   "start": 85.612,
+   "end": 86.158,
+   "scene": 4
+  },
+  {
+   "text": "Google",
+   "start": 86.239,
+   "end": 86.692,
+   "scene": 4
+  },
+  {
+   "text": "ve",
+   "start": 86.727,
+   "end": 86.82,
+   "scene": 4
+  },
+  {
+   "text": "Microsoft",
+   "start": 86.901,
+   "end": 87.539,
+   "scene": 4
+  },
+  {
+   "text": "gibi",
+   "start": 87.574,
+   "end": 87.783,
+   "scene": 4
+  },
+  {
+   "text": "devler,",
+   "start": 87.83,
+   "end": 88.456,
+   "scene": 4
+  },
+  {
+   "text": "halka",
+   "start": 88.665,
+   "end": 89.071,
+   "scene": 4
+  },
+  {
+   "text": "arz",
+   "start": 89.095,
+   "end": 89.28,
+   "scene": 4
+  },
+  {
+   "text": "fiyatından",
+   "start": 89.327,
+   "end": 89.977,
+   "scene": 4
+  },
+  {
+   "text": "26",
+   "start": 90.302,
+   "end": 90.627,
+   "scene": 4
+  },
+  {
+   "text": "milyar",
+   "start": 90.743,
+   "end": 91.034,
+   "scene": 4
+  },
+  {
+   "text": "dolarlık",
+   "start": 91.092,
+   "end": 91.51,
+   "scene": 4
+  },
+  {
+   "text": "ayrı",
+   "start": 91.591,
+   "end": 91.811,
+   "scene": 4
+  },
+  {
+   "text": "bir",
+   "start": 91.858,
+   "end": 91.951,
+   "scene": 4
+  },
+  {
+   "text": "hisse",
+   "start": 91.974,
+   "end": 92.253,
+   "scene": 4
+  },
+  {
+   "text": "alımı",
+   "start": 92.299,
+   "end": 92.566,
+   "scene": 4
+  },
+  {
+   "text": "yapıyor.",
+   "start": 92.589,
+   "end": 93.112,
+   "scene": 4
+  },
+  {
+   "text": "Üçüncü",
+   "start": 93.437,
+   "end": 93.866,
+   "scene": 5
+  },
+  {
+   "text": "haber",
+   "start": 93.89,
+   "end": 94.157,
+   "scene": 5
+  },
+  {
+   "text": "de",
+   "start": 94.238,
+   "end": 94.296,
+   "scene": 5
+  },
+  {
+   "text": "yapay",
+   "start": 94.354,
+   "end": 94.644,
+   "scene": 5
+  },
+  {
+   "text": "zeka",
+   "start": 94.679,
+   "end": 94.958,
+   "scene": 5
+  },
+  {
+   "text": "parasıyla",
+   "start": 95.016,
+   "end": 95.515,
+   "scene": 5
+  },
+  {
+   "text": "ilgili.",
+   "start": 95.573,
+   "end": 96.095,
+   "scene": 5
+  },
+  {
+   "text": "Bloomberg'e",
+   "start": 96.339,
+   "end": 96.955,
+   "scene": 5
+  },
+  {
+   "text": "göre",
+   "start": 97.013,
+   "end": 97.303,
+   "scene": 5
+  },
+  {
+   "text": "OpenAI,",
+   "start": 97.419,
+   "end": 98.278,
+   "scene": 5
+  },
+  {
+   "text": "1,25",
+   "start": 98.487,
+   "end": 99.474,
+   "scene": 5
+  },
+  {
+   "text": "trilyon",
+   "start": 99.602,
+   "end": 99.985,
+   "scene": 5
+  },
+  {
+   "text": "dolarlık",
+   "start": 100.031,
+   "end": 100.472,
+   "scene": 5
+  },
+  {
+   "text": "değerleme",
+   "start": 100.542,
+   "end": 100.995,
+   "scene": 5
+  },
+  {
+   "text": "üzerinden",
+   "start": 101.041,
+   "end": 101.645,
+   "scene": 5
+  },
+  {
+   "text": "11",
+   "start": 101.924,
+   "end": 102.365,
+   "scene": 5
+  },
+  {
+   "text": "milyar",
+   "start": 102.446,
+   "end": 102.783,
+   "scene": 5
+  },
+  {
+   "text": "dolar",
+   "start": 102.841,
+   "end": 103.096,
+   "scene": 5
+  },
+  {
+   "text": "topladı.",
+   "start": 103.166,
+   "end": 103.746,
+   "scene": 5
+  },
+  {
+   "text": "Ama",
+   "start": 104.072,
+   "end": 104.327,
+   "scene": 5
+  },
+  {
+   "text": "dikkat:",
+   "start": 104.373,
+   "end": 105.024,
+   "scene": 5
+  },
+  {
+   "text": "bu",
+   "start": 105.198,
+   "end": 105.349,
+   "scene": 5
+  },
+  {
+   "text": "tur",
+   "start": 105.407,
+   "end": 105.558,
+   "scene": 5
+  },
+  {
+   "text": "başta",
+   "start": 105.616,
+   "end": 106.15,
+   "scene": 5
+  },
+  {
+   "text": "en",
+   "start": 106.394,
+   "end": 106.533,
+   "scene": 5
+  },
+  {
+   "text": "az",
+   "start": 106.615,
+   "end": 106.765,
+   "scene": 5
+  },
+  {
+   "text": "30",
+   "start": 106.94,
+   "end": 107.149,
+   "scene": 5
+  },
+  {
+   "text": "milyar",
+   "start": 107.241,
+   "end": 107.567,
+   "scene": 5
+  },
+  {
+   "text": "dolar",
+   "start": 107.625,
+   "end": 107.926,
+   "scene": 5
+  },
+  {
+   "text": "ve",
+   "start": 107.984,
+   "end": 108.112,
+   "scene": 5
+  },
+  {
+   "text": "1,4",
+   "start": 108.321,
+   "end": 108.937,
+   "scene": 5
+  },
+  {
+   "text": "trilyon",
+   "start": 109.053,
+   "end": 109.529,
+   "scene": 5
+  },
+  {
+   "text": "dolar",
+   "start": 109.575,
+   "end": 109.865,
+   "scene": 5
+  },
+  {
+   "text": "değerleme",
+   "start": 109.935,
+   "end": 110.411,
+   "scene": 5
+  },
+  {
+   "text": "hedefiyle",
+   "start": 110.457,
+   "end": 110.957,
+   "scene": 5
+  },
+  {
+   "text": "konuşuluyordu.",
+   "start": 111.015,
+   "end": 111.99,
+   "scene": 5
+  },
+  {
+   "text": "Yatırımcı",
+   "start": 112.106,
+   "end": 112.721,
+   "scene": 5
+  },
+  {
+   "text": "ilgisi",
+   "start": 112.791,
+   "end": 113.325,
+   "scene": 5
+  },
+  {
+   "text": "zayıf",
+   "start": 113.453,
+   "end": 113.778,
+   "scene": 5
+  },
+  {
+   "text": "kalınca",
+   "start": 113.859,
+   "end": 114.393,
+   "scene": 5
+  },
+  {
+   "text": "hedef",
+   "start": 114.544,
+   "end": 114.869,
+   "scene": 5
+  },
+  {
+   "text": "küçültüldü.",
+   "start": 114.916,
+   "end": 115.74,
+   "scene": 5
+  },
+  {
+   "text": "Yani",
+   "start": 115.984,
+   "end": 116.355,
+   "scene": 5
+  },
+  {
+   "text": "yapay",
+   "start": 116.413,
+   "end": 116.704,
+   "scene": 5
+  },
+  {
+   "text": "zeka",
+   "start": 116.75,
+   "end": 117.052,
+   "scene": 5
+  },
+  {
+   "text": "değerlemelerinde",
+   "start": 117.122,
+   "end": 118.108,
+   "scene": 5
+  },
+  {
+   "text": "rüzgar",
+   "start": 118.19,
+   "end": 118.584,
+   "scene": 5
+  },
+  {
+   "text": "biraz",
+   "start": 118.642,
+   "end": 118.909,
+   "scene": 5
+  },
+  {
+   "text": "serinliyor.",
+   "start": 118.968,
+   "end": 119.769,
+   "scene": 5
+  },
+  {
+   "text": "Dördüncü",
+   "start": 119.978,
+   "end": 120.488,
+   "scene": 6
+  },
+  {
+   "text": "haber",
+   "start": 120.546,
+   "end": 120.825,
+   "scene": 6
+  },
+  {
+   "text": "Google'dan.",
+   "start": 120.895,
+   "end": 121.568,
+   "scene": 6
+  },
+  {
+   "text": "Google,",
+   "start": 121.742,
+   "end": 122.3,
+   "scene": 6
+  },
+  {
+   "text": "en",
+   "start": 122.451,
+   "end": 122.624,
+   "scene": 6
+  },
+  {
+   "text": "güçlü",
+   "start": 122.671,
+   "end": 122.961,
+   "scene": 6
+  },
+  {
+   "text": "modeli",
+   "start": 122.996,
+   "end": 123.425,
+   "scene": 6
+  },
+  {
+   "text": "Gemini",
+   "start": 123.518,
+   "end": 123.832,
+   "scene": 6
+  },
+  {
+   "text": "4",
+   "start": 123.866,
+   "end": 124.041,
+   "scene": 6
+  },
+  {
+   "text": "Carbon'u",
+   "start": 124.11,
+   "end": 124.575,
+   "scene": 6
+  },
+  {
+   "text": "10",
+   "start": 124.691,
+   "end": 124.865,
+   "scene": 6
+  },
+  {
+   "text": "Kasım'da",
+   "start": 124.935,
+   "end": 125.469,
+   "scene": 6
+  },
+  {
+   "text": "tüm",
+   "start": 125.538,
+   "end": 125.759,
+   "scene": 6
+  },
+  {
+   "text": "ücretli",
+   "start": 125.817,
+   "end": 126.223,
+   "scene": 6
+  },
+  {
+   "text": "API",
+   "start": 126.281,
+   "end": 126.606,
+   "scene": 6
+  },
+  {
+   "text": "müşterilerine",
+   "start": 126.641,
+   "end": 127.315,
+   "scene": 6
+  },
+  {
+   "text": "açtı.",
+   "start": 127.396,
+   "end": 127.93,
+   "scene": 6
+  },
+  {
+   "text": "Model,",
+   "start": 128.104,
+   "end": 128.557,
+   "scene": 6
+  },
+  {
+   "text": "Gemini",
+   "start": 128.638,
+   "end": 128.928,
+   "scene": 6
+  },
+  {
+   "text": "uygulamasında",
+   "start": 128.952,
+   "end": 129.695,
+   "scene": 6
+  },
+  {
+   "text": "ve",
+   "start": 129.753,
+   "end": 129.846,
+   "scene": 6
+  },
+  {
+   "text": "aramadaki",
+   "start": 129.904,
+   "end": 130.484,
+   "scene": 6
+  },
+  {
+   "text": "AI",
+   "start": 130.554,
+   "end": 130.821,
+   "scene": 6
+  },
+  {
+   "text": "Mode'da",
+   "start": 130.891,
+   "end": 131.285,
+   "scene": 6
+  },
+  {
+   "text": "da",
+   "start": 131.343,
+   "end": 131.541,
+   "scene": 6
+  },
+  {
+   "text": "AI",
+   "start": 131.622,
+   "end": 131.901,
+   "scene": 6
+  },
+  {
+   "text": "Ultra",
+   "start": 132.017,
+   "end": 132.295,
+   "scene": 6
+  },
+  {
+   "text": "abonelerine",
+   "start": 132.33,
+   "end": 132.899,
+   "scene": 6
+  },
+  {
+   "text": "geliyor.",
+   "start": 132.957,
+   "end": 133.468,
+   "scene": 6
+  },
+  {
+   "text": "Google'a",
+   "start": 133.712,
+   "end": 134.165,
+   "scene": 7
+  },
+  {
+   "text": "göre",
+   "start": 134.223,
+   "end": 134.582,
+   "scene": 7
+  },
+  {
+   "text": "model,",
+   "start": 134.699,
+   "end": 135.256,
+   "scene": 7
+  },
+  {
+   "text": "uzun",
+   "start": 135.43,
+   "end": 135.72,
+   "scene": 7
+  },
+  {
+   "text": "süren",
+   "start": 135.767,
+   "end": 136.011,
+   "scene": 7
+  },
+  {
+   "text": "ajan",
+   "start": 136.092,
+   "end": 136.347,
+   "scene": 7
+  },
+  {
+   "text": "görevlerinde",
+   "start": 136.394,
+   "end": 137.137,
+   "scene": 7
+  },
+  {
+   "text": "ve",
+   "start": 137.253,
+   "end": 137.439,
+   "scene": 7
+  },
+  {
+   "text": "siber",
+   "start": 137.555,
+   "end": 137.81,
+   "scene": 7
+  },
+  {
+   "text": "güvenlikte",
+   "start": 137.88,
+   "end": 138.367,
+   "scene": 7
+  },
+  {
+   "text": "iddialı.",
+   "start": 138.426,
+   "end": 139.029,
+   "scene": 7
+  },
+  {
+   "text": "Tanıtım",
+   "start": 139.273,
+   "end": 139.668,
+   "scene": 7
+  },
+  {
+   "text": "fiyatı,",
+   "start": 139.726,
+   "end": 140.248,
+   "scene": 7
+  },
+  {
+   "text": "milyon",
+   "start": 140.364,
+   "end": 140.748,
+   "scene": 7
+  },
+  {
+   "text": "giriş",
+   "start": 140.806,
+   "end": 141.038,
+   "scene": 7
+  },
+  {
+   "text": "tokenı",
+   "start": 141.107,
+   "end": 141.409,
+   "scene": 7
+  },
+  {
+   "text": "başına",
+   "start": 141.444,
+   "end": 141.746,
+   "scene": 7
+  },
+  {
+   "text": "2",
+   "start": 141.862,
+   "end": 141.897,
+   "scene": 7
+  },
+  {
+   "text": "dolar;",
+   "start": 141.99,
+   "end": 142.443,
+   "scene": 7
+  },
+  {
+   "text": "ama",
+   "start": 142.617,
+   "end": 142.895,
+   "scene": 7
+  },
+  {
+   "text": "30",
+   "start": 143.046,
+   "end": 143.22,
+   "scene": 7
+  },
+  {
+   "text": "Kasım'dan",
+   "start": 143.337,
+   "end": 143.836,
+   "scene": 7
+  },
+  {
+   "text": "itibaren",
+   "start": 143.905,
+   "end": 144.474,
+   "scene": 7
+  },
+  {
+   "text": "fiyat",
+   "start": 144.683,
+   "end": 144.95,
+   "scene": 7
+  },
+  {
+   "text": "iki",
+   "start": 145.02,
+   "end": 145.148,
+   "scene": 7
+  },
+  {
+   "text": "katına",
+   "start": 145.206,
+   "end": 145.508,
+   "scene": 7
+  },
+  {
+   "text": "çıkıyor.",
+   "start": 145.554,
+   "end": 146.042,
+   "scene": 7
+  },
+  {
+   "text": "Ve",
+   "start": 146.158,
+   "end": 146.239,
+   "scene": 8
+  },
+  {
+   "text": "oyunculara",
+   "start": 146.309,
+   "end": 146.82,
+   "scene": 8
+  },
+  {
+   "text": "gelelim.",
+   "start": 146.866,
+   "end": 147.249,
+   "scene": 8
+  },
+  {
+   "text": "Yılların",
+   "start": 147.296,
+   "end": 147.667,
+   "scene": 8
+  },
+  {
+   "text": "beklediği",
+   "start": 147.702,
+   "end": 148.097,
+   "scene": 8
+  },
+  {
+   "text": "GTA",
+   "start": 148.155,
+   "end": 148.561,
+   "scene": 8
+  },
+  {
+   "text": "altı,",
+   "start": 148.607,
+   "end": 149.06,
+   "scene": 8
+  },
+  {
+   "text": "19",
+   "start": 149.269,
+   "end": 149.618,
+   "scene": 8
+  },
+  {
+   "text": "Kasım'da",
+   "start": 149.71,
+   "end": 150.256,
+   "scene": 8
+  },
+  {
+   "text": "PlayStation",
+   "start": 150.535,
+   "end": 151.197,
+   "scene": 8
+  },
+  {
+   "text": "5",
+   "start": 151.278,
+   "end": 151.487,
+   "scene": 8
+  },
+  {
+   "text": "ve",
+   "start": 151.696,
+   "end": 151.812,
+   "scene": 8
+  },
+  {
+   "text": "Xbox",
+   "start": 151.87,
+   "end": 152.288,
+   "scene": 8
+  },
+  {
+   "text": "Series",
+   "start": 152.323,
+   "end": 152.59,
+   "scene": 8
+  },
+  {
+   "text": "için",
+   "start": 152.648,
+   "end": 152.857,
+   "scene": 8
+  },
+  {
+   "text": "çıkıyor.",
+   "start": 152.904,
+   "end": 153.403,
+   "scene": 8
+  },
+  {
+   "text": "Dijital",
+   "start": 153.577,
+   "end": 154.018,
+   "scene": 8
+  },
+  {
+   "text": "ön",
+   "start": 154.134,
+   "end": 154.25,
+   "scene": 8
+  },
+  {
+   "text": "yükleme",
+   "start": 154.297,
+   "end": 154.808,
+   "scene": 8
+  },
+  {
+   "text": "10",
+   "start": 155.017,
+   "end": 155.214,
+   "scene": 8
+  },
+  {
+   "text": "Kasım'da",
+   "start": 155.272,
+   "end": 155.702,
+   "scene": 8
+  },
+  {
+   "text": "açıldı;",
+   "start": 155.76,
+   "end": 156.282,
+   "scene": 8
+  },
+  {
+   "text": "yani",
+   "start": 156.34,
+   "end": 156.607,
+   "scene": 8
+  },
+  {
+   "text": "şimdiden",
+   "start": 156.642,
+   "end": 157.048,
+   "scene": 8
+  },
+  {
+   "text": "indirmeye",
+   "start": 157.118,
+   "end": 157.536,
+   "scene": 8
+  },
+  {
+   "text": "başlayabilirsiniz.",
+   "start": 157.571,
+   "end": 158.616,
+   "scene": 8
+  },
+  {
+   "text": "Yalnız",
+   "start": 158.999,
+   "end": 159.394,
+   "scene": 9
+  },
+  {
+   "text": "yerinizi",
+   "start": 159.51,
+   "end": 159.928,
+   "scene": 9
+  },
+  {
+   "text": "hazırlayın:",
+   "start": 159.974,
+   "end": 160.52,
+   "scene": 9
+  },
+  {
+   "text": "oyunun",
+   "start": 160.729,
+   "end": 161.042,
+   "scene": 9
+  },
+  {
+   "text": "212",
+   "start": 161.158,
+   "end": 161.82,
+   "scene": 9
+  },
+  {
+   "text": "gigabayta",
+   "start": 161.89,
+   "end": 162.435,
+   "scene": 9
+  },
+  {
+   "text": "kadar",
+   "start": 162.493,
+   "end": 162.749,
+   "scene": 9
+  },
+  {
+   "text": "boş",
+   "start": 162.807,
+   "end": 162.97,
+   "scene": 9
+  },
+  {
+   "text": "alan",
+   "start": 163.028,
+   "end": 163.202,
+   "scene": 9
+  },
+  {
+   "text": "istediği",
+   "start": 163.271,
+   "end": 163.643,
+   "scene": 9
+  },
+  {
+   "text": "bildiriliyor.",
+   "start": 163.689,
+   "end": 164.328,
+   "scene": 9
+  },
+  {
+   "text": "PC",
+   "start": 164.479,
+   "end": 164.734,
+   "scene": 9
+  },
+  {
+   "text": "sürümü",
+   "start": 164.85,
+   "end": 165.164,
+   "scene": 9
+  },
+  {
+   "text": "için",
+   "start": 165.187,
+   "end": 165.408,
+   "scene": 9
+  },
+  {
+   "text": "ise",
+   "start": 165.466,
+   "end": 165.733,
+   "scene": 9
+  },
+  {
+   "text": "henüz",
+   "start": 165.849,
+   "end": 166.127,
+   "scene": 9
+  },
+  {
+   "text": "bir",
+   "start": 166.174,
+   "end": 166.255,
+   "scene": 9
+  },
+  {
+   "text": "tarih",
+   "start": 166.278,
+   "end": 166.603,
+   "scene": 9
+  },
+  {
+   "text": "yok.",
+   "start": 166.673,
+   "end": 166.917,
+   "scene": 9
+  },
+  {
+   "text": "Şimdi",
+   "start": 167.3,
+   "end": 167.578,
+   "scene": 10
+  },
+  {
+   "text": "hemen",
+   "start": 167.625,
+   "end": 167.868,
+   "scene": 10
+  },
+  {
+   "text": "yapmanız",
+   "start": 167.938,
+   "end": 168.356,
+   "scene": 10
+  },
+  {
+   "text": "gereken",
+   "start": 168.403,
+   "end": 168.774,
+   "scene": 10
+  },
+  {
+   "text": "bir",
+   "start": 168.82,
+   "end": 168.902,
+   "scene": 10
+  },
+  {
+   "text": "şey",
+   "start": 168.925,
+   "end": 169.076,
+   "scene": 10
+  },
+  {
+   "text": "var.",
+   "start": 169.111,
+   "end": 169.471,
+   "scene": 10
+  },
+  {
+   "text": "Google",
+   "start": 170.423,
+   "end": 170.759,
+   "scene": 10
+  },
+  {
+   "text": "Chrome'da,",
+   "start": 170.794,
+   "end": 171.398,
+   "scene": 10
+  },
+  {
+   "text": "saldırganların",
+   "start": 171.572,
+   "end": 172.431,
+   "scene": 10
+  },
+  {
+   "text": "aktif",
+   "start": 172.489,
+   "end": 172.791,
+   "scene": 10
+  },
+  {
+   "text": "olarak",
+   "start": 172.872,
+   "end": 173.163,
+   "scene": 10
+  },
+  {
+   "text": "kullandığı",
+   "start": 173.197,
+   "end": 173.743,
+   "scene": 10
+  },
+  {
+   "text": "bir",
+   "start": 173.79,
+   "end": 173.917,
+   "scene": 10
+  },
+  {
+   "text": "sıfırıncı",
+   "start": 173.94,
+   "end": 174.451,
+   "scene": 10
+  },
+  {
+   "text": "gün",
+   "start": 174.475,
+   "end": 174.625,
+   "scene": 10
+  },
+  {
+   "text": "açığı",
+   "start": 174.672,
+   "end": 174.927,
+   "scene": 10
+  },
+  {
+   "text": "kapatıldı.",
+   "start": 174.985,
+   "end": 175.752,
+   "scene": 10
+  },
+  {
+   "text": "Chrome'u",
+   "start": 176.135,
+   "end": 176.576,
+   "scene": 10
+  },
+  {
+   "text": "açın,",
+   "start": 176.657,
+   "end": 177.214,
+   "scene": 10
+  },
+  {
+   "text": "Ayarlar,",
+   "start": 177.389,
+   "end": 178.12,
+   "scene": 10
+  },
+  {
+   "text": "Chrome",
+   "start": 178.294,
+   "end": 178.654,
+   "scene": 10
+  },
+  {
+   "text": "Hakkında'ya",
+   "start": 178.677,
+   "end": 179.235,
+   "scene": 10
+  },
+  {
+   "text": "girin,",
+   "start": 179.293,
+   "end": 179.699,
+   "scene": 10
+  },
+  {
+   "text": "güncelleyin",
+   "start": 179.873,
+   "end": 180.581,
+   "scene": 10
+  },
+  {
+   "text": "ve",
+   "start": 180.756,
+   "end": 180.906,
+   "scene": 10
+  },
+  {
+   "text": "tarayıcıyı",
+   "start": 180.953,
+   "end": 181.499,
+   "scene": 10
+  },
+  {
+   "text": "mutlaka",
+   "start": 181.533,
+   "end": 182.102,
+   "scene": 10
+  },
+  {
+   "text": "yeniden",
+   "start": 182.195,
+   "end": 182.589,
+   "scene": 10
+  },
+  {
+   "text": "başlatın.",
+   "start": 182.648,
+   "end": 183.274,
+   "scene": 10
+  },
+  {
+   "text": "Outlook",
+   "start": 183.716,
+   "end": 184.192,
+   "scene": 11
+  },
+  {
+   "text": "kullanıyorsanız",
+   "start": 184.215,
+   "end": 184.981,
+   "scene": 11
+  },
+  {
+   "text": "dikkat:",
+   "start": 185.039,
+   "end": 185.608,
+   "scene": 11
+  },
+  {
+   "text": "Microsoft",
+   "start": 185.782,
+   "end": 186.421,
+   "scene": 11
+  },
+  {
+   "text": "da",
+   "start": 186.456,
+   "end": 186.514,
+   "scene": 11
+  },
+  {
+   "text": "bu",
+   "start": 186.572,
+   "end": 186.699,
+   "scene": 11
+  },
+  {
+   "text": "ay",
+   "start": 186.757,
+   "end": 186.943,
+   "scene": 11
+  },
+  {
+   "text": "yaklaşık",
+   "start": 187.117,
+   "end": 187.628,
+   "scene": 11
+  },
+  {
+   "text": "1100",
+   "start": 187.721,
+   "end": 188.232,
+   "scene": 11
+  },
+  {
+   "text": "açığı",
+   "start": 188.267,
+   "end": 188.557,
+   "scene": 11
+  },
+  {
+   "text": "kapattı",
+   "start": 188.615,
+   "end": 189.196,
+   "scene": 11
+  },
+  {
+   "text": "ve",
+   "start": 189.405,
+   "end": 189.532,
+   "scene": 11
+  },
+  {
+   "text": "bunlardan",
+   "start": 189.579,
+   "end": 190.136,
+   "scene": 11
+  },
+  {
+   "text": "biri,",
+   "start": 190.182,
+   "end": 190.507,
+   "scene": 11
+  },
+  {
+   "text": "şifre",
+   "start": 190.682,
+   "end": 191.007,
+   "scene": 11
+  },
+  {
+   "text": "özetlerinizi",
+   "start": 191.065,
+   "end": 191.727,
+   "scene": 11
+  },
+  {
+   "text": "sızdırabilen",
+   "start": 191.75,
+   "end": 192.47,
+   "scene": 11
+  },
+  {
+   "text": "bir",
+   "start": 192.528,
+   "end": 192.679,
+   "scene": 11
+  },
+  {
+   "text": "Outlook",
+   "start": 192.771,
+   "end": 193.166,
+   "scene": 11
+  },
+  {
+   "text": "açığı.",
+   "start": 193.236,
+   "end": 193.665,
+   "scene": 11
+  },
+  {
+   "text": "Önemli",
+   "start": 194.049,
+   "end": 194.432,
+   "scene": 11
+  },
+  {
+   "text": "detay:",
+   "start": 194.49,
+   "end": 194.954,
+   "scene": 11
+  },
+  {
+   "text": "Windows",
+   "start": 195.198,
+   "end": 195.639,
+   "scene": 11
+  },
+  {
+   "text": "güncellemesi",
+   "start": 195.697,
+   "end": 196.498,
+   "scene": 11
+  },
+  {
+   "text": "bu",
+   "start": 196.672,
+   "end": 196.835,
+   "scene": 11
+  },
+  {
+   "text": "açığı",
+   "start": 196.905,
+   "end": 197.195,
+   "scene": 11
+  },
+  {
+   "text": "kapatmıyor;",
+   "start": 197.253,
+   "end": 198.042,
+   "scene": 11
+  },
+  {
+   "text": "Office",
+   "start": 198.367,
+   "end": 198.728,
+   "scene": 11
+  },
+  {
+   "text": "güncellemesini",
+   "start": 198.751,
+   "end": 199.587,
+   "scene": 11
+  },
+  {
+   "text": "ayrıca",
+   "start": 199.645,
+   "end": 200.028,
+   "scene": 11
+  },
+  {
+   "text": "yüklemeniz",
+   "start": 200.086,
+   "end": 200.585,
+   "scene": 11
+  },
+  {
+   "text": "gerekiyor.",
+   "start": 200.643,
+   "end": 201.247,
+   "scene": 11
+  },
+  {
+   "text": "Yedinci",
+   "start": 201.572,
+   "end": 201.967,
+   "scene": 12
+  },
+  {
+   "text": "haber:",
+   "start": 202.002,
+   "end": 202.373,
+   "scene": 12
+  },
+  {
+   "text": "İtalya'nın",
+   "start": 202.489,
+   "end": 203.082,
+   "scene": 12
+  },
+  {
+   "text": "veri",
+   "start": 203.128,
+   "end": 203.325,
+   "scene": 12
+  },
+  {
+   "text": "koruma",
+   "start": 203.372,
+   "end": 203.685,
+   "scene": 12
+  },
+  {
+   "text": "kurumu,",
+   "start": 203.743,
+   "end": 204.231,
+   "scene": 12
+  },
+  {
+   "text": "Meta'ya",
+   "start": 204.312,
+   "end": 204.823,
+   "scene": 12
+  },
+  {
+   "text": "805",
+   "start": 204.939,
+   "end": 205.566,
+   "scene": 12
+  },
+  {
+   "text": "milyon",
+   "start": 205.682,
+   "end": 205.926,
+   "scene": 12
+  },
+  {
+   "text": "euro",
+   "start": 205.972,
+   "end": 206.17,
+   "scene": 12
+  },
+  {
+   "text": "ceza",
+   "start": 206.205,
+   "end": 206.495,
+   "scene": 12
+  },
+  {
+   "text": "kesti;",
+   "start": 206.553,
+   "end": 207.087,
+   "scene": 12
+  },
+  {
+   "text": "bu,",
+   "start": 207.331,
+   "end": 207.656,
+   "scene": 12
+  },
+  {
+   "text": "kurumun",
+   "start": 207.679,
+   "end": 208.085,
+   "scene": 12
+  },
+  {
+   "text": "tarihindeki",
+   "start": 208.144,
+   "end": 208.852,
+   "scene": 12
+  },
+  {
+   "text": "en",
+   "start": 208.945,
+   "end": 209.13,
+   "scene": 12
+  },
+  {
+   "text": "büyük",
+   "start": 209.2,
+   "end": 209.386,
+   "scene": 12
+  },
+  {
+   "text": "ceza.",
+   "start": 209.421,
+   "end": 209.966,
+   "scene": 12
+  },
+  {
+   "text": "Sebep:",
+   "start": 210.245,
+   "end": 210.837,
+   "scene": 12
+  },
+  {
+   "text": "Android'deki",
+   "start": 211.081,
+   "end": 211.801,
+   "scene": 12
+  },
+  {
+   "text": "Facebook",
+   "start": 211.859,
+   "end": 212.277,
+   "scene": 12
+  },
+  {
+   "text": "uygulaması,",
+   "start": 212.311,
+   "end": 213.147,
+   "scene": 12
+  },
+  {
+   "text": "tek",
+   "start": 213.298,
+   "end": 213.519,
+   "scene": 12
+  },
+  {
+   "text": "bir",
+   "start": 213.577,
+   "end": 213.681,
+   "scene": 12
+  },
+  {
+   "text": "izinle",
+   "start": 213.728,
+   "end": 214.146,
+   "scene": 12
+  },
+  {
+   "text": "telefon",
+   "start": 214.204,
+   "end": 214.61,
+   "scene": 12
+  },
+  {
+   "text": "galerisindeki",
+   "start": 214.656,
+   "end": 215.272,
+   "scene": 12
+  },
+  {
+   "text": "fotoğraflara,",
+   "start": 215.318,
+   "end": 216.166,
+   "scene": 12
+  },
+  {
+   "text": "videolara",
+   "start": 216.224,
+   "end": 216.862,
+   "scene": 12
+  },
+  {
+   "text": "ve",
+   "start": 216.92,
+   "end": 217.036,
+   "scene": 12
+  },
+  {
+   "text": "bu",
+   "start": 217.094,
+   "end": 217.21,
+   "scene": 12
+  },
+  {
+   "text": "dosyaların",
+   "start": 217.245,
+   "end": 217.803,
+   "scene": 12
+  },
+  {
+   "text": "bilgilerine",
+   "start": 217.861,
+   "end": 218.43,
+   "scene": 12
+  },
+  {
+   "text": "erişiyordu.",
+   "start": 218.476,
+   "end": 219.207,
+   "scene": 12
+  },
+  {
+   "text": "Meta",
+   "start": 219.265,
+   "end": 219.521,
+   "scene": 12
+  },
+  {
+   "text": "kararı",
+   "start": 219.567,
+   "end": 220.043,
+   "scene": 12
+  },
+  {
+   "text": "orantısız",
+   "start": 220.125,
+   "end": 220.705,
+   "scene": 12
+  },
+  {
+   "text": "bulduğunu",
+   "start": 220.763,
+   "end": 221.169,
+   "scene": 12
+  },
+  {
+   "text": "söyledi",
+   "start": 221.204,
+   "end": 221.727,
+   "scene": 12
+  },
+  {
+   "text": "ve",
+   "start": 221.796,
+   "end": 221.924,
+   "scene": 12
+  },
+  {
+   "text": "itiraz",
+   "start": 221.982,
+   "end": 222.4,
+   "scene": 12
+  },
+  {
+   "text": "edecek.",
+   "start": 222.47,
+   "end": 222.946,
+   "scene": 12
+  },
+  {
+   "text": "Ve",
+   "start": 222.992,
+   "end": 223.108,
+   "scene": 13
+  },
+  {
+   "text": "sekizinci",
+   "start": 223.143,
+   "end": 223.642,
+   "scene": 13
+  },
+  {
+   "text": "haber",
+   "start": 223.7,
+   "end": 223.956,
+   "scene": 13
+  },
+  {
+   "text": "Türkiye'den.",
+   "start": 224.026,
+   "end": 224.734,
+   "scene": 13
+  },
+  {
+   "text": "Yurt",
+   "start": 224.861,
+   "end": 225.117,
+   "scene": 13
+  },
+  {
+   "text": "dışından",
+   "start": 225.152,
+   "end": 225.616,
+   "scene": 13
+  },
+  {
+   "text": "telefon",
+   "start": 225.674,
+   "end": 226.092,
+   "scene": 13
+  },
+  {
+   "text": "getirenler",
+   "start": 226.139,
+   "end": 226.696,
+   "scene": 13
+  },
+  {
+   "text": "için",
+   "start": 226.754,
+   "end": 227.056,
+   "scene": 13
+  },
+  {
+   "text": "IMEI",
+   "start": 227.207,
+   "end": 227.613,
+   "scene": 13
+  },
+  {
+   "text": "kayıt",
+   "start": 227.683,
+   "end": 227.985,
+   "scene": 13
+  },
+  {
+   "text": "ücreti,",
+   "start": 228.101,
+   "end": 228.809,
+   "scene": 13
+  },
+  {
+   "text": "2027'de",
+   "start": 229.053,
+   "end": 230.086,
+   "scene": 13
+  },
+  {
+   "text": "yaklaşık",
+   "start": 230.202,
+   "end": 230.806,
+   "scene": 13
+  },
+  {
+   "text": "69",
+   "start": 230.957,
+   "end": 231.7,
+   "scene": 13
+  },
+  {
+   "text": "bin",
+   "start": 231.874,
+   "end": 232.129,
+   "scene": 13
+  },
+  {
+   "text": "358",
+   "start": 232.373,
+   "end": 233.302,
+   "scene": 13
+  },
+  {
+   "text": "liraya",
+   "start": 233.325,
+   "end": 233.604,
+   "scene": 13
+  },
+  {
+   "text": "çıkabilir.",
+   "start": 233.65,
+   "end": 234.289,
+   "scene": 13
+  },
+  {
+   "text": "Bu,",
+   "start": 234.672,
+   "end": 234.986,
+   "scene": 13
+  },
+  {
+   "text": "yeniden",
+   "start": 235.044,
+   "end": 235.485,
+   "scene": 13
+  },
+  {
+   "text": "değerleme",
+   "start": 235.566,
+   "end": 236.1,
+   "scene": 13
+  },
+  {
+   "text": "oranıyla",
+   "start": 236.158,
+   "end": 236.634,
+   "scene": 13
+  },
+  {
+   "text": "yapılan",
+   "start": 236.704,
+   "end": 237.145,
+   "scene": 13
+  },
+  {
+   "text": "bir",
+   "start": 237.215,
+   "end": 237.354,
+   "scene": 13
+  },
+  {
+   "text": "hesap;",
+   "start": 237.377,
+   "end": 237.888,
+   "scene": 13
+  },
+  {
+   "text": "kesin",
+   "start": 238.132,
+   "end": 238.503,
+   "scene": 13
+  },
+  {
+   "text": "rakam",
+   "start": 238.561,
+   "end": 238.921,
+   "scene": 13
+  },
+  {
+   "text": "Resmi",
+   "start": 239.003,
+   "end": 239.351,
+   "scene": 13
+  },
+  {
+   "text": "Gazete'de",
+   "start": 239.421,
+   "end": 239.943,
+   "scene": 13
+  },
+  {
+   "text": "yayımlandığında",
+   "start": 240.024,
+   "end": 240.895,
+   "scene": 13
+  },
+  {
+   "text": "belli",
+   "start": 240.976,
+   "end": 241.278,
+   "scene": 13
+  },
+  {
+   "text": "olacak.",
+   "start": 241.325,
+   "end": 241.859,
+   "scene": 13
+  },
+  {
+   "text": "Bu",
+   "start": 242.137,
+   "end": 242.253,
+   "scene": 14
+  },
+  {
+   "text": "haftalık",
+   "start": 242.3,
+   "end": 242.718,
+   "scene": 14
+  },
+  {
+   "text": "bu",
+   "start": 242.776,
+   "end": 242.845,
+   "scene": 14
+  },
+  {
+   "text": "kadar.",
+   "start": 242.904,
+   "end": 243.356,
+   "scene": 14
+  },
+  {
+   "text": "Sizce",
+   "start": 243.6,
+   "end": 243.879,
+   "scene": 14
+  },
+  {
+   "text": "haftanın",
+   "start": 243.948,
+   "end": 244.424,
+   "scene": 14
+  },
+  {
+   "text": "en",
+   "start": 244.541,
+   "end": 244.68,
+   "scene": 14
+  },
+  {
+   "text": "büyük",
+   "start": 244.738,
+   "end": 244.947,
+   "scene": 14
+  },
+  {
+   "text": "haberi",
+   "start": 244.993,
+   "end": 245.272,
+   "scene": 14
+  },
+  {
+   "text": "hangisiydi?",
+   "start": 245.318,
+   "end": 246.142,
+   "scene": 14
+  },
+  {
+   "text": "Yorumlarda",
+   "start": 246.316,
+   "end": 247.013,
+   "scene": 14
+  },
+  {
+   "text": "buluşalım.",
+   "start": 247.083,
+   "end": 247.791,
+   "scene": 14
+  },
+  {
+   "text": "Videoyu",
+   "start": 248.116,
+   "end": 248.615,
+   "scene": 14
+  },
+  {
+   "text": "beğenmeyi",
+   "start": 248.685,
+   "end": 249.393,
+   "scene": 14
+  },
+  {
+   "text": "ve",
+   "start": 249.567,
+   "end": 249.718,
+   "scene": 14
+  },
+  {
+   "text": "Diploy",
+   "start": 249.776,
+   "end": 250.124,
+   "scene": 14
+  },
+  {
+   "text": "Tivi'ye",
+   "start": 250.183,
+   "end": 250.508,
+   "scene": 14
+  },
+  {
+   "text": "abone",
+   "start": 250.566,
+   "end": 250.879,
+   "scene": 14
+  },
+  {
+   "text": "olmayı",
+   "start": 250.914,
+   "end": 251.274,
+   "scene": 14
+  },
+  {
+   "text": "unutmayın.",
+   "start": 251.32,
+   "end": 251.912,
+   "scene": 14
+  },
+  {
+   "text": "Görüşmek",
+   "start": 252.063,
+   "end": 252.493,
+   "scene": 14
+  },
+  {
+   "text": "üzere!",
+   "start": 252.528,
+   "end": 253.097,
+   "scene": 14
+  }
+ ]
+}

@@ -1,0 +1,1411 @@
+{
+ "fake": false,
+ "model": "eleven_v3",
+ "duration": 106.645,
+ "words": [
+  {
+   "text": "Bitirmeden",
+   "start": 0.136,
+   "end": 0.56,
+   "scene": 0
+  },
+  {
+   "text": "önce,",
+   "start": 0.624,
+   "end": 1.04,
+   "scene": 0
+  },
+  {
+   "text": "haftanın",
+   "start": 1.104,
+   "end": 1.6,
+   "scene": 0
+  },
+  {
+   "text": "hızlı",
+   "start": 1.68,
+   "end": 2.08,
+   "scene": 0
+  },
+  {
+   "text": "turu!",
+   "start": 2.14,
+   "end": 2.48,
+   "scene": 0
+  },
+  {
+   "text": "Birinci",
+   "start": 2.56,
+   "end": 2.96,
+   "scene": 0
+  },
+  {
+   "text": "durak",
+   "start": 3.02,
+   "end": 3.36,
+   "scene": 0
+  },
+  {
+   "text": "YouTube.",
+   "start": 3.44,
+   "end": 4.16,
+   "scene": 0
+  },
+  {
+   "text": "9to5Google'ın",
+   "start": 4.24,
+   "end": 5.2,
+   "scene": 0
+  },
+  {
+   "text": "haberine",
+   "start": 5.24,
+   "end": 5.6,
+   "scene": 0
+  },
+  {
+   "text": "göre",
+   "start": 5.648,
+   "end": 5.84,
+   "scene": 0
+  },
+  {
+   "text": "YouTube,",
+   "start": 5.9,
+   "end": 6.44,
+   "scene": 0
+  },
+  {
+   "text": "son",
+   "start": 6.47,
+   "end": 6.56,
+   "scene": 0
+  },
+  {
+   "text": "on",
+   "start": 6.64,
+   "end": 6.8,
+   "scene": 0
+  },
+  {
+   "text": "yılın",
+   "start": 6.86,
+   "end": 7.12,
+   "scene": 0
+  },
+  {
+   "text": "en",
+   "start": 7.2,
+   "end": 7.36,
+   "scene": 0
+  },
+  {
+   "text": "büyük",
+   "start": 7.4,
+   "end": 7.6,
+   "scene": 0
+  },
+  {
+   "text": "tasarım",
+   "start": 7.64,
+   "end": 7.92,
+   "scene": 0
+  },
+  {
+   "text": "değişikliğini",
+   "start": 7.973,
+   "end": 8.56,
+   "scene": 0
+  },
+  {
+   "text": "yapıyor:",
+   "start": 8.61,
+   "end": 9.2,
+   "scene": 0
+  },
+  {
+   "text": "alttaki",
+   "start": 9.26,
+   "end": 9.6,
+   "scene": 0
+  },
+  {
+   "text": "menü",
+   "start": 9.66,
+   "end": 9.92,
+   "scene": 0
+  },
+  {
+   "text": "değişiyor",
+   "start": 9.947,
+   "end": 10.4,
+   "scene": 0
+  },
+  {
+   "text": "ve",
+   "start": 10.453,
+   "end": 10.56,
+   "scene": 0
+  },
+  {
+   "text": "Abonelikler",
+   "start": 10.613,
+   "end": 11.2,
+   "scene": 0
+  },
+  {
+   "text": "sekmesi,",
+   "start": 11.26,
+   "end": 11.84,
+   "scene": 0
+  },
+  {
+   "text": "ana",
+   "start": 11.88,
+   "end": 12,
+   "scene": 0
+  },
+  {
+   "text": "sayfada",
+   "start": 12.064,
+   "end": 12.48,
+   "scene": 0
+  },
+  {
+   "text": "bir",
+   "start": 12.5,
+   "end": 12.56,
+   "scene": 0
+  },
+  {
+   "text": "kaydırma",
+   "start": 12.62,
+   "end": 13.04,
+   "scene": 0
+  },
+  {
+   "text": "uzağa",
+   "start": 13.08,
+   "end": 13.28,
+   "scene": 0
+  },
+  {
+   "text": "taşınıyor.",
+   "start": 13.34,
+   "end": 13.92,
+   "scene": 0
+  },
+  {
+   "text": "Kullanıcılar",
+   "start": 14,
+   "end": 14.8,
+   "scene": 0
+  },
+  {
+   "text": "pek",
+   "start": 14.84,
+   "end": 14.96,
+   "scene": 0
+  },
+  {
+   "text": "mutlu",
+   "start": 15.013,
+   "end": 15.28,
+   "scene": 0
+  },
+  {
+   "text": "değil.",
+   "start": 15.32,
+   "end": 15.6,
+   "scene": 0
+  },
+  {
+   "text": "Küçük",
+   "start": 15.707,
+   "end": 16,
+   "scene": 0
+  },
+  {
+   "text": "bir",
+   "start": 16.04,
+   "end": 16.16,
+   "scene": 0
+  },
+  {
+   "text": "ipucu:",
+   "start": 16.213,
+   "end": 16.64,
+   "scene": 0
+  },
+  {
+   "text": "uygulama",
+   "start": 16.711,
+   "end": 17.28,
+   "scene": 0
+  },
+  {
+   "text": "simgesine",
+   "start": 17.32,
+   "end": 17.76,
+   "scene": 0
+  },
+  {
+   "text": "basılı",
+   "start": 17.8,
+   "end": 18.08,
+   "scene": 0
+  },
+  {
+   "text": "tutarsanız",
+   "start": 18.12,
+   "end": 18.72,
+   "scene": 0
+  },
+  {
+   "text": "Abonelikler",
+   "start": 18.773,
+   "end": 19.36,
+   "scene": 0
+  },
+  {
+   "text": "kısayolu",
+   "start": 19.413,
+   "end": 19.84,
+   "scene": 0
+  },
+  {
+   "text": "çıkıyor.",
+   "start": 19.88,
+   "end": 20.44,
+   "scene": 0
+  },
+  {
+   "text": "Yorumum:",
+   "start": 20.54,
+   "end": 21.04,
+   "scene": 0
+  },
+  {
+   "text": "platform,",
+   "start": 21.12,
+   "end": 21.96,
+   "scene": 0
+  },
+  {
+   "text": "Shorts'u",
+   "start": 21.989,
+   "end": 22.28,
+   "scene": 0
+  },
+  {
+   "text": "öne",
+   "start": 22.31,
+   "end": 22.4,
+   "scene": 0
+  },
+  {
+   "text": "çıkarmak",
+   "start": 22.44,
+   "end": 22.8,
+   "scene": 0
+  },
+  {
+   "text": "için",
+   "start": 22.848,
+   "end": 23.04,
+   "scene": 0
+  },
+  {
+   "text": "abonelikleri",
+   "start": 23.12,
+   "end": 23.68,
+   "scene": 0
+  },
+  {
+   "text": "biraz",
+   "start": 23.733,
+   "end": 24,
+   "scene": 0
+  },
+  {
+   "text": "saklıyor.",
+   "start": 24.06,
+   "end": 24.64,
+   "scene": 0
+  },
+  {
+   "text": "Yani",
+   "start": 24.752,
+   "end": 25.2,
+   "scene": 0
+  },
+  {
+   "text": "'abone",
+   "start": 25.24,
+   "end": 25.6,
+   "scene": 0
+  },
+  {
+   "text": "olmayı",
+   "start": 25.653,
+   "end": 25.92,
+   "scene": 0
+  },
+  {
+   "text": "unutmayın'",
+   "start": 25.968,
+   "end": 26.48,
+   "scene": 0
+  },
+  {
+   "text": "diyen",
+   "start": 26.5,
+   "end": 26.64,
+   "scene": 0
+  },
+  {
+   "text": "biz",
+   "start": 26.7,
+   "end": 26.88,
+   "scene": 0
+  },
+  {
+   "text": "YouTuber'lar,",
+   "start": 26.94,
+   "end": 27.6,
+   "scene": 0
+  },
+  {
+   "text": "artık",
+   "start": 27.693,
+   "end": 28.16,
+   "scene": 0
+  },
+  {
+   "text": "'abonelikleri",
+   "start": 28.2,
+   "end": 28.72,
+   "scene": 0
+  },
+  {
+   "text": "bulmayı",
+   "start": 28.78,
+   "end": 29.12,
+   "scene": 0
+  },
+  {
+   "text": "unutmayın'",
+   "start": 29.168,
+   "end": 29.6,
+   "scene": 0
+  },
+  {
+   "text": "diyeceğiz!",
+   "start": 29.632,
+   "end": 30.16,
+   "scene": 0
+  },
+  {
+   "text": "İkinci",
+   "start": 30.445,
+   "end": 30.725,
+   "scene": 1
+  },
+  {
+   "text": "durak",
+   "start": 30.765,
+   "end": 31.045,
+   "scene": 1
+  },
+  {
+   "text": "Steam.",
+   "start": 31.138,
+   "end": 31.965,
+   "scene": 1
+  },
+  {
+   "text": "Steam,",
+   "start": 32.025,
+   "end": 32.485,
+   "scene": 1
+  },
+  {
+   "text": "Steam",
+   "start": 32.538,
+   "end": 32.805,
+   "scene": 1
+  },
+  {
+   "text": "Deck",
+   "start": 32.853,
+   "end": 33.045,
+   "scene": 1
+  },
+  {
+   "text": "uyumluluk",
+   "start": 33.072,
+   "end": 33.445,
+   "scene": 1
+  },
+  {
+   "text": "sayfasında",
+   "start": 33.525,
+   "end": 34.245,
+   "scene": 1
+  },
+  {
+   "text": "artık",
+   "start": 34.312,
+   "end": 34.645,
+   "scene": 1
+  },
+  {
+   "text": "oyunların",
+   "start": 34.693,
+   "end": 35.125,
+   "scene": 1
+  },
+  {
+   "text": "gerçek",
+   "start": 35.182,
+   "end": 35.525,
+   "scene": 1
+  },
+  {
+   "text": "oyunculardan",
+   "start": 35.552,
+   "end": 36.085,
+   "scene": 1
+  },
+  {
+   "text": "toplanan",
+   "start": 36.165,
+   "end": 36.645,
+   "scene": 1
+  },
+  {
+   "text": "ortalama",
+   "start": 36.716,
+   "end": 37.285,
+   "scene": 1
+  },
+  {
+   "text": "FPS",
+   "start": 37.405,
+   "end": 37.765,
+   "scene": 1
+  },
+  {
+   "text": "değerlerini",
+   "start": 37.805,
+   "end": 38.245,
+   "scene": 1
+  },
+  {
+   "text": "gösteriyor.",
+   "start": 38.302,
+   "end": 38.885,
+   "scene": 1
+  },
+  {
+   "text": "Veriler,",
+   "start": 38.985,
+   "end": 39.605,
+   "scene": 1
+  },
+  {
+   "text": "anonim",
+   "start": 39.669,
+   "end": 40.005,
+   "scene": 1
+  },
+  {
+   "text": "paylaşıma",
+   "start": 40.045,
+   "end": 40.485,
+   "scene": 1
+  },
+  {
+   "text": "izin",
+   "start": 40.533,
+   "end": 40.725,
+   "scene": 1
+  },
+  {
+   "text": "veren",
+   "start": 40.778,
+   "end": 41.045,
+   "scene": 1
+  },
+  {
+   "text": "Deck",
+   "start": 41.077,
+   "end": 41.205,
+   "scene": 1
+  },
+  {
+   "text": "sahiplerinden",
+   "start": 41.285,
+   "end": 42.005,
+   "scene": 1
+  },
+  {
+   "text": "geliyor",
+   "start": 42.055,
+   "end": 42.405,
+   "scene": 1
+  },
+  {
+   "text": "ve",
+   "start": 42.512,
+   "end": 42.725,
+   "scene": 1
+  },
+  {
+   "text": "binlerce",
+   "start": 42.765,
+   "end": 43.205,
+   "scene": 1
+  },
+  {
+   "text": "oyunda",
+   "start": 43.232,
+   "end": 43.525,
+   "scene": 1
+  },
+  {
+   "text": "şimdiden",
+   "start": 43.565,
+   "end": 44.005,
+   "scene": 1
+  },
+  {
+   "text": "var.",
+   "start": 44.105,
+   "end": 44.605,
+   "scene": 1
+  },
+  {
+   "text": "Yorumum:",
+   "start": 44.705,
+   "end": 45.365,
+   "scene": 1
+  },
+  {
+   "text": "bu,",
+   "start": 45.445,
+   "end": 45.805,
+   "scene": 1
+  },
+  {
+   "text": "satın",
+   "start": 45.838,
+   "end": 46.005,
+   "scene": 1
+  },
+  {
+   "text": "almadan",
+   "start": 46.058,
+   "end": 46.405,
+   "scene": 1
+  },
+  {
+   "text": "önce",
+   "start": 46.485,
+   "end": 46.805,
+   "scene": 1
+  },
+  {
+   "text": "'bu",
+   "start": 46.845,
+   "end": 46.965,
+   "scene": 1
+  },
+  {
+   "text": "oyun",
+   "start": 47.029,
+   "end": 47.285,
+   "scene": 1
+  },
+  {
+   "text": "bende",
+   "start": 47.325,
+   "end": 47.605,
+   "scene": 1
+  },
+  {
+   "text": "çalışır",
+   "start": 47.658,
+   "end": 48.005,
+   "scene": 1
+  },
+  {
+   "text": "mı'",
+   "start": 48.058,
+   "end": 48.245,
+   "scene": 1
+  },
+  {
+   "text": "sorusuna",
+   "start": 48.265,
+   "end": 48.645,
+   "scene": 1
+  },
+  {
+   "text": "gerçek",
+   "start": 48.714,
+   "end": 49.125,
+   "scene": 1
+  },
+  {
+   "text": "veriyle",
+   "start": 49.165,
+   "end": 49.445,
+   "scene": 1
+  },
+  {
+   "text": "cevap",
+   "start": 49.498,
+   "end": 49.765,
+   "scene": 1
+  },
+  {
+   "text": "demek.",
+   "start": 49.818,
+   "end": 50.285,
+   "scene": 1
+  },
+  {
+   "text": "Ve",
+   "start": 50.352,
+   "end": 50.485,
+   "scene": 1
+  },
+  {
+   "text": "'bende",
+   "start": 50.565,
+   "end": 50.885,
+   "scene": 1
+  },
+  {
+   "text": "akıyor",
+   "start": 50.965,
+   "end": 51.285,
+   "scene": 1
+  },
+  {
+   "text": "abi'",
+   "start": 51.345,
+   "end": 51.605,
+   "scene": 1
+  },
+  {
+   "text": "diyen",
+   "start": 51.665,
+   "end": 51.925,
+   "scene": 1
+  },
+  {
+   "text": "arkadaşınızın",
+   "start": 51.985,
+   "end": 52.645,
+   "scene": 1
+  },
+  {
+   "text": "yalanı,",
+   "start": 52.685,
+   "end": 53.125,
+   "scene": 1
+  },
+  {
+   "text": "artık",
+   "start": 53.218,
+   "end": 53.685,
+   "scene": 1
+  },
+  {
+   "text": "istatistikle",
+   "start": 53.745,
+   "end": 54.405,
+   "scene": 1
+  },
+  {
+   "text": "çürütülebiliyor!",
+   "start": 54.485,
+   "end": 55.285,
+   "scene": 1
+  },
+  {
+   "text": "Üçüncü",
+   "start": 55.418,
+   "end": 55.925,
+   "scene": 2
+  },
+  {
+   "text": "durak",
+   "start": 55.945,
+   "end": 56.245,
+   "scene": 2
+  },
+  {
+   "text": "Paris.",
+   "start": 56.352,
+   "end": 56.965,
+   "scene": 2
+  },
+  {
+   "text": "Xiaomi,",
+   "start": 57.056,
+   "end": 57.685,
+   "scene": 2
+  },
+  {
+   "text": "18",
+   "start": 57.765,
+   "end": 58.165,
+   "scene": 2
+  },
+  {
+   "text": "Pro",
+   "start": 58.245,
+   "end": 58.485,
+   "scene": 2
+  },
+  {
+   "text": "ve",
+   "start": 58.538,
+   "end": 58.645,
+   "scene": 2
+  },
+  {
+   "text": "18",
+   "start": 58.725,
+   "end": 59.125,
+   "scene": 2
+  },
+  {
+   "text": "Pro",
+   "start": 59.185,
+   "end": 59.365,
+   "scene": 2
+  },
+  {
+   "text": "Max'i",
+   "start": 59.465,
+   "end": 59.845,
+   "scene": 2
+  },
+  {
+   "text": "17",
+   "start": 60.005,
+   "end": 60.405,
+   "scene": 2
+  },
+  {
+   "text": "Kasım'da",
+   "start": 60.445,
+   "end": 60.965,
+   "scene": 2
+  },
+  {
+   "text": "Paris'te",
+   "start": 61.005,
+   "end": 61.405,
+   "scene": 2
+  },
+  {
+   "text": "tüm",
+   "start": 61.435,
+   "end": 61.525,
+   "scene": 2
+  },
+  {
+   "text": "dünyaya",
+   "start": 61.573,
+   "end": 62.005,
+   "scene": 2
+  },
+  {
+   "text": "tanıtıyor.",
+   "start": 62.053,
+   "end": 62.565,
+   "scene": 2
+  },
+  {
+   "text": "Sızdırılan",
+   "start": 62.765,
+   "end": 63.365,
+   "scene": 2
+  },
+  {
+   "text": "Avrupa",
+   "start": 63.422,
+   "end": 63.765,
+   "scene": 2
+  },
+  {
+   "text": "fiyatları",
+   "start": 63.818,
+   "end": 64.325,
+   "scene": 2
+  },
+  {
+   "text": "1449",
+   "start": 64.405,
+   "end": 65.485,
+   "scene": 2
+  },
+  {
+   "text": "eurodan",
+   "start": 65.509,
+   "end": 65.765,
+   "scene": 2
+  },
+  {
+   "text": "başlıyor,",
+   "start": 65.825,
+   "end": 66.245,
+   "scene": 2
+  },
+  {
+   "text": "ama",
+   "start": 66.345,
+   "end": 66.645,
+   "scene": 2
+  },
+  {
+   "text": "resmi",
+   "start": 66.698,
+   "end": 66.965,
+   "scene": 2
+  },
+  {
+   "text": "fiyatlar",
+   "start": 67.018,
+   "end": 67.365,
+   "scene": 2
+  },
+  {
+   "text": "henüz",
+   "start": 67.405,
+   "end": 67.605,
+   "scene": 2
+  },
+  {
+   "text": "açıklanmadı.",
+   "start": 67.658,
+   "end": 68.405,
+   "scene": 2
+  },
+  {
+   "text": "Avrupa",
+   "start": 68.496,
+   "end": 69.045,
+   "scene": 2
+  },
+  {
+   "text": "sürümünün",
+   "start": 69.085,
+   "end": 69.525,
+   "scene": 2
+  },
+  {
+   "text": "bataryasının",
+   "start": 69.565,
+   "end": 70.245,
+   "scene": 2
+  },
+  {
+   "text": "Çin",
+   "start": 70.305,
+   "end": 70.485,
+   "scene": 2
+  },
+  {
+   "text": "sürümünden",
+   "start": 70.525,
+   "end": 71.045,
+   "scene": 2
+  },
+  {
+   "text": "küçük",
+   "start": 71.085,
+   "end": 71.285,
+   "scene": 2
+  },
+  {
+   "text": "olduğu",
+   "start": 71.331,
+   "end": 71.605,
+   "scene": 2
+  },
+  {
+   "text": "da",
+   "start": 71.632,
+   "end": 71.685,
+   "scene": 2
+  },
+  {
+   "text": "konuşuluyor.",
+   "start": 71.752,
+   "end": 72.485,
+   "scene": 2
+  },
+  {
+   "text": "Yorumum:",
+   "start": 72.645,
+   "end": 73.325,
+   "scene": 2
+  },
+  {
+   "text": "amiral",
+   "start": 73.392,
+   "end": 73.765,
+   "scene": 2
+  },
+  {
+   "text": "gemisi",
+   "start": 73.805,
+   "end": 74.085,
+   "scene": 2
+  },
+  {
+   "text": "telefonlar",
+   "start": 74.145,
+   "end": 74.725,
+   "scene": 2
+  },
+  {
+   "text": "sessiz",
+   "start": 74.794,
+   "end": 75.205,
+   "scene": 2
+  },
+  {
+   "text": "sedasız",
+   "start": 75.245,
+   "end": 75.685,
+   "scene": 2
+  },
+  {
+   "text": "bin",
+   "start": 75.745,
+   "end": 75.925,
+   "scene": 2
+  },
+  {
+   "text": "beş",
+   "start": 75.985,
+   "end": 76.165,
+   "scene": 2
+  },
+  {
+   "text": "yüz",
+   "start": 76.185,
+   "end": 76.245,
+   "scene": 2
+  },
+  {
+   "text": "euro",
+   "start": 76.293,
+   "end": 76.485,
+   "scene": 2
+  },
+  {
+   "text": "bandına",
+   "start": 76.533,
+   "end": 76.885,
+   "scene": 2
+  },
+  {
+   "text": "tırmanıyor.",
+   "start": 76.925,
+   "end": 77.525,
+   "scene": 2
+  },
+  {
+   "text": "Yakında",
+   "start": 77.981,
+   "end": 78.245,
+   "scene": 2
+  },
+  {
+   "text": "telefon",
+   "start": 78.295,
+   "end": 78.645,
+   "scene": 2
+  },
+  {
+   "text": "fiyatlarını",
+   "start": 78.698,
+   "end": 79.125,
+   "scene": 2
+  },
+  {
+   "text": "taksitle",
+   "start": 79.205,
+   "end": 79.685,
+   "scene": 2
+  },
+  {
+   "text": "değil,",
+   "start": 79.725,
+   "end": 80.005,
+   "scene": 2
+  },
+  {
+   "text": "kredi",
+   "start": 80.058,
+   "end": 80.325,
+   "scene": 2
+  },
+  {
+   "text": "faiziyle",
+   "start": 80.378,
+   "end": 80.805,
+   "scene": 2
+  },
+  {
+   "text": "konuşacağız",
+   "start": 80.858,
+   "end": 81.365,
+   "scene": 2
+  },
+  {
+   "text": "gibi.",
+   "start": 81.429,
+   "end": 81.885,
+   "scene": 2
+  },
+  {
+   "text": "Ve",
+   "start": 81.952,
+   "end": 82.085,
+   "scene": 3
+  },
+  {
+   "text": "son",
+   "start": 82.165,
+   "end": 82.405,
+   "scene": 3
+  },
+  {
+   "text": "durak",
+   "start": 82.445,
+   "end": 82.725,
+   "scene": 3
+  },
+  {
+   "text": "uzay.",
+   "start": 82.832,
+   "end": 83.725,
+   "scene": 3
+  },
+  {
+   "text": "Avrupa",
+   "start": 83.776,
+   "end": 84.085,
+   "scene": 3
+  },
+  {
+   "text": "ve",
+   "start": 84.112,
+   "end": 84.165,
+   "scene": 3
+  },
+  {
+   "text": "Japonya'nın",
+   "start": 84.225,
+   "end": 84.805,
+   "scene": 3
+  },
+  {
+   "text": "ortak",
+   "start": 84.872,
+   "end": 85.205,
+   "scene": 3
+  },
+  {
+   "text": "görevi",
+   "start": 85.258,
+   "end": 85.605,
+   "scene": 3
+  },
+  {
+   "text": "BepiColombo,",
+   "start": 85.645,
+   "end": 86.565,
+   "scene": 3
+  },
+  {
+   "text": "21",
+   "start": 86.645,
+   "end": 87.045,
+   "scene": 3
+  },
+  {
+   "text": "Kasım'da",
+   "start": 87.085,
+   "end": 87.445,
+   "scene": 3
+  },
+  {
+   "text": "Merkür",
+   "start": 87.509,
+   "end": 87.845,
+   "scene": 3
+  },
+  {
+   "text": "yörüngesine",
+   "start": 87.885,
+   "end": 88.405,
+   "scene": 3
+  },
+  {
+   "text": "giriyor.",
+   "start": 88.445,
+   "end": 88.805,
+   "scene": 3
+  },
+  {
+   "text": "2018'de",
+   "start": 89.205,
+   "end": 90.005,
+   "scene": 3
+  },
+  {
+   "text": "fırlatılmıştı",
+   "start": 90.045,
+   "end": 90.805,
+   "scene": 3
+  },
+  {
+   "text": "ve",
+   "start": 90.858,
+   "end": 90.965,
+   "scene": 3
+  },
+  {
+   "text": "itici",
+   "start": 91.018,
+   "end": 91.285,
+   "scene": 3
+  },
+  {
+   "text": "sorunları",
+   "start": 91.338,
+   "end": 91.765,
+   "scene": 3
+  },
+  {
+   "text": "yüzünden",
+   "start": 91.805,
+   "end": 92.245,
+   "scene": 3
+  },
+  {
+   "text": "yaklaşık",
+   "start": 92.289,
+   "end": 92.645,
+   "scene": 3
+  },
+  {
+   "text": "bir",
+   "start": 92.705,
+   "end": 92.885,
+   "scene": 3
+  },
+  {
+   "text": "yıl",
+   "start": 92.925,
+   "end": 93.045,
+   "scene": 3
+  },
+  {
+   "text": "gecikti.",
+   "start": 93.105,
+   "end": 93.605,
+   "scene": 3
+  },
+  {
+   "text": "Sekiz",
+   "start": 93.745,
+   "end": 94.245,
+   "scene": 3
+  },
+  {
+   "text": "yıl",
+   "start": 94.285,
+   "end": 94.405,
+   "scene": 3
+  },
+  {
+   "text": "yol,",
+   "start": 94.505,
+   "end": 94.965,
+   "scene": 3
+  },
+  {
+   "text": "bir",
+   "start": 94.985,
+   "end": 95.045,
+   "scene": 3
+  },
+  {
+   "text": "yıl",
+   "start": 95.105,
+   "end": 95.285,
+   "scene": 3
+  },
+  {
+   "text": "rötar...",
+   "start": 95.325,
+   "end": 96.165,
+   "scene": 3
+  },
+  {
+   "text": "Uzay",
+   "start": 96.232,
+   "end": 96.405,
+   "scene": 3
+  },
+  {
+   "text": "aracı",
+   "start": 96.458,
+   "end": 96.725,
+   "scene": 3
+  },
+  {
+   "text": "değil,",
+   "start": 96.765,
+   "end": 96.966,
+   "scene": 3
+  },
+  {
+   "text": "sanki",
+   "start": 97.032,
+   "end": 97.365,
+   "scene": 3
+  },
+  {
+   "text": "aktarmalı",
+   "start": 97.425,
+   "end": 97.925,
+   "scene": 3
+  },
+  {
+   "text": "otobüs!",
+   "start": 97.978,
+   "end": 98.485,
+   "scene": 3
+  },
+  {
+   "text": "Ama",
+   "start": 98.625,
+   "end": 99.045,
+   "scene": 3
+  },
+  {
+   "text": "şakası",
+   "start": 99.085,
+   "end": 99.445,
+   "scene": 3
+  },
+  {
+   "text": "bir",
+   "start": 99.465,
+   "end": 99.525,
+   "scene": 3
+  },
+  {
+   "text": "yana,",
+   "start": 99.573,
+   "end": 99.925,
+   "scene": 3
+  },
+  {
+   "text": "Merkür",
+   "start": 99.989,
+   "end": 100.325,
+   "scene": 3
+  },
+  {
+   "text": "yörüngesine",
+   "start": 100.365,
+   "end": 100.885,
+   "scene": 3
+  },
+  {
+   "text": "girmek",
+   "start": 100.925,
+   "end": 101.205,
+   "scene": 3
+  },
+  {
+   "text": "Güneş",
+   "start": 101.285,
+   "end": 101.605,
+   "scene": 3
+  },
+  {
+   "text": "Sistemi'nin",
+   "start": 101.653,
+   "end": 102.085,
+   "scene": 3
+  },
+  {
+   "text": "en",
+   "start": 102.192,
+   "end": 102.405,
+   "scene": 3
+  },
+  {
+   "text": "zor",
+   "start": 102.445,
+   "end": 102.565,
+   "scene": 3
+  },
+  {
+   "text": "manevralarından",
+   "start": 102.625,
+   "end": 103.365,
+   "scene": 3
+  },
+  {
+   "text": "biri.",
+   "start": 103.429,
+   "end": 103.765,
+   "scene": 3
+  },
+  {
+   "text": "Bu",
+   "start": 103.872,
+   "end": 104.085,
+   "scene": 3
+  },
+  {
+   "text": "cumartesi",
+   "start": 104.125,
+   "end": 104.725,
+   "scene": 3
+  },
+  {
+   "text": "parmaklarımızı",
+   "start": 104.785,
+   "end": 105.565,
+   "scene": 3
+  },
+  {
+   "text": "çapraz",
+   "start": 105.595,
+   "end": 105.925,
+   "scene": 3
+  },
+  {
+   "text": "yapıyoruz.",
+   "start": 105.975,
+   "end": 106.645,
+   "scene": 3
+  }
+ ]
+}

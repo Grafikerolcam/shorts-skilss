@@ -1,0 +1,840 @@
+{
+ "date": "17 KASIM 2026",
+ "scenes": [
+  {
+   "text": "[excited] Ve robotik! Google DeepMind, 10 Kasım'da Gemini Robotics 2.5'i tanıttı. Asıl ilginç kısmı şu: model, Apptronik'in Apollo 2 insansı robotlarıyla Mercedes-Benz'in Macaristan ve Almanya'daki fabrikalarında test edildi. Robotlar kutulardan metal araç parçalarını alıp sıralama kaplarına yerleştirdi ve DeepMind'ın açıkladığı başarı oranı yüzde 96.",
+   "tag": "ROBOTİK",
+   "headline": "İNSANSI ROBOTLAR MERCEDES FABRİKASINDA",
+   "title": "ROBOTLAR FABRİKADA",
+   "accent": "#00ADEF",
+   "img": "mercedes-logo.svg",
+   "fit": "contain",
+   "imgBg": "#F4F6FA",
+   "src": "Kaynak: Google DeepMind · Interesting Engineering · Autocar",
+   "items": [
+    {
+     "k": "chip",
+     "at": "gemini",
+     "t": "🧠 Gemini Robotics 2.5"
+    },
+    {
+     "k": "chip",
+     "at": "apollo",
+     "t": "🤖 Apptronik Apollo 2 insansı robot"
+    },
+    {
+     "k": "chip",
+     "at": "macaristan",
+     "t": "🏭 Mercedes · Macaristan + Almanya"
+    },
+    {
+     "k": "big",
+     "at": "96",
+     "to": 96,
+     "pre": "%",
+     "suf": "",
+     "label": "başarı oranı (DeepMind'ın açıklaması)",
+     "color": "#2ECC71"
+    }
+   ]
+  },
+  {
+   "text": "Yorumum: yüzde 96 kulağa harika geliyor, değil mi? Ama madalyonun öbür yüzü de var. Aynı işi yapan bir insan neredeyse hiç hata yapmıyor. Yüz parçanın dördünü yanlış yere koyan bir çalışanı düşünün; [laughs] ustabaşı çoktan çay ocağına göndermişti! DeepMind'ın kendi grafiklerinde daha karmaşık, çok adımlı görevlerde başarı yüzde 40 ile 75 arasında kalıyor. Yani robotlar fabrikaya girdi, ama henüz stajyer. Bence asıl büyük haber, Runway'in modeli açması: robot beyni artık birkaç dev şirketin kasasında değil, herkesin bilgisayarında. Önümüzdeki iki yılda küçük girişimlerden çok şaşırtıcı robotlar göreceğiz.",
+   "tag": "YORUM",
+   "headline": "ROBOTLAR FABRİKADA AMA HENÜZ STAJYER",
+   "title": "💬 YORUMUM",
+   "accent": "#FFD23F",
+   "yorum": true,
+   "items": [
+    {
+     "k": "quote",
+     "at": "madalyonun",
+     "t": "%96 harika… ama insan neredeyse hiç hata yapmıyor."
+    },
+    {
+     "k": "quote",
+     "at": "stajyer",
+     "t": "Robotlar fabrikaya girdi, ama henüz stajyer. 👷"
+    },
+    {
+     "k": "quote",
+     "at": "herkesin",
+     "t": "Asıl haber: robot beyni artık herkesin bilgisayarında."
+    }
+   ]
+  }
+ ],
+ "voice": {
+  "duration": 61.923,
+  "words": [
+   {
+    "text": "Ve",
+    "start": 0.25,
+    "end": 0.263,
+    "scene": 0
+   },
+   {
+    "text": "robotik!",
+    "start": 0.33,
+    "end": 1.183,
+    "scene": 0
+   },
+   {
+    "text": "Google",
+    "start": 1.223,
+    "end": 1.463,
+    "scene": 0
+   },
+   {
+    "text": "DeepMind,",
+    "start": 1.527,
+    "end": 2.183,
+    "scene": 0
+   },
+   {
+    "text": "10",
+    "start": 2.263,
+    "end": 2.343,
+    "scene": 0
+   },
+   {
+    "text": "Kasım'da",
+    "start": 2.396,
+    "end": 2.903,
+    "scene": 0
+   },
+   {
+    "text": "Gemini",
+    "start": 2.972,
+    "end": 3.383,
+    "scene": 0
+   },
+   {
+    "text": "Robotics",
+    "start": 3.445,
+    "end": 3.943,
+    "scene": 0
+   },
+   {
+    "text": "2.5'i",
+    "start": 4.023,
+    "end": 4.423,
+    "scene": 0
+   },
+   {
+    "text": "tanıttı.",
+    "start": 4.487,
+    "end": 5.063,
+    "scene": 0
+   },
+   {
+    "text": "Asıl",
+    "start": 5.17,
+    "end": 5.543,
+    "scene": 0
+   },
+   {
+    "text": "ilginç",
+    "start": 5.57,
+    "end": 5.863,
+    "scene": 0
+   },
+   {
+    "text": "kısmı",
+    "start": 5.916,
+    "end": 6.183,
+    "scene": 0
+   },
+   {
+    "text": "şu:",
+    "start": 6.263,
+    "end": 6.743,
+    "scene": 0
+   },
+   {
+    "text": "model,",
+    "start": 6.796,
+    "end": 7.143,
+    "scene": 0
+   },
+   {
+    "text": "Apptronik'in",
+    "start": 7.223,
+    "end": 7.863,
+    "scene": 0
+   },
+   {
+    "text": "Apollo",
+    "start": 7.932,
+    "end": 8.343,
+    "scene": 0
+   },
+   {
+    "text": "2",
+    "start": 8.423,
+    "end": 8.583,
+    "scene": 0
+   },
+   {
+    "text": "insansı",
+    "start": 8.643,
+    "end": 9.063,
+    "scene": 0
+   },
+   {
+    "text": "robotlarıyla",
+    "start": 9.116,
+    "end": 9.943,
+    "scene": 0
+   },
+   {
+    "text": "Mercedes-Benz'in",
+    "start": 10.032,
+    "end": 11.143,
+    "scene": 0
+   },
+   {
+    "text": "Macaristan",
+    "start": 11.223,
+    "end": 11.943,
+    "scene": 0
+   },
+   {
+    "text": "ve",
+    "start": 11.97,
+    "end": 12.023,
+    "scene": 0
+   },
+   {
+    "text": "Almanya'daki",
+    "start": 12.083,
+    "end": 12.743,
+    "scene": 0
+   },
+   {
+    "text": "fabrikalarında",
+    "start": 12.803,
+    "end": 13.463,
+    "scene": 0
+   },
+   {
+    "text": "test",
+    "start": 13.511,
+    "end": 13.703,
+    "scene": 0
+   },
+   {
+    "text": "edildi.",
+    "start": 13.76,
+    "end": 14.183,
+    "scene": 0
+   },
+   {
+    "text": "Robotlar",
+    "start": 14.29,
+    "end": 14.983,
+    "scene": 0
+   },
+   {
+    "text": "kutulardan",
+    "start": 15.043,
+    "end": 15.623,
+    "scene": 0
+   },
+   {
+    "text": "metal",
+    "start": 15.676,
+    "end": 15.943,
+    "scene": 0
+   },
+   {
+    "text": "araç",
+    "start": 15.991,
+    "end": 16.183,
+    "scene": 0
+   },
+   {
+    "text": "parçalarını",
+    "start": 16.247,
+    "end": 16.823,
+    "scene": 0
+   },
+   {
+    "text": "alıp",
+    "start": 16.887,
+    "end": 17.143,
+    "scene": 0
+   },
+   {
+    "text": "sıralama",
+    "start": 17.223,
+    "end": 17.623,
+    "scene": 0
+   },
+   {
+    "text": "kaplarına",
+    "start": 17.683,
+    "end": 18.183,
+    "scene": 0
+   },
+   {
+    "text": "yerleştirdi",
+    "start": 18.223,
+    "end": 18.903,
+    "scene": 0
+   },
+   {
+    "text": "ve",
+    "start": 19.063,
+    "end": 19.383,
+    "scene": 0
+   },
+   {
+    "text": "DeepMind'ın",
+    "start": 19.431,
+    "end": 19.943,
+    "scene": 0
+   },
+   {
+    "text": "açıkladığı",
+    "start": 19.996,
+    "end": 20.423,
+    "scene": 0
+   },
+   {
+    "text": "başarı",
+    "start": 20.48,
+    "end": 20.823,
+    "scene": 0
+   },
+   {
+    "text": "oranı",
+    "start": 20.89,
+    "end": 21.223,
+    "scene": 0
+   },
+   {
+    "text": "yüzde",
+    "start": 21.276,
+    "end": 21.543,
+    "scene": 0
+   },
+   {
+    "text": "96.",
+    "start": 21.623,
+    "end": 22.343,
+    "scene": 0
+   },
+   {
+    "text": "Yorumum:",
+    "start": 23.043,
+    "end": 23.603,
+    "scene": 1
+   },
+   {
+    "text": "yüzde",
+    "start": 23.71,
+    "end": 24.243,
+    "scene": 1
+   },
+   {
+    "text": "96",
+    "start": 24.563,
+    "end": 24.883,
+    "scene": 1
+   },
+   {
+    "text": "kulağa",
+    "start": 24.923,
+    "end": 25.203,
+    "scene": 1
+   },
+   {
+    "text": "harika",
+    "start": 25.263,
+    "end": 25.603,
+    "scene": 1
+   },
+   {
+    "text": "geliyor,",
+    "start": 25.643,
+    "end": 26.003,
+    "scene": 1
+   },
+   {
+    "text": "değil",
+    "start": 26.016,
+    "end": 26.083,
+    "scene": 1
+   },
+   {
+    "text": "mi?",
+    "start": 26.136,
+    "end": 26.323,
+    "scene": 1
+   },
+   {
+    "text": "Ama",
+    "start": 26.463,
+    "end": 26.883,
+    "scene": 1
+   },
+   {
+    "text": "madalyonun",
+    "start": 26.943,
+    "end": 27.443,
+    "scene": 1
+   },
+   {
+    "text": "öbür",
+    "start": 27.483,
+    "end": 27.683,
+    "scene": 1
+   },
+   {
+    "text": "yüzü",
+    "start": 27.723,
+    "end": 27.923,
+    "scene": 1
+   },
+   {
+    "text": "de",
+    "start": 27.976,
+    "end": 28.083,
+    "scene": 1
+   },
+   {
+    "text": "var.",
+    "start": 28.143,
+    "end": 28.403,
+    "scene": 1
+   },
+   {
+    "text": "Aynı",
+    "start": 28.515,
+    "end": 28.963,
+    "scene": 1
+   },
+   {
+    "text": "işi",
+    "start": 29.023,
+    "end": 29.203,
+    "scene": 1
+   },
+   {
+    "text": "yapan",
+    "start": 29.256,
+    "end": 29.523,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 29.563,
+    "end": 29.683,
+    "scene": 1
+   },
+   {
+    "text": "insan",
+    "start": 29.736,
+    "end": 30.003,
+    "scene": 1
+   },
+   {
+    "text": "neredeyse",
+    "start": 30.067,
+    "end": 30.643,
+    "scene": 1
+   },
+   {
+    "text": "hiç",
+    "start": 30.683,
+    "end": 30.803,
+    "scene": 1
+   },
+   {
+    "text": "hata",
+    "start": 30.843,
+    "end": 31.123,
+    "scene": 1
+   },
+   {
+    "text": "yapmıyor.",
+    "start": 31.183,
+    "end": 31.763,
+    "scene": 1
+   },
+   {
+    "text": "Yüz",
+    "start": 31.883,
+    "end": 32.243,
+    "scene": 1
+   },
+   {
+    "text": "parçanın",
+    "start": 32.307,
+    "end": 32.723,
+    "scene": 1
+   },
+   {
+    "text": "dördünü",
+    "start": 32.803,
+    "end": 33.203,
+    "scene": 1
+   },
+   {
+    "text": "yanlış",
+    "start": 33.249,
+    "end": 33.523,
+    "scene": 1
+   },
+   {
+    "text": "yere",
+    "start": 33.555,
+    "end": 33.683,
+    "scene": 1
+   },
+   {
+    "text": "koyan",
+    "start": 33.743,
+    "end": 34.003,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 34.023,
+    "end": 34.083,
+    "scene": 1
+   },
+   {
+    "text": "çalışanı",
+    "start": 34.136,
+    "end": 34.563,
+    "scene": 1
+   },
+   {
+    "text": "düşünün;",
+    "start": 34.616,
+    "end": 35.443,
+    "scene": 1
+   },
+   {
+    "text": "ustabaşı",
+    "start": 35.643,
+    "end": 36.003,
+    "scene": 1
+   },
+   {
+    "text": "çoktan",
+    "start": 36.083,
+    "end": 36.483,
+    "scene": 1
+   },
+   {
+    "text": "çay",
+    "start": 36.543,
+    "end": 36.723,
+    "scene": 1
+   },
+   {
+    "text": "ocağına",
+    "start": 36.763,
+    "end": 37.043,
+    "scene": 1
+   },
+   {
+    "text": "göndermişti!",
+    "start": 37.1,
+    "end": 37.923,
+    "scene": 1
+   },
+   {
+    "text": "DeepMind'ın",
+    "start": 38.067,
+    "end": 38.963,
+    "scene": 1
+   },
+   {
+    "text": "kendi",
+    "start": 39.016,
+    "end": 39.283,
+    "scene": 1
+   },
+   {
+    "text": "grafiklerinde",
+    "start": 39.347,
+    "end": 40.003,
+    "scene": 1
+   },
+   {
+    "text": "daha",
+    "start": 40.051,
+    "end": 40.243,
+    "scene": 1
+   },
+   {
+    "text": "karmaşık,",
+    "start": 40.323,
+    "end": 40.963,
+    "scene": 1
+   },
+   {
+    "text": "çok",
+    "start": 41.063,
+    "end": 41.363,
+    "scene": 1
+   },
+   {
+    "text": "adımlı",
+    "start": 41.403,
+    "end": 41.683,
+    "scene": 1
+   },
+   {
+    "text": "görevlerde",
+    "start": 41.736,
+    "end": 42.323,
+    "scene": 1
+   },
+   {
+    "text": "başarı",
+    "start": 42.392,
+    "end": 42.803,
+    "scene": 1
+   },
+   {
+    "text": "yüzde",
+    "start": 42.91,
+    "end": 43.443,
+    "scene": 1
+   },
+   {
+    "text": "40",
+    "start": 43.523,
+    "end": 43.603,
+    "scene": 1
+   },
+   {
+    "text": "ile",
+    "start": 43.643,
+    "end": 43.763,
+    "scene": 1
+   },
+   {
+    "text": "75",
+    "start": 43.843,
+    "end": 44.323,
+    "scene": 1
+   },
+   {
+    "text": "arasında",
+    "start": 44.367,
+    "end": 44.723,
+    "scene": 1
+   },
+   {
+    "text": "kalıyor.",
+    "start": 44.783,
+    "end": 45.203,
+    "scene": 1
+   },
+   {
+    "text": "Yani",
+    "start": 45.347,
+    "end": 45.923,
+    "scene": 1
+   },
+   {
+    "text": "robotlar",
+    "start": 45.976,
+    "end": 46.403,
+    "scene": 1
+   },
+   {
+    "text": "fabrikaya",
+    "start": 46.463,
+    "end": 46.963,
+    "scene": 1
+   },
+   {
+    "text": "girdi,",
+    "start": 47.043,
+    "end": 47.444,
+    "scene": 1
+   },
+   {
+    "text": "ama",
+    "start": 47.543,
+    "end": 47.843,
+    "scene": 1
+   },
+   {
+    "text": "henüz",
+    "start": 47.883,
+    "end": 48.083,
+    "scene": 1
+   },
+   {
+    "text": "stajyer.",
+    "start": 48.136,
+    "end": 48.803,
+    "scene": 1
+   },
+   {
+    "text": "Bence",
+    "start": 49.123,
+    "end": 49.683,
+    "scene": 1
+   },
+   {
+    "text": "asıl",
+    "start": 49.747,
+    "end": 50.003,
+    "scene": 1
+   },
+   {
+    "text": "büyük",
+    "start": 50.056,
+    "end": 50.323,
+    "scene": 1
+   },
+   {
+    "text": "haber,",
+    "start": 50.376,
+    "end": 50.883,
+    "scene": 1
+   },
+   {
+    "text": "Runway'in",
+    "start": 50.943,
+    "end": 51.363,
+    "scene": 1
+   },
+   {
+    "text": "modeli",
+    "start": 51.416,
+    "end": 51.803,
+    "scene": 1
+   },
+   {
+    "text": "açması:",
+    "start": 51.843,
+    "end": 52.323,
+    "scene": 1
+   },
+   {
+    "text": "robot",
+    "start": 52.456,
+    "end": 53.123,
+    "scene": 1
+   },
+   {
+    "text": "beyni",
+    "start": 53.176,
+    "end": 53.443,
+    "scene": 1
+   },
+   {
+    "text": "artık",
+    "start": 53.496,
+    "end": 53.763,
+    "scene": 1
+   },
+   {
+    "text": "birkaç",
+    "start": 53.82,
+    "end": 54.163,
+    "scene": 1
+   },
+   {
+    "text": "dev",
+    "start": 54.223,
+    "end": 54.403,
+    "scene": 1
+   },
+   {
+    "text": "şirketin",
+    "start": 54.449,
+    "end": 54.803,
+    "scene": 1
+   },
+   {
+    "text": "kasasında",
+    "start": 54.863,
+    "end": 55.363,
+    "scene": 1
+   },
+   {
+    "text": "değil,",
+    "start": 55.43,
+    "end": 55.764,
+    "scene": 1
+   },
+   {
+    "text": "herkesin",
+    "start": 55.854,
+    "end": 56.483,
+    "scene": 1
+   },
+   {
+    "text": "bilgisayarında.",
+    "start": 56.523,
+    "end": 57.643,
+    "scene": 1
+   },
+   {
+    "text": "Önümüzdeki",
+    "start": 57.736,
+    "end": 58.403,
+    "scene": 1
+   },
+   {
+    "text": "iki",
+    "start": 58.443,
+    "end": 58.563,
+    "scene": 1
+   },
+   {
+    "text": "yılda",
+    "start": 58.63,
+    "end": 58.963,
+    "scene": 1
+   },
+   {
+    "text": "küçük",
+    "start": 59.03,
+    "end": 59.363,
+    "scene": 1
+   },
+   {
+    "text": "girişimlerden",
+    "start": 59.403,
+    "end": 60.083,
+    "scene": 1
+   },
+   {
+    "text": "çok",
+    "start": 60.123,
+    "end": 60.243,
+    "scene": 1
+   },
+   {
+    "text": "şaşırtıcı",
+    "start": 60.323,
+    "end": 60.803,
+    "scene": 1
+   },
+   {
+    "text": "robotlar",
+    "start": 60.856,
+    "end": 61.283,
+    "scene": 1
+   },
+   {
+    "text": "göreceğiz.",
+    "start": 61.336,
+    "end": 61.923,
+    "scene": 1
+   }
+  ]
+ }
+}

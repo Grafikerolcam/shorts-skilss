@@ -1,0 +1,1022 @@
+{
+ "date": "17 KASIM 2026",
+ "scenes": [
+  {
+   "text": "[excited] İlk haber bomba gibi! Yapay zeka çılgınlığının bir numaralı şirketi Nvidia'da deprem var. Şirketin kurucusu ve deri ceketiyle meşhur CEO'su Jensen Huang, 12 Kasım'da hem CEO'luktan hem de yönetim kurulundan, anında geçerli olmak üzere ayrıldı. Yerine şimdilik finans direktörü Colette Kress geçti, yönetim kurulu da kalıcı bir isim arıyor. Şirket resmi bir sebep açıklamadı; CNBC'ye göre karar, Huang'ın özel hayatıyla ilgili iddiaların ardından yapılan bağımsız bir soruşturmanın sonucunda geldi.",
+   "tag": "DEVLER",
+   "headline": "NVIDIA'NIN KURUCUSU JENSEN HUANG AYRILDI",
+   "title": "NVIDIA'DA DEPREM",
+   "accent": "#76B900",
+   "img": "jensen.jpg",
+   "fit": "cover",
+   "pos": "50% 25%",
+   "src": "Kaynak: Nvidia SEC bildirimi (8-K) · CNBC",
+   "items": [
+    {
+     "k": "stamp",
+     "at": "deprem",
+     "t": "CEO AYRILDI"
+    },
+    {
+     "k": "chip",
+     "at": "12",
+     "t": "📅 12 Kasım · anında geçerli"
+    },
+    {
+     "k": "chip",
+     "at": "colette",
+     "t": "👤 Geçici CEO: Colette Kress"
+    },
+    {
+     "k": "chip",
+     "at": "soruşturmanın",
+     "t": "📰 CNBC: bağımsız soruşturma"
+    }
+   ]
+  },
+  {
+   "text": "Peki benim yorumum ne? Bence buradaki asıl ders şu: yapay zeka devrimi ne kadar büyük görünse de, bu kadar devasa bir şirketin değeri hâlâ büyük ölçüde tek bir yüze bağlı. Jensen Huang, Nvidia demekti; sahnede deri ceketle her çıktığında hisse yükseliyordu. Şimdi yatırımcılar ilk kez şunu soruyor: Nvidia, Jensen'sız da Nvidia mı? Bence evet, çünkü çipleri herkes hâlâ kapış kapış alıyor. Ama bu hafta açıklanacak bilanço, 'kişi değil, ürün önemli' tezinin ilk sınavı olacak. Ve iki büyük yatırımcının Huang'ın geri dönmesini istediği bildiriliyor... [laughs] Bu dizinin ikinci sezonu da gelebilir yani.",
+   "tag": "YORUM",
+   "headline": "NVIDIA, JENSEN'SIZ DA NVIDIA MI?",
+   "title": "💬 YORUMUM",
+   "accent": "#FFD23F",
+   "yorum": true,
+   "items": [
+    {
+     "k": "quote",
+     "at": "ders",
+     "t": "Dev bir şirketin değeri hâlâ tek bir yüze bağlı."
+    },
+    {
+     "k": "quote",
+     "at": "jensen'sız",
+     "t": "Asıl soru: Nvidia, Jensen'sız da Nvidia mı?"
+    },
+    {
+     "k": "quote",
+     "at": "sınavı",
+     "t": "Bu haftaki bilanço: 'kişi değil, ürün önemli' tezinin ilk sınavı."
+    }
+   ]
+  }
+ ],
+ "voice": {
+  "duration": 73.235,
+  "words": [
+   {
+    "text": "İlk",
+    "start": 0.25,
+    "end": 0.295,
+    "scene": 0
+   },
+   {
+    "text": "haber",
+    "start": 0.348,
+    "end": 0.615,
+    "scene": 0
+   },
+   {
+    "text": "bomba",
+    "start": 0.695,
+    "end": 1.215,
+    "scene": 0
+   },
+   {
+    "text": "gibi!",
+    "start": 1.255,
+    "end": 1.495,
+    "scene": 0
+   },
+   {
+    "text": "Yapay",
+    "start": 1.615,
+    "end": 2.055,
+    "scene": 0
+   },
+   {
+    "text": "zeka",
+    "start": 2.135,
+    "end": 2.455,
+    "scene": 0
+   },
+   {
+    "text": "çılgınlığının",
+    "start": 2.508,
+    "end": 3.175,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 3.235,
+    "end": 3.415,
+    "scene": 0
+   },
+   {
+    "text": "numaralı",
+    "start": 3.468,
+    "end": 3.895,
+    "scene": 0
+   },
+   {
+    "text": "şirketi",
+    "start": 3.935,
+    "end": 4.375,
+    "scene": 0
+   },
+   {
+    "text": "Nvidia'da",
+    "start": 4.432,
+    "end": 5.015,
+    "scene": 0
+   },
+   {
+    "text": "deprem",
+    "start": 5.122,
+    "end": 5.735,
+    "scene": 0
+   },
+   {
+    "text": "var.",
+    "start": 5.775,
+    "end": 5.975,
+    "scene": 0
+   },
+   {
+    "text": "Şirketin",
+    "start": 6.078,
+    "end": 6.775,
+    "scene": 0
+   },
+   {
+    "text": "kurucusu",
+    "start": 6.835,
+    "end": 7.415,
+    "scene": 0
+   },
+   {
+    "text": "ve",
+    "start": 7.495,
+    "end": 7.655,
+    "scene": 0
+   },
+   {
+    "text": "deri",
+    "start": 7.695,
+    "end": 7.895,
+    "scene": 0
+   },
+   {
+    "text": "ceketiyle",
+    "start": 7.975,
+    "end": 8.455,
+    "scene": 0
+   },
+   {
+    "text": "meşhur",
+    "start": 8.495,
+    "end": 8.855,
+    "scene": 0
+   },
+   {
+    "text": "CEO'su",
+    "start": 8.915,
+    "end": 9.255,
+    "scene": 0
+   },
+   {
+    "text": "Jensen",
+    "start": 9.324,
+    "end": 9.735,
+    "scene": 0
+   },
+   {
+    "text": "Huang,",
+    "start": 9.802,
+    "end": 10.455,
+    "scene": 0
+   },
+   {
+    "text": "12",
+    "start": 10.535,
+    "end": 10.935,
+    "scene": 0
+   },
+   {
+    "text": "Kasım'da",
+    "start": 10.988,
+    "end": 11.415,
+    "scene": 0
+   },
+   {
+    "text": "hem",
+    "start": 11.555,
+    "end": 11.975,
+    "scene": 0
+   },
+   {
+    "text": "CEO'luktan",
+    "start": 12.035,
+    "end": 12.695,
+    "scene": 0
+   },
+   {
+    "text": "hem",
+    "start": 12.795,
+    "end": 13.095,
+    "scene": 0
+   },
+   {
+    "text": "de",
+    "start": 13.148,
+    "end": 13.255,
+    "scene": 0
+   },
+   {
+    "text": "yönetim",
+    "start": 13.305,
+    "end": 13.655,
+    "scene": 0
+   },
+   {
+    "text": "kurulundan,",
+    "start": 13.695,
+    "end": 14.455,
+    "scene": 0
+   },
+   {
+    "text": "anında",
+    "start": 14.562,
+    "end": 15.015,
+    "scene": 0
+   },
+   {
+    "text": "geçerli",
+    "start": 15.075,
+    "end": 15.495,
+    "scene": 0
+   },
+   {
+    "text": "olmak",
+    "start": 15.548,
+    "end": 15.815,
+    "scene": 0
+   },
+   {
+    "text": "üzere",
+    "start": 15.868,
+    "end": 16.135,
+    "scene": 0
+   },
+   {
+    "text": "ayrıldı.",
+    "start": 16.231,
+    "end": 17.255,
+    "scene": 0
+   },
+   {
+    "text": "Yerine",
+    "start": 17.315,
+    "end": 17.735,
+    "scene": 0
+   },
+   {
+    "text": "şimdilik",
+    "start": 17.815,
+    "end": 18.215,
+    "scene": 0
+   },
+   {
+    "text": "finans",
+    "start": 18.272,
+    "end": 18.615,
+    "scene": 0
+   },
+   {
+    "text": "direktörü",
+    "start": 18.661,
+    "end": 19.175,
+    "scene": 0
+   },
+   {
+    "text": "Colette",
+    "start": 19.255,
+    "end": 19.655,
+    "scene": 0
+   },
+   {
+    "text": "Kress",
+    "start": 19.735,
+    "end": 20.055,
+    "scene": 0
+   },
+   {
+    "text": "geçti,",
+    "start": 20.122,
+    "end": 20.855,
+    "scene": 0
+   },
+   {
+    "text": "yönetim",
+    "start": 20.905,
+    "end": 21.255,
+    "scene": 0
+   },
+   {
+    "text": "kurulu",
+    "start": 21.295,
+    "end": 21.575,
+    "scene": 0
+   },
+   {
+    "text": "da",
+    "start": 21.628,
+    "end": 21.735,
+    "scene": 0
+   },
+   {
+    "text": "kalıcı",
+    "start": 21.795,
+    "end": 22.215,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 22.235,
+    "end": 22.295,
+    "scene": 0
+   },
+   {
+    "text": "isim",
+    "start": 22.343,
+    "end": 22.535,
+    "scene": 0
+   },
+   {
+    "text": "arıyor.",
+    "start": 22.588,
+    "end": 23.415,
+    "scene": 0
+   },
+   {
+    "text": "Şirket",
+    "start": 23.472,
+    "end": 23.815,
+    "scene": 0
+   },
+   {
+    "text": "resmi",
+    "start": 23.882,
+    "end": 24.215,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 24.235,
+    "end": 24.295,
+    "scene": 0
+   },
+   {
+    "text": "sebep",
+    "start": 24.348,
+    "end": 24.615,
+    "scene": 0
+   },
+   {
+    "text": "açıklamadı;",
+    "start": 24.668,
+    "end": 25.655,
+    "scene": 0
+   },
+   {
+    "text": "CNBC'ye",
+    "start": 25.799,
+    "end": 26.455,
+    "scene": 0
+   },
+   {
+    "text": "göre",
+    "start": 26.503,
+    "end": 26.695,
+    "scene": 0
+   },
+   {
+    "text": "karar,",
+    "start": 26.762,
+    "end": 27.335,
+    "scene": 0
+   },
+   {
+    "text": "Huang'ın",
+    "start": 27.388,
+    "end": 27.735,
+    "scene": 0
+   },
+   {
+    "text": "özel",
+    "start": 27.799,
+    "end": 28.055,
+    "scene": 0
+   },
+   {
+    "text": "hayatıyla",
+    "start": 28.108,
+    "end": 28.615,
+    "scene": 0
+   },
+   {
+    "text": "ilgili",
+    "start": 28.649,
+    "end": 28.855,
+    "scene": 0
+   },
+   {
+    "text": "iddiaların",
+    "start": 28.908,
+    "end": 29.415,
+    "scene": 0
+   },
+   {
+    "text": "ardından",
+    "start": 29.459,
+    "end": 29.815,
+    "scene": 0
+   },
+   {
+    "text": "yapılan",
+    "start": 29.865,
+    "end": 30.215,
+    "scene": 0
+   },
+   {
+    "text": "bağımsız",
+    "start": 30.295,
+    "end": 30.935,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 30.955,
+    "end": 31.015,
+    "scene": 0
+   },
+   {
+    "text": "soruşturmanın",
+    "start": 31.079,
+    "end": 31.735,
+    "scene": 0
+   },
+   {
+    "text": "sonucunda",
+    "start": 31.791,
+    "end": 32.295,
+    "scene": 0
+   },
+   {
+    "text": "geldi.",
+    "start": 32.362,
+    "end": 33.175,
+    "scene": 0
+   },
+   {
+    "text": "Peki",
+    "start": 33.875,
+    "end": 34.275,
+    "scene": 1
+   },
+   {
+    "text": "benim",
+    "start": 34.315,
+    "end": 34.515,
+    "scene": 1
+   },
+   {
+    "text": "yorumum",
+    "start": 34.568,
+    "end": 34.915,
+    "scene": 1
+   },
+   {
+    "text": "ne?",
+    "start": 34.995,
+    "end": 35.235,
+    "scene": 1
+   },
+   {
+    "text": "Bence",
+    "start": 35.395,
+    "end": 35.875,
+    "scene": 1
+   },
+   {
+    "text": "buradaki",
+    "start": 35.895,
+    "end": 36.275,
+    "scene": 1
+   },
+   {
+    "text": "asıl",
+    "start": 36.339,
+    "end": 36.595,
+    "scene": 1
+   },
+   {
+    "text": "ders",
+    "start": 36.659,
+    "end": 36.915,
+    "scene": 1
+   },
+   {
+    "text": "şu:",
+    "start": 36.995,
+    "end": 37.315,
+    "scene": 1
+   },
+   {
+    "text": "yapay",
+    "start": 37.435,
+    "end": 37.875,
+    "scene": 1
+   },
+   {
+    "text": "zeka",
+    "start": 37.955,
+    "end": 38.275,
+    "scene": 1
+   },
+   {
+    "text": "devrimi",
+    "start": 38.335,
+    "end": 38.675,
+    "scene": 1
+   },
+   {
+    "text": "ne",
+    "start": 38.728,
+    "end": 38.835,
+    "scene": 1
+   },
+   {
+    "text": "kadar",
+    "start": 38.888,
+    "end": 39.155,
+    "scene": 1
+   },
+   {
+    "text": "büyük",
+    "start": 39.208,
+    "end": 39.475,
+    "scene": 1
+   },
+   {
+    "text": "görünse",
+    "start": 39.528,
+    "end": 39.955,
+    "scene": 1
+   },
+   {
+    "text": "de,",
+    "start": 40.008,
+    "end": 40.195,
+    "scene": 1
+   },
+   {
+    "text": "bu",
+    "start": 40.302,
+    "end": 40.515,
+    "scene": 1
+   },
+   {
+    "text": "kadar",
+    "start": 40.568,
+    "end": 40.835,
+    "scene": 1
+   },
+   {
+    "text": "devasa",
+    "start": 40.895,
+    "end": 41.395,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 41.415,
+    "end": 41.475,
+    "scene": 1
+   },
+   {
+    "text": "şirketin",
+    "start": 41.532,
+    "end": 41.955,
+    "scene": 1
+   },
+   {
+    "text": "değeri",
+    "start": 42.015,
+    "end": 42.435,
+    "scene": 1
+   },
+   {
+    "text": "hâlâ",
+    "start": 42.579,
+    "end": 43.155,
+    "scene": 1
+   },
+   {
+    "text": "büyük",
+    "start": 43.195,
+    "end": 43.395,
+    "scene": 1
+   },
+   {
+    "text": "ölçüde",
+    "start": 43.464,
+    "end": 43.875,
+    "scene": 1
+   },
+   {
+    "text": "tek",
+    "start": 43.955,
+    "end": 44.195,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 44.215,
+    "end": 44.275,
+    "scene": 1
+   },
+   {
+    "text": "yüze",
+    "start": 44.315,
+    "end": 44.515,
+    "scene": 1
+   },
+   {
+    "text": "bağlı.",
+    "start": 44.582,
+    "end": 45.315,
+    "scene": 1
+   },
+   {
+    "text": "Jensen",
+    "start": 45.384,
+    "end": 45.795,
+    "scene": 1
+   },
+   {
+    "text": "Huang,",
+    "start": 45.862,
+    "end": 46.275,
+    "scene": 1
+   },
+   {
+    "text": "Nvidia",
+    "start": 46.332,
+    "end": 46.675,
+    "scene": 1
+   },
+   {
+    "text": "demekti;",
+    "start": 46.742,
+    "end": 47.315,
+    "scene": 1
+   },
+   {
+    "text": "sahnede",
+    "start": 47.475,
+    "end": 48.035,
+    "scene": 1
+   },
+   {
+    "text": "deri",
+    "start": 48.095,
+    "end": 48.355,
+    "scene": 1
+   },
+   {
+    "text": "ceketle",
+    "start": 48.395,
+    "end": 48.755,
+    "scene": 1
+   },
+   {
+    "text": "her",
+    "start": 48.815,
+    "end": 48.995,
+    "scene": 1
+   },
+   {
+    "text": "çıktığında",
+    "start": 49.048,
+    "end": 49.635,
+    "scene": 1
+   },
+   {
+    "text": "hisse",
+    "start": 49.695,
+    "end": 49.955,
+    "scene": 1
+   },
+   {
+    "text": "yükseliyordu.",
+    "start": 49.995,
+    "end": 50.915,
+    "scene": 1
+   },
+   {
+    "text": "Şimdi",
+    "start": 51.008,
+    "end": 51.475,
+    "scene": 1
+   },
+   {
+    "text": "yatırımcılar",
+    "start": 51.515,
+    "end": 52.115,
+    "scene": 1
+   },
+   {
+    "text": "ilk",
+    "start": 52.195,
+    "end": 52.435,
+    "scene": 1
+   },
+   {
+    "text": "kez",
+    "start": 52.495,
+    "end": 52.675,
+    "scene": 1
+   },
+   {
+    "text": "şunu",
+    "start": 52.715,
+    "end": 52.915,
+    "scene": 1
+   },
+   {
+    "text": "soruyor:",
+    "start": 52.995,
+    "end": 53.475,
+    "scene": 1
+   },
+   {
+    "text": "Nvidia,",
+    "start": 53.589,
+    "end": 54.355,
+    "scene": 1
+   },
+   {
+    "text": "Jensen'sız",
+    "start": 54.424,
+    "end": 55.075,
+    "scene": 1
+   },
+   {
+    "text": "da",
+    "start": 55.155,
+    "end": 55.315,
+    "scene": 1
+   },
+   {
+    "text": "Nvidia",
+    "start": 55.464,
+    "end": 55.875,
+    "scene": 1
+   },
+   {
+    "text": "mı?",
+    "start": 55.955,
+    "end": 56.195,
+    "scene": 1
+   },
+   {
+    "text": "Bence",
+    "start": 56.435,
+    "end": 56.995,
+    "scene": 1
+   },
+   {
+    "text": "evet,",
+    "start": 57.075,
+    "end": 57.635,
+    "scene": 1
+   },
+   {
+    "text": "çünkü",
+    "start": 57.688,
+    "end": 57.955,
+    "scene": 1
+   },
+   {
+    "text": "çipleri",
+    "start": 57.995,
+    "end": 58.435,
+    "scene": 1
+   },
+   {
+    "text": "herkes",
+    "start": 58.515,
+    "end": 58.995,
+    "scene": 1
+   },
+   {
+    "text": "hâlâ",
+    "start": 59.059,
+    "end": 59.315,
+    "scene": 1
+   },
+   {
+    "text": "kapış",
+    "start": 59.375,
+    "end": 59.635,
+    "scene": 1
+   },
+   {
+    "text": "kapış",
+    "start": 59.695,
+    "end": 59.955,
+    "scene": 1
+   },
+   {
+    "text": "alıyor.",
+    "start": 60.012,
+    "end": 60.435,
+    "scene": 1
+   },
+   {
+    "text": "Ama",
+    "start": 60.555,
+    "end": 60.915,
+    "scene": 1
+   },
+   {
+    "text": "bu",
+    "start": 60.968,
+    "end": 61.075,
+    "scene": 1
+   },
+   {
+    "text": "hafta",
+    "start": 61.115,
+    "end": 61.315,
+    "scene": 1
+   },
+   {
+    "text": "açıklanacak",
+    "start": 61.368,
+    "end": 61.955,
+    "scene": 1
+   },
+   {
+    "text": "bilanço,",
+    "start": 61.995,
+    "end": 62.675,
+    "scene": 1
+   },
+   {
+    "text": "'kişi",
+    "start": 62.795,
+    "end": 63.155,
+    "scene": 1
+   },
+   {
+    "text": "değil,",
+    "start": 63.222,
+    "end": 63.635,
+    "scene": 1
+   },
+   {
+    "text": "ürün",
+    "start": 63.699,
+    "end": 63.955,
+    "scene": 1
+   },
+   {
+    "text": "önemli'",
+    "start": 64.001,
+    "end": 64.355,
+    "scene": 1
+   },
+   {
+    "text": "tezinin",
+    "start": 64.408,
+    "end": 64.755,
+    "scene": 1
+   },
+   {
+    "text": "ilk",
+    "start": 64.835,
+    "end": 65.075,
+    "scene": 1
+   },
+   {
+    "text": "sınavı",
+    "start": 65.128,
+    "end": 65.635,
+    "scene": 1
+   },
+   {
+    "text": "olacak.",
+    "start": 65.669,
+    "end": 66.035,
+    "scene": 1
+   },
+   {
+    "text": "Ve",
+    "start": 66.248,
+    "end": 66.675,
+    "scene": 1
+   },
+   {
+    "text": "iki",
+    "start": 66.735,
+    "end": 66.915,
+    "scene": 1
+   },
+   {
+    "text": "büyük",
+    "start": 66.968,
+    "end": 67.235,
+    "scene": 1
+   },
+   {
+    "text": "yatırımcının",
+    "start": 67.288,
+    "end": 67.955,
+    "scene": 1
+   },
+   {
+    "text": "Huang'ın",
+    "start": 68.035,
+    "end": 68.595,
+    "scene": 1
+   },
+   {
+    "text": "geri",
+    "start": 68.643,
+    "end": 68.835,
+    "scene": 1
+   },
+   {
+    "text": "dönmesini",
+    "start": 68.895,
+    "end": 69.395,
+    "scene": 1
+   },
+   {
+    "text": "istediği",
+    "start": 69.441,
+    "end": 69.795,
+    "scene": 1
+   },
+   {
+    "text": "bildiriliyor...",
+    "start": 69.852,
+    "end": 70.915,
+    "scene": 1
+   },
+   {
+    "text": "Bu",
+    "start": 70.982,
+    "end": 70.995,
+    "scene": 1
+   },
+   {
+    "text": "dizinin",
+    "start": 71.055,
+    "end": 71.475,
+    "scene": 1
+   },
+   {
+    "text": "ikinci",
+    "start": 71.521,
+    "end": 71.795,
+    "scene": 1
+   },
+   {
+    "text": "sezonu",
+    "start": 71.862,
+    "end": 72.235,
+    "scene": 1
+   },
+   {
+    "text": "da",
+    "start": 72.248,
+    "end": 72.275,
+    "scene": 1
+   },
+   {
+    "text": "gelebilir",
+    "start": 72.339,
+    "end": 72.755,
+    "scene": 1
+   },
+   {
+    "text": "yani.",
+    "start": 72.835,
+    "end": 73.235,
+    "scene": 1
+   }
+  ]
+ }
+}

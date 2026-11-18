@@ -1,0 +1,915 @@
+{
+  "voiceId": "",
+  "model": "eleven_v3",
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 1
+  },
+  "date": "17 KASIM 2026",
+  "scenes": [
+    {
+      "text": "[excited] Selam selam selam! Diploy Tivi'ye hoş geldiniz! Bu hafta teknoloji dünyası resmen kazan gibi kaynadı. Dünyanın en değerli şirketlerinden birinin patronu bir anda istifa etti, tarihin en büyük halka arzı kapıda, yapay zeka artık sizin yerinize alışveriş yapıyor, robotlar Mercedes fabrikasında işbaşı yaptı ve bir roket, kulenin kollarına kondu! [laughs] Ben de her haberin ardından size kendi yorumumu söyleyeceğim, çünkü haberi okumak kolay, asıl mesele ne anlama geldiği. Çayınızı, kahvenizi alın; başlıyoruz!",
+      "tag": "BU HAFTA",
+      "headline": "HABERLER + YORUMLAR",
+      "title": "BU HAFTA NELER VAR?",
+      "accent": "#FFD23F",
+      "items": [
+        {
+          "k": "chip",
+          "at": "istifa",
+          "t": "👔 Sürpriz CEO istifası"
+        },
+        {
+          "k": "chip",
+          "at": "halka",
+          "t": "📈 Tarihin en büyük halka arzı?"
+        },
+        {
+          "k": "chip",
+          "at": "alışveriş",
+          "t": "🛒 Yapay zeka alışverişte"
+        },
+        {
+          "k": "chip",
+          "at": "robotlar",
+          "t": "🤖 Robotlar fabrikada"
+        },
+        {
+          "k": "chip",
+          "at": "roket",
+          "t": "🚀 Kollara konan roket"
+        }
+      ]
+    },
+    {
+      "text": "[excited] İlk haber bomba gibi! Yapay zeka çılgınlığının bir numaralı şirketi Nvidia'da deprem var. Şirketin kurucusu ve deri ceketiyle meşhur CEO'su Jensen Huang, 12 Kasım'da hem CEO'luktan hem de yönetim kurulundan, anında geçerli olmak üzere ayrıldı. Yerine şimdilik finans direktörü Colette Kress geçti, yönetim kurulu da kalıcı bir isim arıyor. Şirket resmi bir sebep açıklamadı; CNBC'ye göre karar, Huang'ın özel hayatıyla ilgili iddiaların ardından yapılan bağımsız bir soruşturmanın sonucunda geldi.",
+      "tag": "DEVLER",
+      "headline": "NVIDIA'NIN KURUCUSU JENSEN HUANG AYRILDI",
+      "title": "NVIDIA'DA DEPREM",
+      "accent": "#76B900",
+      "img": "jensen.jpg",
+      "fit": "cover",
+      "pos": "50% 25%",
+      "src": "Kaynak: Nvidia SEC bildirimi (8-K) · CNBC",
+      "items": [
+        {
+          "k": "stamp",
+          "at": "deprem",
+          "t": "CEO AYRILDI"
+        },
+        {
+          "k": "chip",
+          "at": "12",
+          "t": "📅 12 Kasım · anında geçerli"
+        },
+        {
+          "k": "chip",
+          "at": "colette",
+          "t": "👤 Geçici CEO: Colette Kress"
+        },
+        {
+          "k": "chip",
+          "at": "soruşturmanın",
+          "t": "📰 CNBC: bağımsız soruşturma"
+        }
+      ]
+    },
+    {
+      "text": "Borsa da bu habere sert tepki verdi: hisseler son altı haftada yüzde otuzdan fazla düştü, yaklaşık 2 trilyon dolarlık değer buhar oldu. [sighs] İki trilyon... Benim hesabımdaki rakamın yanına kaç sıfır eklemem lazım, onu bile bilmiyorum. Ve Nvidia, 17 Kasım akşamı, Huang'sız ilk bilançosunu açıklıyor; analistler yaklaşık 109 milyar dolar gelir bekliyor.",
+      "tag": "DEVLER",
+      "headline": "NVIDIA HİSSELERİ 6 HAFTADA %30'DAN FAZLA DÜŞTÜ",
+      "title": "BORSADA SARSINTI",
+      "accent": "#76B900",
+      "src": "Kaynak: CNBC · analist beklentisi (TipRanks)",
+      "items": [
+        {
+          "k": "big",
+          "at": "otuzdan",
+          "to": 30,
+          "pre": "-%",
+          "suf": "",
+          "label": "hisse, son 6 haftada",
+          "color": "#E5383B"
+        },
+        {
+          "k": "big",
+          "at": "2",
+          "to": 2,
+          "pre": "~$",
+          "suf": "trilyon",
+          "label": "buharlaşan piyasa değeri",
+          "color": "#E5383B"
+        },
+        {
+          "k": "chip",
+          "at": "bilançosunu",
+          "t": "📊 Bilanço 17 Kasım · beklenti ~109 milyar $"
+        }
+      ]
+    },
+    {
+      "text": "Peki benim yorumum ne? Bence buradaki asıl ders şu: yapay zeka devrimi ne kadar büyük görünse de, bu kadar devasa bir şirketin değeri hâlâ büyük ölçüde tek bir yüze bağlı. Jensen Huang, Nvidia demekti; sahnede deri ceketle her çıktığında hisse yükseliyordu. Şimdi yatırımcılar ilk kez şunu soruyor: Nvidia, Jensen'sız da Nvidia mı? Bence evet, çünkü çipleri herkes hâlâ kapış kapış alıyor. Ama bu hafta açıklanacak bilanço, 'kişi değil, ürün önemli' tezinin ilk sınavı olacak. Ve iki büyük yatırımcının Huang'ın geri dönmesini istediği bildiriliyor... [laughs] Bu dizinin ikinci sezonu da gelebilir yani.",
+      "tag": "YORUM",
+      "headline": "NVIDIA, JENSEN'SIZ DA NVIDIA MI?",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "ders",
+          "t": "Dev bir şirketin değeri hâlâ tek bir yüze bağlı."
+        },
+        {
+          "k": "quote",
+          "at": "jensen'sız",
+          "t": "Asıl soru: Nvidia, Jensen'sız da Nvidia mı?"
+        },
+        {
+          "k": "quote",
+          "at": "sınavı",
+          "t": "Bu haftaki bilanço: 'kişi değil, ürün önemli' tezinin ilk sınavı."
+        }
+      ]
+    },
+    {
+      "text": "Şimdi gelelim yapay zekanın para tarafına. Claude'un yapımcısı Anthropic halka arz oluyor! Nasdaq'ta ANT koduyla, hisse başına 70 ile 78 dolar arasında bir fiyat aralığı belirlendi; işlemlerin bu hafta başlaması bekleniyor. Aralığın üst ucunda şirketin değeri yaklaşık 1,4 trilyon dolar. 825 milyon hisse satılacak; çarpınca yaklaşık 64 milyar dolar ediyor. Bu gerçekleşirse tarihin en büyük halka arzı olacak. Küçük bir şeffaflık notu: bu bülteni hazırlarken kullandığım yapay zeka asistanı da Claude. [laughs] Ama söz, rakamlardan şaşmıyoruz.",
+      "tag": "YAPAY ZEKA",
+      "headline": "ANTHROPIC NASDAQ'TA HALKA ARZ OLUYOR",
+      "title": "HALKA ARZ",
+      "accent": "#D97757",
+      "img": "anthropic-logo.svg",
+      "fit": "contain",
+      "imgBg": "#F4EFE6",
+      "src": "Kaynak: CNBC · Anthropic · TechCrunch (825 milyon × 78 $)",
+      "items": [
+        {
+          "k": "ticker",
+          "at": "nasdaq'ta",
+          "ex": "NASDAQ",
+          "sym": "ANT"
+        },
+        {
+          "k": "chip",
+          "at": "70",
+          "t": "💵 70 – 78 $ / hisse"
+        },
+        {
+          "k": "big",
+          "at": "1,4",
+          "to": 1.4,
+          "dec": 1,
+          "pre": "$",
+          "suf": "trilyon",
+          "label": "aralığın üst ucunda değer"
+        },
+        {
+          "k": "stamp",
+          "at": "tarihin",
+          "t": "TARİHİN EN BÜYÜĞÜ?",
+          "color": "#FFD23F"
+        }
+      ]
+    },
+    {
+      "text": "Aynı hafta OpenAI tarafında da bir para haberi var. Bloomberg'e göre OpenAI, 1,25 trilyon dolar değerleme üzerinden 11 milyar dolar topladı. Ama ufak bir pürüz var: bu tur başta en az 30 milyar dolar ve 1,4 trilyon dolar değerleme hedefiyle konuşuluyordu. Yatırımcı ilgisi zayıf kalınca hedef küçültüldü.",
+      "tag": "YAPAY ZEKA",
+      "headline": "OPENAI 11 MİLYAR DOLAR TOPLADI, HEDEF KÜÇÜLDÜ",
+      "title": "OPENAI YATIRIMI",
+      "accent": "#10A37F",
+      "img": "openai-logo.svg",
+      "fit": "contain",
+      "imgBg": "#FFFFFF",
+      "src": "Kaynak: Bloomberg · TechCrunch (raporlara göre)",
+      "items": [
+        {
+          "k": "big",
+          "at": "11",
+          "to": 11,
+          "pre": "+$",
+          "suf": "milyar",
+          "label": "1,25 trilyon $ değerleme ile",
+          "color": "#2ECC71"
+        },
+        {
+          "k": "bars",
+          "at": "30",
+          "unit": "milyar $",
+          "bars": [
+            {
+              "n": "İlk hedef",
+              "v": 30,
+              "c": "#5B6B8C"
+            },
+            {
+              "n": "Toplanan",
+              "v": 11,
+              "c": "#10A37F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Yorumum şu: bu iki haberi yan yana koyunca çok ilginç bir tablo çıkıyor. Bir yanda trilyon dolarlık şirketler, öbür yanda 'acaba fazla mı ödedik' diye düşünmeye başlayan yatırımcılar. Nvidia düşüyor, OpenAI hedefini küçültüyor, Anthropic halka arzında fiyat aralığı, sonbaharda konuşulan rakamların altında kaldı. Bence bu bir balon patlaması değil; daha çok, balondan biraz havanın kontrollü şekilde alınması. Yapay zeka gerçek ve kalıcı; ama 'her şeyi her fiyata alırım' dönemi bitiyor. Bundan sonra kazananlar, sadece heyecan değil, gerçekten para kazandıran ürün gösterenler olacak.",
+      "tag": "YORUM",
+      "headline": "YAPAY ZEKA BALONU PATLIYOR MU?",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "trilyon",
+          "t": "Trilyon dolarlık şirketler, 'fazla mı ödedik?' diyen yatırımcılar."
+        },
+        {
+          "k": "quote",
+          "at": "kontrollü",
+          "t": "Balon patlaması değil; kontrollü hava indirme."
+        },
+        {
+          "k": "quote",
+          "at": "kazananlar",
+          "t": "Kazanan: heyecan değil, para kazandıran ürün gösteren."
+        }
+      ]
+    },
+    {
+      "text": "Google cephesinde de büyük gün! Google, en güçlü modeli Gemini 4 Carbon'u 10 Kasım'da tüm ücretli API müşterilerine açtı. Model, Gemini uygulamasında ve aramadaki yapay zeka modunda da Ultra abonelerine geliyor. Google'a göre model, uzun süren ajan görevlerinde ve siber güvenlikte çok iddialı. Tanıtım fiyatı milyon giriş tokenı başına 2 dolar, ama 30 Kasım'dan itibaren iki katına çıkıyor.",
+      "tag": "DEVLER",
+      "headline": "GEMINI 4 CARBON KULLANIMA AÇILDI",
+      "title": "GEMINI 4 CARBON",
+      "accent": "#4C8DF6",
+      "img": "gemini-icon.svg",
+      "fit": "contain",
+      "imgBg": "#0F1A3A",
+      "src": "Kaynak: Google Blog (performans iddiaları Google'a ait)",
+      "items": [
+        {
+          "k": "chip",
+          "at": "gemini",
+          "t": "✦ Google'ın en güçlü modeli"
+        },
+        {
+          "k": "chip",
+          "at": "ücretli",
+          "t": "👩‍💻 Tüm ücretli API müşterileri"
+        },
+        {
+          "k": "chip",
+          "at": "ajan",
+          "t": "🤖 Ajanlar + 🛡️ siber güvenlik"
+        },
+        {
+          "k": "big",
+          "at": "2",
+          "to": 2,
+          "pre": "$",
+          "suf": "→ $4",
+          "label": "milyon giriş tokenı · 30 Kasım'dan itibaren"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: dikkat ederseniz bu modelin tanıtımında artık 'daha akıllı sohbet' değil, 'daha uzun süre kendi başına çalışan ajan' ve 'siber güvenlik' öne çıkıyor. Yani yarış değişti; artık soru 'ne kadar iyi cevap veriyor' değil, 'sen uyurken ne kadar iş bitiriyor'. Fiyat stratejisi de klasik: önce ucuza alıştır, sonra fiyatı ikiye katla. [laughs] 'Stoklarla sınırlı' demedikleri kaldı! Yazılımcı arkadaşlar, deneyecekseniz şimdi tam zamanı.",
+      "tag": "YORUM",
+      "headline": "YARIŞ ARTIK SOHBETTE DEĞİL, AJANLARDA",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "yarış",
+          "t": "Yeni soru: 'Sen uyurken ne kadar iş bitiriyor?'"
+        },
+        {
+          "k": "quote",
+          "at": "ucuza",
+          "t": "Önce ucuza alıştır, sonra fiyatı ikiye katla."
+        }
+      ]
+    },
+    {
+      "text": "Ajan demişken, işte haftanın en çılgın özelliği: ChatGPT Wallet geldi! 13 Kasım'da duyurulan özellikle ChatGPT'nin ajanları artık sizin yerinize alışveriş yapabiliyor. Her alışverişten önce mağazayı, ürünleri ve toplam tutarı görüyorsunuz, Face ID ya da parmak iziyle onaylıyorsunuz. Gerçek kart numaranız da ne mağazayla ne de ajanla paylaşılıyor. Şimdilik sadece Amerika'daki Pro aboneleri kullanabiliyor.",
+      "tag": "AJANLAR",
+      "headline": "CHATGPT ARTIK SİZİN YERİNİZE ALIŞVERİŞ YAPIYOR",
+      "title": "CHATGPT WALLET",
+      "accent": "#10A37F",
+      "img": "openai-logo.svg",
+      "fit": "contain",
+      "imgBg": "#FFFFFF",
+      "src": "Kaynak: OpenAI Yardım Merkezi · TechCrunch",
+      "items": [
+        {
+          "k": "chip",
+          "at": "alışveriş",
+          "t": "🛒 Ajan, alışverişi tamamlıyor"
+        },
+        {
+          "k": "chip",
+          "at": "face",
+          "t": "🔐 Face ID / parmak izi onayı"
+        },
+        {
+          "k": "chip",
+          "at": "kart",
+          "t": "💳 Gerçek kart numarası paylaşılmıyor"
+        },
+        {
+          "k": "chip",
+          "at": "amerika'daki",
+          "t": "🇺🇸 Şimdilik ABD · Pro"
+        }
+      ]
+    },
+    {
+      "text": "Ama herkes bu işe sıcak bakmıyor! Aynı hafta United Airlines, taşıma sözleşmesini güncelleyip yapay zeka ajanlarının bilet almasını ve değiştirmesini yasakladı. Gerekçe olarak hesap bilgilerinin açığa çıkma riskini, istenmeyen satın alımları ve bagaj beyanı gibi bazı kuralların bir insan tarafından yapılması gerektiğini gösterdi.",
+      "tag": "AJANLAR",
+      "headline": "UNITED AIRLINES YAPAY ZEKA AJANLARINI YASAKLADI",
+      "title": "UNITED: GİRİŞ YASAK",
+      "accent": "#E5383B",
+      "src": "Kaynak: Skift · CBS News",
+      "items": [
+        {
+          "k": "stamp",
+          "at": "yasakladı",
+          "t": "AJANLARA YASAK"
+        },
+        {
+          "k": "chip",
+          "at": "hesap",
+          "t": "🔑 Hesap bilgisi riski"
+        },
+        {
+          "k": "chip",
+          "at": "istenmeyen",
+          "t": "🧾 İstenmeyen satın alımlar"
+        },
+        {
+          "k": "chip",
+          "at": "bagaj",
+          "t": "🧳 Bagaj beyanını insan yapmalı"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: aynı hafta biri 'ajanlar alışveriş yapsın' diyor, diğeri 'ajanlar giremez' diyor. [laughs] Robot bileti aldı, havayolu 'sen kimsin?' dedi; robotlar için ilk vize reddi! Ama işin ciddi tarafı şu: internet, insanlar için tasarlandı. Şimdi aynı kapılardan yapay zeka ajanları da geçmeye başlıyor ve şirketler 'bunu kim onayladı, sorumluluk kimde' sorusuna henüz cevap veremiyor. Bence önümüzdeki yıl en büyük tartışmalardan biri bu olacak: ajanların kimliği ve sorumluluğu. Ve evet, gece üçte 'sadece bakıyorum' diyenler için kötü haber: artık yapay zeka da sepete ekliyor.",
+      "tag": "YORUM",
+      "headline": "AJANLARIN KİMLİĞİ: YILIN TARTIŞMASI",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "vize",
+          "t": "Robotlar için ilk vize reddi! 🛂"
+        },
+        {
+          "k": "quote",
+          "at": "internet",
+          "t": "İnternet insanlar için tasarlandı; şimdi kapıdan ajanlar geçiyor."
+        },
+        {
+          "k": "quote",
+          "at": "sorumluluğu",
+          "t": "Önümüzdeki yılın tartışması: ajanların kimliği ve sorumluluğu."
+        }
+      ]
+    },
+    {
+      "text": "[excited] Ve robotik! Google DeepMind, 10 Kasım'da Gemini Robotics 2.5'i tanıttı. Asıl ilginç kısmı şu: model, Apptronik'in Apollo 2 insansı robotlarıyla Mercedes-Benz'in Macaristan ve Almanya'daki fabrikalarında test edildi. Robotlar kutulardan metal araç parçalarını alıp sıralama kaplarına yerleştirdi ve DeepMind'ın açıkladığı başarı oranı yüzde 96.",
+      "tag": "ROBOTİK",
+      "headline": "İNSANSI ROBOTLAR MERCEDES FABRİKASINDA",
+      "title": "ROBOTLAR FABRİKADA",
+      "accent": "#00ADEF",
+      "img": "mercedes-logo.svg",
+      "fit": "contain",
+      "imgBg": "#F4F6FA",
+      "src": "Kaynak: Google DeepMind · Interesting Engineering · Autocar",
+      "items": [
+        {
+          "k": "chip",
+          "at": "gemini",
+          "t": "🧠 Gemini Robotics 2.5"
+        },
+        {
+          "k": "chip",
+          "at": "apollo",
+          "t": "🤖 Apptronik Apollo 2 insansı robot"
+        },
+        {
+          "k": "chip",
+          "at": "macaristan",
+          "t": "🏭 Mercedes · Macaristan + Almanya"
+        },
+        {
+          "k": "big",
+          "at": "96",
+          "to": 96,
+          "pre": "%",
+          "suf": "",
+          "label": "başarı oranı (DeepMind'ın açıklaması)",
+          "color": "#2ECC71"
+        }
+      ]
+    },
+    {
+      "text": "Robot dünyasından bir haber daha: Runway, robotlar için geliştirdiği 27 milyar parametreli dünya modeli Praxis-1'i açık ağırlıklarla, yani herkesin indirip kullanabileceği şekilde yayımladı. Lisansı da Apache 2.0; yani ticari kullanıma açık.",
+      "tag": "ROBOTİK",
+      "headline": "RUNWAY ROBOT MODELİNİ AÇIK KAYNAK YAPTI",
+      "title": "AÇIK ROBOT BEYNİ",
+      "accent": "#00ADEF",
+      "src": "Kaynak: Runway",
+      "items": [
+        {
+          "k": "big",
+          "at": "27",
+          "to": 27,
+          "pre": "",
+          "suf": "milyar",
+          "label": "parametre · robotlar için dünya modeli"
+        },
+        {
+          "k": "chip",
+          "at": "açık",
+          "t": "🔓 Açık ağırlıklar · Hugging Face"
+        },
+        {
+          "k": "chip",
+          "at": "apache",
+          "t": "📜 Apache 2.0 · ticari kullanım serbest"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: yüzde 96 kulağa harika geliyor, değil mi? Ama madalyonun öbür yüzü de var. Aynı işi yapan bir insan neredeyse hiç hata yapmıyor. Yüz parçanın dördünü yanlış yere koyan bir çalışanı düşünün; [laughs] ustabaşı çoktan çay ocağına göndermişti! DeepMind'ın kendi grafiklerinde daha karmaşık, çok adımlı görevlerde başarı yüzde 40 ile 75 arasında kalıyor. Yani robotlar fabrikaya girdi, ama henüz stajyer. Bence asıl büyük haber, Runway'in modeli açması: robot beyni artık birkaç dev şirketin kasasında değil, herkesin bilgisayarında. Önümüzdeki iki yılda küçük girişimlerden çok şaşırtıcı robotlar göreceğiz.",
+      "tag": "YORUM",
+      "headline": "ROBOTLAR FABRİKADA AMA HENÜZ STAJYER",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "madalyonun",
+          "t": "%96 harika… ama insan neredeyse hiç hata yapmıyor."
+        },
+        {
+          "k": "quote",
+          "at": "stajyer",
+          "t": "Robotlar fabrikaya girdi, ama henüz stajyer. 👷"
+        },
+        {
+          "k": "quote",
+          "at": "herkesin",
+          "t": "Asıl haber: robot beyni artık herkesin bilgisayarında."
+        }
+      ]
+    },
+    {
+      "text": "[excited] Şimdi yeni köşemiz: GitHub'da bu hafta ortalığı kasıp kavuran repolar! Bir numara, Meta'nın yeni açık kaynak tasarım sistemi Astryx. Yapay zeka ajanlarının kullanabileceği şekilde tasarlanmış ve bir haftada tam 13 bin 500 yıldız topladı. İkinci sırada eski bir dost var: Sherlock. Bir kullanıcı adını yazıyorsunuz, o kullanıcı adının hangi sosyal medya sitelerinde kayıtlı olduğunu buluyor; bu hafta 10 binden fazla yıldız aldı. Bir de Anthropic'in ajan becerileri reposu, yani skills, bu hafta 6 binden fazla yıldızla listede. [laughs] Bu videoyu yaparken ben de o skill'leri kullanıyorum, yani evden haber veriyorum.",
+      "tag": "GITHUB",
+      "headline": "GITHUB'DA HAFTANIN YILDIZLARI",
+      "title": "GITHUB'DA BU HAFTA",
+      "accent": "#A371F7",
+      "img": "github-mark.svg",
+      "fit": "contain",
+      "imgBg": "#F4F6FA",
+      "src": "Kaynak: GitHub Trending (haftalık, 17 Kasım)",
+      "items": [
+        {
+          "k": "chip",
+          "at": "astryx",
+          "t": "🥇 meta/astryx · +13.500 ⭐"
+        },
+        {
+          "k": "chip",
+          "at": "sherlock",
+          "t": "🥈 sherlock-project/sherlock · +10.400 ⭐"
+        },
+        {
+          "k": "chip",
+          "at": "skills,",
+          "t": "🥉 anthropics/skills · +6.000 ⭐"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: listeye bakınca bir şey hemen göze çarpıyor. İlk on dört reponun çoğu yapay zeka ajanları için: ajanlara tasarım sistemi, ajanlara tarayıcı, ajanlara kod inceleme, ajanlara beceri paketleri. Yani geliştiriciler artık sadece insanlar için değil, yapay zeka için de yazılım yazıyor. Sherlock'a gelince; bence herkes bir kere kendi kullanıcı adıyla denemeli. Ortaokulda açıp unuttuğunuz o utanç verici hesaplar hâlâ orada duruyor olabilir. [laughs] Dijital ayak izinizi temizlemenin tam zamanı!",
+      "tag": "YORUM",
+      "headline": "YAZILIM ARTIK YAPAY ZEKA İÇİN YAZILIYOR",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "çoğu",
+          "t": "Trend listesinin çoğu: yapay zeka ajanları için."
+        },
+        {
+          "k": "quote",
+          "at": "geliştiriciler",
+          "t": "Yazılım artık sadece insanlar için değil, yapay zeka için de yazılıyor."
+        },
+        {
+          "k": "quote",
+          "at": "ayak",
+          "t": "Kendi kullanıcı adınızı aratın; dijital ayak izinizi temizleyin. 🧹"
+        }
+      ]
+    },
+    {
+      "text": "[excited] Uzaydan efsane bir an! SpaceX, Starship'in on beşinci uçuşunda tarihte ilk kez roketin üst kademesini, yani gemiyi, kulenin dev kollarıyla yakaladı! Gemi 13 Kasım'da kalktı, 26 Starlink uydusu bıraktı, Dünya'nın etrafında yaklaşık 14 tur attı ve ertesi gün geri dönüp kollara kondu. Ama her şey kusursuz değildi: Super Heavy itici roketi yakalama denemesini iptal edip denize yöneldi ve kaybedildi; sebebi hâlâ inceleniyor.",
+      "tag": "UZAY",
+      "headline": "STARSHIP'İN ÜST KADEMESİ İLK KEZ YAKALANDI",
+      "title": "KOLLARA KONAN ROKET",
+      "accent": "#FF8A3D",
+      "img": "starship.jpg",
+      "fit": "cover",
+      "src": "Kaynak: SpaceQ · NASASpaceflight",
+      "items": [
+        {
+          "k": "stamp",
+          "at": "yakaladı",
+          "t": "İLK KEZ YAKALANDI",
+          "color": "#2ECC71"
+        },
+        {
+          "k": "chip",
+          "at": "26",
+          "t": "🛰️ 26 Starlink uydusu"
+        },
+        {
+          "k": "chip",
+          "at": "14",
+          "t": "🌍 ~14 tur"
+        },
+        {
+          "k": "chip",
+          "at": "super",
+          "t": "⚠️ İtici roket kaybedildi"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: roketi havada kollarla yakaladılar; ben pazarda düşen domatesi yakalayamıyorum. [laughs] Şaka bir yana, bu çok kritik bir adım. Bir uçağı her uçuştan sonra çöpe attığınızı düşünün; uzay yolculuğu bugüne kadar böyleydi. İki kademeyi de geri yakalayıp tekrar kullanabilmek, uzaya çıkmanın maliyetini kat kat düşürmek demek. İtici roketin kaybı da bize şunu hatırlatıyor: bu işler hâlâ deneme yanılma ile ilerliyor. Ama yön çok net; on yıl sonra uzaya kargo göndermek, bugün kıtalararası kargo göndermek kadar sıradan olabilir.",
+      "tag": "YORUM",
+      "headline": "UZAY UCUZLUYOR",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "domatesi",
+          "t": "Onlar roketi kollarla yakalıyor, ben düşen domatesi yakalayamıyorum. 🍅"
+        },
+        {
+          "k": "quote",
+          "at": "uçağı",
+          "t": "Her uçuştan sonra uçağı çöpe atmak gibiydi; artık değil."
+        },
+        {
+          "k": "quote",
+          "at": "sıradan",
+          "t": "Uzaya kargo, yakında kıtalararası kargo kadar sıradan."
+        }
+      ]
+    },
+    {
+      "text": "Apple da evlerimize göz dikti! Apple'ın akıllı ev ekranı HomeView, 13 Kasım'da satışa çıktı. 7 inç ekran, A18 çip, ev halkından altı kişiye kadar yüzünden tanıyan bir kamera ve yeni yapay zekalı Siri; ama Siri kısmı şimdilik beta. Fiyatı 299 dolar. Garanti dışı tamir ücreti ise 279 dolar! Avrupa Birliği'nde satılmıyor, Türkiye de şimdilik listede yok.",
+      "tag": "DEVLER",
+      "headline": "APPLE HOMEVIEW SATIŞTA",
+      "title": "APPLE HOMEVIEW",
+      "accent": "#C7CED9",
+      "img": "apple-logo.svg",
+      "fit": "contain",
+      "imgBg": "#F4F6FA",
+      "src": "Kaynak: Macworld · 9to5Mac",
+      "items": [
+        {
+          "k": "chip",
+          "at": "7",
+          "t": "📺 7 inç · A18 çip"
+        },
+        {
+          "k": "chip",
+          "at": "altı",
+          "t": "🙂 6 kişiye kadar yüz tanıma"
+        },
+        {
+          "k": "big",
+          "at": "299",
+          "to": 299,
+          "pre": "$",
+          "suf": "",
+          "label": "fiyat"
+        },
+        {
+          "k": "chip",
+          "at": "tamir",
+          "t": "🔧 Tamir: 279 $ (!)"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: cihaz 299 dolar, tamiri 279 dolar. [laughs] Düşürürseniz yenisini alın, aradaki 20 dolarla da kılıf alırsınız. Ama bence asıl önemli nokta şu: Apple, akıllı ev ekranı pazarına Amazon ve Google'dan yıllar sonra giriyor. Apple genelde ilk gelen değil, en cilalı gelen olmayı sever. Bu sefer kozları yapay zekalı Siri; o da hâlâ beta. Yani Apple bu kez biraz aceleyle, yapay zeka yarışından geri kalmamak için sahneye çıkmış gibi duruyor.",
+      "tag": "YORUM",
+      "headline": "APPLE BU KEZ ACELE Mİ ETTİ?",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "kılıf",
+          "t": "Düşürürsen yenisini al, aradaki 20 dolarla kılıf. 😅"
+        },
+        {
+          "k": "quote",
+          "at": "cilalı",
+          "t": "Apple ilk gelen değil, en cilalı gelen olmayı sever."
+        },
+        {
+          "k": "quote",
+          "at": "aceleyle",
+          "t": "Bu kez biraz aceleyle sahneye çıkmış gibi."
+        }
+      ]
+    },
+    {
+      "text": "[excited] Ve geldik oyuncuların uykusunu kaçıran habere! Yıllardır beklenen GTA altı, 19 Kasım'da PlayStation 5 ve Xbox Series için çıkıyor, her bölgede yerel saatle gece yarısı! Dijital ön yükleme 10 Kasım'da açıldı. Oyunun 212 gigabayta kadar boş alan istediği bildiriliyor; PC için ise henüz tarih yok. YouTube da bu çılgınlığa ortak oluyor: Rockstar'la birlikte 19 Kasım'da başlayan, 24 saatlik küresel bir canlı yayın yapacaklar.",
+      "tag": "OYUN",
+      "headline": "GTA VI 19 KASIM'DA ÇIKIYOR",
+      "title": "GTA VI GELİYOR",
+      "accent": "#F25FA2",
+      "img": "gta-billboard.jpg",
+      "fit": "cover",
+      "src": "Kaynak: Rockstar Games · YouTube Blog · Forbes",
+      "items": [
+        {
+          "k": "stamp",
+          "at": "19",
+          "t": "19 KASIM",
+          "color": "#F25FA2"
+        },
+        {
+          "k": "chip",
+          "at": "ön",
+          "t": "⬇️ Ön yükleme açık"
+        },
+        {
+          "k": "chip",
+          "at": "212",
+          "t": "💾 212 GB'a kadar alan"
+        },
+        {
+          "k": "chip",
+          "at": "24",
+          "t": "📺 24 saatlik YouTube yayını"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: GTA altı sadece bir oyun değil, bir kültür olayı. Bir önceki oyun 2013'te çıkmıştı; yani bu oyunu bekleyenlerin bir kısmı o zaman ilkokuldaydı, şimdi iş görüşmesine gidiyor! [laughs] Bence bu çıkışın asıl ilginç yanı, YouTube'un bir oyun için 24 saatlik küresel yayın yapması: oyunlar artık sinema filmlerinin galası gibi. Ve 212 gigabayt... Telefonunuzdaki fotoğrafları silmeye başlamanın tam zamanı. Peki siz ilk gün oynayacak mısınız? Yorumlara yazın; hasta raporu almayı düşünenler, ben bir şey duymadım.",
+      "tag": "YORUM",
+      "headline": "OYUNLAR ARTIK FİLM GALASI GİBİ",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "2013'te",
+          "t": "2013'te ilkokulda bekleyen, şimdi iş görüşmesinde. 🎓"
+        },
+        {
+          "k": "quote",
+          "at": "galası",
+          "t": "Oyunlar artık sinema galası gibi."
+        },
+        {
+          "k": "quote",
+          "at": "oynayacak",
+          "t": "Siz ilk gün oynayacak mısınız? 🎮"
+        }
+      ]
+    },
+    {
+      "text": "Avrupa'dan bir gizlilik haberi: İtalya'nın veri koruma kurumu Meta'ya 805 milyon euro ceza kesti; bu, kurumun tarihindeki en büyük ceza. Sebep: Android'deki Facebook uygulaması, tek bir izinle telefon galerisindeki fotoğraflara, videolara ve bu dosyaların bilgilerine erişiyordu. Meta'nın bu özelliği varsayılan olarak kapatıp ayrı izin istemesi için 60 günü var. Meta ise kararı orantısız bulduğunu söylüyor ve itiraz edecek.",
+      "tag": "GİZLİLİK",
+      "headline": "İTALYA'DAN META'YA 805 MİLYON EURO CEZA",
+      "title": "META'YA REKOR CEZA",
+      "accent": "#4C8DF6",
+      "img": "meta-logo.svg",
+      "fit": "contain",
+      "imgBg": "#FFFFFF",
+      "src": "Kaynak: AP · The Hacker News",
+      "items": [
+        {
+          "k": "big",
+          "at": "805",
+          "to": 805,
+          "pre": "€",
+          "suf": "milyon",
+          "label": "kurumun tarihindeki en büyük ceza"
+        },
+        {
+          "k": "chip",
+          "at": "galerisindeki",
+          "t": "📷 Tek izinle galeri erişimi"
+        },
+        {
+          "k": "chip",
+          "at": "60",
+          "t": "⏳ 60 gün içinde ayrı izin"
+        },
+        {
+          "k": "chip",
+          "at": "itiraz",
+          "t": "⚖️ Meta itiraz edecek"
+        }
+      ]
+    },
+    {
+      "text": "Yorumum: GitHub köşesinde Sherlock'tan bahsetmiştik ya; işte bu da madalyonun öbür yüzü. Biz bir uygulamaya bir kere 'izin ver' diyoruz ve o izin, beklediğimizden çok daha fazlasını kapsayabiliyor. Bence buradan çıkaracağımız ders basit: telefonunuzun ayarlarına girin, hangi uygulamanın galerinize, konumunuza, mikrofonunuza eriştiğine bir bakın. 'Sadece seçili fotoğraflar' seçeneği varsa onu kullanın. Teknoloji ne kadar akıllanırsa, bizim de o kadar uyanık olmamız gerekiyor.",
+      "tag": "YORUM",
+      "headline": "'İZİN VER' DEMEDEN ÖNCE İKİ KERE DÜŞÜNÜN",
+      "title": "💬 YORUMUM",
+      "accent": "#FFD23F",
+      "yorum": true,
+      "items": [
+        {
+          "k": "quote",
+          "at": "izin",
+          "t": "Bir kere 'izin ver' diyoruz; kapsamı beklediğimizden geniş."
+        },
+        {
+          "k": "quote",
+          "at": "seçili",
+          "t": "'Sadece seçili fotoğraflar' seçeneğini kullanın. 📷"
+        },
+        {
+          "k": "quote",
+          "at": "uyanık",
+          "t": "Teknoloji akıllandıkça biz de uyanık olmalıyız."
+        }
+      ]
+    },
+    {
+      "text": "Ve kapanıştan önce bilimden umut veren bir haber: Google DeepMind, AlphaGenome 2'yi tanıttı. Model, DNA'daki değişikliklerin farklı hücre türlerini nasıl etkilediğini tahmin ediyor; 68 dokuda, 107 milyondan fazla hücre profiliyle eğitilmiş. Bir bağışıklık veri setinde hastalığa yol açan varyantları bulma oranı, ilk sürümün neredeyse iki katı. Şimdilik sadece araştırma amaçlı. Yorumum çok kısa: bu haftanın bütün para ve borsa gürültüsünün arasında, yapay zekanın belki de en anlamlı işi bu. Hastalıkların genetik kökenini anlamak, gelecekte ilaçların çok daha hızlı bulunması demek.",
+      "tag": "BİLİM",
+      "headline": "ALPHAGENOME 2: DNA'YI OKUYAN YAPAY ZEKA",
+      "title": "ALPHAGENOME 2",
+      "accent": "#2ECC71",
+      "img": "dna.png",
+      "fit": "contain",
+      "imgBg": "#F4F6FA",
+      "src": "Kaynak: Google DeepMind Blog",
+      "items": [
+        {
+          "k": "chip",
+          "at": "68",
+          "t": "🧬 68 doku · 107 milyon+ hücre profili"
+        },
+        {
+          "k": "chip",
+          "at": "iki",
+          "t": "📈 Varyant bulmada ~2 kat"
+        },
+        {
+          "k": "quote",
+          "at": "anlamlı",
+          "t": "Para gürültüsünün arasında, yapay zekanın en anlamlı işi."
+        }
+      ]
+    },
+    {
+      "text": "[excited] Bitirmeden önce, haftanın hızlı turu! Birinci durak YouTube. 9to5Google'ın haberine göre YouTube, son on yılın en büyük tasarım değişikliğini yapıyor: alttaki menü değişiyor ve Abonelikler sekmesi, ana sayfada bir kaydırma uzağa taşınıyor. Kullanıcılar pek mutlu değil. Küçük bir ipucu: uygulama simgesine basılı tutarsanız Abonelikler kısayolu çıkıyor. Yorumum: platform, Shorts'u öne çıkarmak için abonelikleri biraz saklıyor. Yani 'abone olmayı unutmayın' diyen biz YouTuber'lar, artık 'abonelikleri bulmayı unutmayın' diyeceğiz! [laughs]",
+      "tag": "HIZLI TUR",
+      "headline": "YOUTUBE'UN EN BÜYÜK TASARIM DEĞİŞİKLİĞİ",
+      "title": "⚡ HIZLI TUR: YOUTUBE",
+      "accent": "#FF0033",
+      "img": "youtube-logo.svg",
+      "fit": "contain",
+      "imgBg": "#FFFFFF",
+      "src": "Kaynak: 9to5Google",
+      "items": [
+        {
+          "k": "chip",
+          "at": "menü",
+          "t": "📱 Alt menü değişiyor"
+        },
+        {
+          "k": "chip",
+          "at": "basılı",
+          "t": "💡 Simgeye basılı tut → kısayol"
+        },
+        {
+          "k": "quote",
+          "at": "saklıyor",
+          "t": "Abonelikleri bulmayı unutmayın! 😅"
+        }
+      ]
+    },
+    {
+      "text": "İkinci durak Steam. Steam, Steam Deck uyumluluk sayfasında artık oyunların gerçek oyunculardan toplanan ortalama FPS değerlerini gösteriyor. Veriler, anonim paylaşıma izin veren Deck sahiplerinden geliyor ve binlerce oyunda şimdiden var. Yorumum: bu, satın almadan önce 'bu oyun bende çalışır mı' sorusuna gerçek veriyle cevap demek. Ve 'bende akıyor abi' diyen arkadaşınızın yalanı, artık istatistikle çürütülebiliyor!",
+      "tag": "HIZLI TUR",
+      "headline": "STEAM GERÇEK FPS VERİSİ GÖSTERİYOR",
+      "title": "⚡ HIZLI TUR: STEAM",
+      "accent": "#66C0F4",
+      "img": "steam-deck.png",
+      "fit": "contain",
+      "imgBg": "#1B2838",
+      "src": "Kaynak: TechSpot · GamingOnLinux",
+      "items": [
+        {
+          "k": "chip",
+          "at": "fps",
+          "t": "📊 Gerçek oyuncu FPS ortalaması"
+        },
+        {
+          "k": "chip",
+          "at": "anonim",
+          "t": "🕶️ Anonim Deck verisi"
+        },
+        {
+          "k": "quote",
+          "at": "çürütülebiliyor",
+          "t": "'Bende akıyor abi' artık istatistikle çürütülüyor."
+        }
+      ]
+    },
+    {
+      "text": "Üçüncü durak Paris. Xiaomi, 18 Pro ve 18 Pro Max'i 17 Kasım'da Paris'te tüm dünyaya tanıtıyor. Sızdırılan Avrupa fiyatları 1449 eurodan başlıyor, ama resmi fiyatlar henüz açıklanmadı. Avrupa sürümünün bataryasının Çin sürümünden küçük olduğu da konuşuluyor. Yorumum: amiral gemisi telefonlar sessiz sedasız bin beş yüz euro bandına tırmanıyor. [sighs] Yakında telefon fiyatlarını taksitle değil, kredi faiziyle konuşacağız gibi.",
+      "tag": "HIZLI TUR",
+      "headline": "XIAOMI 18 PRO PARIS'TE TANITILIYOR",
+      "title": "⚡ HIZLI TUR: XIAOMI",
+      "accent": "#FF6900",
+      "img": "xiaomi-logo.svg",
+      "fit": "contain",
+      "imgBg": "#FFFFFF",
+      "src": "Kaynak: Tech Advisor · 9to5Google (fiyatlar sızıntı)",
+      "items": [
+        {
+          "k": "chip",
+          "at": "paris'te",
+          "t": "🇫🇷 Paris · 17 Kasım"
+        },
+        {
+          "k": "big",
+          "at": "1449",
+          "to": 1449,
+          "pre": "€",
+          "suf": "",
+          "label": "sızıntı fiyat · resmi değil"
+        },
+        {
+          "k": "quote",
+          "at": "tırmanıyor",
+          "t": "Amiral gemileri sessizce 1.500 € bandına."
+        }
+      ]
+    },
+    {
+      "text": "Ve son durak uzay. Avrupa ve Japonya'nın ortak görevi BepiColombo, 21 Kasım'da Merkür yörüngesine giriyor. 2018'de fırlatılmıştı ve itici sorunları yüzünden yaklaşık bir yıl gecikti. Sekiz yıl yol, bir yıl rötar... [laughs] Uzay aracı değil, sanki aktarmalı otobüs! Ama şakası bir yana, Merkür yörüngesine girmek Güneş Sistemi'nin en zor manevralarından biri. Bu cumartesi parmaklarımızı çapraz yapıyoruz.",
+      "tag": "HIZLI TUR",
+      "headline": "BEPICOLOMBO MERKÜR'E VARIYOR",
+      "title": "⚡ HIZLI TUR: UZAY",
+      "accent": "#FF8A3D",
+      "img": "bepicolombo.jpg",
+      "fit": "cover",
+      "src": "Kaynak: ESA · Space.com",
+      "items": [
+        {
+          "k": "chip",
+          "at": "21",
+          "t": "📅 21 Kasım · Merkür yörüngesi"
+        },
+        {
+          "k": "chip",
+          "at": "2018'de",
+          "t": "🚀 2018'den beri yolda"
+        },
+        {
+          "k": "quote",
+          "at": "aktarmalı",
+          "t": "8 yıl yol, 1 yıl rötar: aktarmalı otobüs! 🚌"
+        }
+      ]
+    },
+    {
+      "text": "[excited] Ve bu haftalık bu kadar! Bence haftanın kazananı kollara konan roket, kaybedeni de havayolundan vize alamayan yapay zeka ajanları. [laughs] Sizce haftanın en büyük haberi hangisiydi? Yorumlarda buluşalım. Videoyu beğenmeyi ve Diploy Tivi'ye abone olmayı unutmayın, bildirimleri de açın ki yeni bölümü kaçırmayın. Haftaya görüşmek üzere, bay bay!",
+      "tag": "DEPLOYTV",
+      "headline": "ABONE OLMAYI UNUTMAYIN",
+      "title": "SIRA SİZDE",
+      "accent": "#FFD23F",
+      "outro": true,
+      "items": []
+    }
+  ]
+}

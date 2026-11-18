@@ -1,0 +1,2994 @@
+{
+ "duration": 128.433,
+ "segs": [
+  {
+   "clip": "IMG_0113",
+   "from": 1,
+   "dur": 185,
+   "at": 0,
+   "firstWord": 0,
+   "lastWord": 19
+  },
+  {
+   "clip": "IMG_0113",
+   "from": 191,
+   "dur": 81,
+   "at": 185,
+   "firstWord": 20,
+   "lastWord": 28
+  },
+  {
+   "clip": "IMG_0113",
+   "from": 278,
+   "dur": 42,
+   "at": 266,
+   "firstWord": 29,
+   "lastWord": 32
+  },
+  {
+   "clip": "IMG_0114",
+   "from": 0,
+   "dur": 164,
+   "at": 308,
+   "firstWord": 0,
+   "lastWord": 18
+  },
+  {
+   "clip": "IMG_0114",
+   "from": 179,
+   "dur": 34,
+   "at": 472,
+   "firstWord": 19,
+   "lastWord": 21
+  },
+  {
+   "clip": "IMG_0114",
+   "from": 230,
+   "dur": 110,
+   "at": 506,
+   "firstWord": 23,
+   "lastWord": 31
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 0,
+   "dur": 70,
+   "at": 616,
+   "firstWord": 0,
+   "lastWord": 6
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 76,
+   "dur": 51,
+   "at": 686,
+   "firstWord": 8,
+   "lastWord": 13
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 140,
+   "dur": 122,
+   "at": 737,
+   "firstWord": 15,
+   "lastWord": 26
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 272,
+   "dur": 44,
+   "at": 859,
+   "firstWord": 27,
+   "lastWord": 30
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 322,
+   "dur": 21,
+   "at": 903,
+   "firstWord": 31,
+   "lastWord": 31
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 352,
+   "dur": 24,
+   "at": 924,
+   "firstWord": 32,
+   "lastWord": 33
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 396,
+   "dur": 215,
+   "at": 948,
+   "firstWord": 35,
+   "lastWord": 56
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 619,
+   "dur": 74,
+   "at": 1163,
+   "firstWord": 57,
+   "lastWord": 65
+  },
+  {
+   "clip": "IMG_0117",
+   "from": 714,
+   "dur": 44,
+   "at": 1237,
+   "firstWord": 67,
+   "lastWord": 69
+  },
+  {
+   "clip": "IMG_0118",
+   "from": 0,
+   "dur": 59,
+   "at": 1281,
+   "firstWord": 0,
+   "lastWord": 4
+  },
+  {
+   "clip": "IMG_0118",
+   "from": 74,
+   "dur": 179,
+   "at": 1340,
+   "firstWord": 6,
+   "lastWord": 22
+  },
+  {
+   "clip": "IMG_0118",
+   "from": 266,
+   "dur": 30,
+   "at": 1519,
+   "firstWord": 24,
+   "lastWord": 25
+  },
+  {
+   "clip": "IMG_0118",
+   "from": 353,
+   "dur": 97,
+   "at": 1549,
+   "firstWord": 26,
+   "lastWord": 32
+  },
+  {
+   "clip": "IMG_0118",
+   "from": 454,
+   "dur": 134,
+   "at": 1646,
+   "firstWord": 33,
+   "lastWord": 45
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 2,
+   "dur": 96,
+   "at": 1780,
+   "firstWord": 0,
+   "lastWord": 7
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 125,
+   "dur": 51,
+   "at": 1876,
+   "firstWord": 10,
+   "lastWord": 14
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 179,
+   "dur": 20,
+   "at": 1927,
+   "firstWord": 15,
+   "lastWord": 17
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 224,
+   "dur": 131,
+   "at": 1947,
+   "firstWord": 19,
+   "lastWord": 28
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 359,
+   "dur": 51,
+   "at": 2078,
+   "firstWord": 29,
+   "lastWord": 32
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 414,
+   "dur": 63,
+   "at": 2129,
+   "firstWord": 33,
+   "lastWord": 38
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 487,
+   "dur": 25,
+   "at": 2192,
+   "firstWord": 39,
+   "lastWord": 39
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 524,
+   "dur": 51,
+   "at": 2217,
+   "firstWord": 40,
+   "lastWord": 43
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 588,
+   "dur": 100,
+   "at": 2268,
+   "firstWord": 44,
+   "lastWord": 50
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 695,
+   "dur": 201,
+   "at": 2368,
+   "firstWord": 51,
+   "lastWord": 70
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 900,
+   "dur": 28,
+   "at": 2569,
+   "firstWord": 71,
+   "lastWord": 73
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 933,
+   "dur": 205,
+   "at": 2597,
+   "firstWord": 74,
+   "lastWord": 96
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 1144,
+   "dur": 11,
+   "at": 2802,
+   "firstWord": 97,
+   "lastWord": 97
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 1160,
+   "dur": 21,
+   "at": 2813,
+   "firstWord": 98,
+   "lastWord": 98
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 1186,
+   "dur": 35,
+   "at": 2834,
+   "firstWord": 99,
+   "lastWord": 101
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 1229,
+   "dur": 33,
+   "at": 2869,
+   "firstWord": 102,
+   "lastWord": 103
+  },
+  {
+   "clip": "IMG_0119",
+   "from": 1268,
+   "dur": 47,
+   "at": 2902,
+   "firstWord": 104,
+   "lastWord": 107
+  },
+  {
+   "clip": "IMG_0120",
+   "from": 2,
+   "dur": 126,
+   "at": 2949,
+   "firstWord": 0,
+   "lastWord": 10
+  },
+  {
+   "clip": "IMG_0120",
+   "from": 135,
+   "dur": 123,
+   "at": 3075,
+   "firstWord": 11,
+   "lastWord": 25
+  },
+  {
+   "clip": "IMG_0120",
+   "from": 265,
+   "dur": 38,
+   "at": 3198,
+   "firstWord": 26,
+   "lastWord": 29
+  },
+  {
+   "clip": "IMG_0120",
+   "from": 310,
+   "dur": 202,
+   "at": 3236,
+   "firstWord": 31,
+   "lastWord": 52
+  },
+  {
+   "clip": "IMG_0121",
+   "from": 0,
+   "dur": 79,
+   "at": 3438,
+   "firstWord": 0,
+   "lastWord": 9
+  },
+  {
+   "clip": "IMG_0121",
+   "from": 97,
+   "dur": 172,
+   "at": 3517,
+   "firstWord": 11,
+   "lastWord": 27
+  },
+  {
+   "clip": "IMG_0121",
+   "from": 277,
+   "dur": 45,
+   "at": 3689,
+   "firstWord": 28,
+   "lastWord": 32
+  },
+  {
+   "clip": "IMG_0121",
+   "from": 338,
+   "dur": 18,
+   "at": 3734,
+   "firstWord": 34,
+   "lastWord": 34
+  },
+  {
+   "clip": "IMG_0121",
+   "from": 359,
+   "dur": 80,
+   "at": 3752,
+   "firstWord": 35,
+   "lastWord": 43
+  },
+  {
+   "clip": "IMG_0121",
+   "from": 437,
+   "dur": 21,
+   "at": 3832,
+   "firstWord": 45,
+   "lastWord": 45
+  }
+ ],
+ "words": [
+  {
+   "text": "Evet",
+   "clip": "IMG_0113",
+   "i": 0,
+   "start": 0.067,
+   "end": 0.247
+  },
+  {
+   "text": "bu",
+   "clip": "IMG_0113",
+   "i": 1,
+   "start": 0.267,
+   "end": 0.327
+  },
+  {
+   "text": "ara",
+   "clip": "IMG_0113",
+   "i": 2,
+   "start": 0.387,
+   "end": 0.547
+  },
+  {
+   "text": "Instagram'da",
+   "clip": "IMG_0113",
+   "i": 3,
+   "start": 0.587,
+   "end": 1.087
+  },
+  {
+   "text": "yine",
+   "clip": "IMG_0113",
+   "i": 4,
+   "start": 1.107,
+   "end": 1.267
+  },
+  {
+   "text": "popüler",
+   "clip": "IMG_0113",
+   "i": 5,
+   "start": 1.307,
+   "end": 1.587
+  },
+  {
+   "text": "olan",
+   "clip": "IMG_0113",
+   "i": 6,
+   "start": 1.627,
+   "end": 1.807
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0113",
+   "i": 7,
+   "start": 1.827,
+   "end": 1.887
+  },
+  {
+   "text": "şey",
+   "clip": "IMG_0113",
+   "i": 8,
+   "start": 1.927,
+   "end": 2.067
+  },
+  {
+   "text": "var",
+   "clip": "IMG_0113",
+   "i": 9,
+   "start": 2.087,
+   "end": 2.227
+  },
+  {
+   "text": "Herkes",
+   "clip": "IMG_0113",
+   "i": 10,
+   "start": 2.447,
+   "end": 2.767
+  },
+  {
+   "text": "bunu",
+   "clip": "IMG_0113",
+   "i": 11,
+   "start": 2.787,
+   "end": 2.887
+  },
+  {
+   "text": "yapıyor",
+   "clip": "IMG_0113",
+   "i": 12,
+   "start": 2.927,
+   "end": 3.247
+  },
+  {
+   "text": "YouTube'la",
+   "clip": "IMG_0113",
+   "i": 13,
+   "start": 3.507,
+   "end": 3.807
+  },
+  {
+   "text": "bağlantılı",
+   "clip": "IMG_0113",
+   "i": 14,
+   "start": 3.827,
+   "end": 4.507
+  },
+  {
+   "text": "yapay",
+   "clip": "IMG_0113",
+   "i": 15,
+   "start": 4.567,
+   "end": 4.787
+  },
+  {
+   "text": "zekayla",
+   "clip": "IMG_0113",
+   "i": 16,
+   "start": 4.827,
+   "end": 5.147
+  },
+  {
+   "text": "para",
+   "clip": "IMG_0113",
+   "i": 17,
+   "start": 5.167,
+   "end": 5.287
+  },
+  {
+   "text": "kazanma",
+   "clip": "IMG_0113",
+   "i": 18,
+   "start": 5.327,
+   "end": 5.627
+  },
+  {
+   "text": "yöntemi",
+   "clip": "IMG_0113",
+   "i": 19,
+   "start": 5.667,
+   "end": 6.027
+  },
+  {
+   "text": "Şimdi",
+   "clip": "IMG_0113",
+   "i": 20,
+   "start": 6.24,
+   "end": 6.38
+  },
+  {
+   "text": "size",
+   "clip": "IMG_0113",
+   "i": 21,
+   "start": 6.42,
+   "end": 6.5
+  },
+  {
+   "text": "nasıl",
+   "clip": "IMG_0113",
+   "i": 22,
+   "start": 6.54,
+   "end": 6.68
+  },
+  {
+   "text": "yapıldığını",
+   "clip": "IMG_0113",
+   "i": 23,
+   "start": 6.7,
+   "end": 7
+  },
+  {
+   "text": "anlatıyorum",
+   "clip": "IMG_0113",
+   "i": 24,
+   "start": 7.06,
+   "end": 7.46
+  },
+  {
+   "text": "Ben",
+   "clip": "IMG_0113",
+   "i": 25,
+   "start": 7.7,
+   "end": 7.82
+  },
+  {
+   "text": "de",
+   "clip": "IMG_0113",
+   "i": 26,
+   "start": 7.86,
+   "end": 7.9
+  },
+  {
+   "text": "yaptım",
+   "clip": "IMG_0113",
+   "i": 27,
+   "start": 7.94,
+   "end": 8.22
+  },
+  {
+   "text": "Bütün",
+   "clip": "IMG_0113",
+   "i": 28,
+   "start": 8.52,
+   "end": 8.72
+  },
+  {
+   "text": "dosyaları",
+   "clip": "IMG_0113",
+   "i": 29,
+   "start": 8.96,
+   "end": 9.26
+  },
+  {
+   "text": "vesaire",
+   "clip": "IMG_0113",
+   "i": 30,
+   "start": 9.28,
+   "end": 9.52
+  },
+  {
+   "text": "de",
+   "clip": "IMG_0113",
+   "i": 31,
+   "start": 9.54,
+   "end": 9.64
+  },
+  {
+   "text": "paylaşacağım",
+   "clip": "IMG_0113",
+   "i": 32,
+   "start": 9.66,
+   "end": 10.12
+  },
+  {
+   "text": "Öncelikle",
+   "clip": "IMG_0114",
+   "i": 0,
+   "start": 10.307,
+   "end": 10.587
+  },
+  {
+   "text": "Claude'a",
+   "clip": "IMG_0114",
+   "i": 1,
+   "start": 10.647,
+   "end": 10.987
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0114",
+   "i": 2,
+   "start": 11.027,
+   "end": 11.107
+  },
+  {
+   "text": "skill",
+   "clip": "IMG_0114",
+   "i": 3,
+   "start": 11.147,
+   "end": 11.387
+  },
+  {
+   "text": "dosyası",
+   "clip": "IMG_0114",
+   "i": 4,
+   "start": 11.427,
+   "end": 11.747
+  },
+  {
+   "text": "hazırlattım",
+   "clip": "IMG_0114",
+   "i": 5,
+   "start": 11.787,
+   "end": 12.287
+  },
+  {
+   "text": "Büyük",
+   "clip": "IMG_0114",
+   "i": 6,
+   "start": 12.347,
+   "end": 12.507
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0114",
+   "i": 7,
+   "start": 12.547,
+   "end": 12.607
+  },
+  {
+   "text": "skill",
+   "clip": "IMG_0114",
+   "i": 8,
+   "start": 12.647,
+   "end": 12.867
+  },
+  {
+   "text": "dosyası",
+   "clip": "IMG_0114",
+   "i": 9,
+   "start": 12.887,
+   "end": 13.267
+  },
+  {
+   "text": "Hazır",
+   "clip": "IMG_0114",
+   "i": 10,
+   "start": 13.307,
+   "end": 13.527
+  },
+  {
+   "text": "olanlar",
+   "clip": "IMG_0114",
+   "i": 11,
+   "start": 13.547,
+   "end": 13.887
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0114",
+   "i": 12,
+   "start": 13.927,
+   "end": 13.987
+  },
+  {
+   "text": "var",
+   "clip": "IMG_0114",
+   "i": 13,
+   "start": 14.007,
+   "end": 14.107
+  },
+  {
+   "text": "ama",
+   "clip": "IMG_0114",
+   "i": 14,
+   "start": 14.147,
+   "end": 14.286
+  },
+  {
+   "text": "ben",
+   "clip": "IMG_0114",
+   "i": 15,
+   "start": 14.307,
+   "end": 14.447
+  },
+  {
+   "text": "biraz",
+   "clip": "IMG_0114",
+   "i": 16,
+   "start": 14.467,
+   "end": 14.687
+  },
+  {
+   "text": "daha",
+   "clip": "IMG_0114",
+   "i": 17,
+   "start": 14.727,
+   "end": 14.827
+  },
+  {
+   "text": "özelleştirdim",
+   "clip": "IMG_0114",
+   "i": 18,
+   "start": 14.867,
+   "end": 15.587
+  },
+  {
+   "text": "Daha",
+   "clip": "IMG_0114",
+   "i": 19,
+   "start": 15.827,
+   "end": 15.967
+  },
+  {
+   "text": "sonrasında",
+   "clip": "IMG_0114",
+   "i": 20,
+   "start": 16.027,
+   "end": 16.527
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0114",
+   "i": 21,
+   "start": 16.607,
+   "end": 16.727
+  },
+  {
+   "text": "teknoloji",
+   "clip": "IMG_0114",
+   "i": 23,
+   "start": 16.96,
+   "end": 17.44
+  },
+  {
+   "text": "haberlerini",
+   "clip": "IMG_0114",
+   "i": 24,
+   "start": 17.46,
+   "end": 17.92
+  },
+  {
+   "text": "takip",
+   "clip": "IMG_0114",
+   "i": 25,
+   "start": 17.96,
+   "end": 18.18
+  },
+  {
+   "text": "etmesini",
+   "clip": "IMG_0114",
+   "i": 26,
+   "start": 18.24,
+   "end": 18.56
+  },
+  {
+   "text": "istedim",
+   "clip": "IMG_0114",
+   "i": 27,
+   "start": 18.58,
+   "end": 18.84
+  },
+  {
+   "text": "popüler",
+   "clip": "IMG_0114",
+   "i": 28,
+   "start": 18.92,
+   "end": 19.18
+  },
+  {
+   "text": "olan",
+   "clip": "IMG_0114",
+   "i": 29,
+   "start": 19.2,
+   "end": 19.36
+  },
+  {
+   "text": "teknoloji",
+   "clip": "IMG_0114",
+   "i": 30,
+   "start": 19.44,
+   "end": 19.8
+  },
+  {
+   "text": "haberlerini",
+   "clip": "IMG_0114",
+   "i": 31,
+   "start": 19.84,
+   "end": 20.4
+  },
+  {
+   "text": "Bunları",
+   "clip": "IMG_0117",
+   "i": 0,
+   "start": 20.533,
+   "end": 20.733
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 1,
+   "start": 20.753,
+   "end": 20.833
+  },
+  {
+   "text": "araya",
+   "clip": "IMG_0117",
+   "i": 2,
+   "start": 20.873,
+   "end": 21.033
+  },
+  {
+   "text": "getirip",
+   "clip": "IMG_0117",
+   "i": 3,
+   "start": 21.073,
+   "end": 21.473
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 4,
+   "start": 21.513,
+   "end": 21.613
+  },
+  {
+   "text": "teknoloji",
+   "clip": "IMG_0117",
+   "i": 5,
+   "start": 21.693,
+   "end": 22.293
+  },
+  {
+   "text": "haberi",
+   "clip": "IMG_0117",
+   "i": 6,
+   "start": 22.333,
+   "end": 22.713
+  },
+  {
+   "text": "kanalı",
+   "clip": "IMG_0117",
+   "i": 8,
+   "start": 22.933,
+   "end": 23.213
+  },
+  {
+   "text": "tarzı",
+   "clip": "IMG_0117",
+   "i": 9,
+   "start": 23.253,
+   "end": 23.453
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 10,
+   "start": 23.473,
+   "end": 23.533
+  },
+  {
+   "text": "şey",
+   "clip": "IMG_0117",
+   "i": 11,
+   "start": 23.573,
+   "end": 23.633
+  },
+  {
+   "text": "oluşmasını",
+   "clip": "IMG_0117",
+   "i": 12,
+   "start": 23.673,
+   "end": 24.053
+  },
+  {
+   "text": "istedim",
+   "clip": "IMG_0117",
+   "i": 13,
+   "start": 24.113,
+   "end": 24.433
+  },
+  {
+   "text": "genel",
+   "clip": "IMG_0117",
+   "i": 15,
+   "start": 24.64,
+   "end": 24.86
+  },
+  {
+   "text": "gündemi",
+   "clip": "IMG_0117",
+   "i": 16,
+   "start": 24.92,
+   "end": 25.22
+  },
+  {
+   "text": "takip",
+   "clip": "IMG_0117",
+   "i": 17,
+   "start": 25.26,
+   "end": 25.52
+  },
+  {
+   "text": "edecek",
+   "clip": "IMG_0117",
+   "i": 18,
+   "start": 25.56,
+   "end": 25.84
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0117",
+   "i": 19,
+   "start": 25.92,
+   "end": 26.06
+  },
+  {
+   "text": "gün",
+   "clip": "IMG_0117",
+   "i": 20,
+   "start": 26.12,
+   "end": 26.24
+  },
+  {
+   "text": "video",
+   "clip": "IMG_0117",
+   "i": 21,
+   "start": 26.28,
+   "end": 26.5
+  },
+  {
+   "text": "hazırlayacak",
+   "clip": "IMG_0117",
+   "i": 22,
+   "start": 26.54,
+   "end": 27.14
+  },
+  {
+   "text": "kendi",
+   "clip": "IMG_0117",
+   "i": 23,
+   "start": 27.3,
+   "end": 27.52
+  },
+  {
+   "text": "yorumlarını",
+   "clip": "IMG_0117",
+   "i": 24,
+   "start": 27.56,
+   "end": 27.9
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0117",
+   "i": 25,
+   "start": 27.92,
+   "end": 28
+  },
+  {
+   "text": "katacak",
+   "clip": "IMG_0117",
+   "i": 26,
+   "start": 28.019,
+   "end": 28.5
+  },
+  {
+   "text": "Ve",
+   "clip": "IMG_0117",
+   "i": 27,
+   "start": 28.707,
+   "end": 28.847
+  },
+  {
+   "text": "bunu",
+   "clip": "IMG_0117",
+   "i": 28,
+   "start": 29.067,
+   "end": 29.207
+  },
+  {
+   "text": "yaparken",
+   "clip": "IMG_0117",
+   "i": 29,
+   "start": 29.247,
+   "end": 29.767
+  },
+  {
+   "text": "de",
+   "clip": "IMG_0117",
+   "i": 30,
+   "start": 29.807,
+   "end": 29.947
+  },
+  {
+   "text": "aslında",
+   "clip": "IMG_0117",
+   "i": 31,
+   "start": 30.187,
+   "end": 30.667
+  },
+  {
+   "text": "sesimi",
+   "clip": "IMG_0117",
+   "i": 32,
+   "start": 30.887,
+   "end": 31.267
+  },
+  {
+   "text": "de",
+   "clip": "IMG_0117",
+   "i": 33,
+   "start": 31.327,
+   "end": 31.447
+  },
+  {
+   "text": "klonlattım",
+   "clip": "IMG_0117",
+   "i": 35,
+   "start": 31.68,
+   "end": 32.3
+  },
+  {
+   "text": "Tabii",
+   "clip": "IMG_0117",
+   "i": 36,
+   "start": 32.5,
+   "end": 32.64
+  },
+  {
+   "text": "çok",
+   "clip": "IMG_0117",
+   "i": 37,
+   "start": 32.7,
+   "end": 32.82
+  },
+  {
+   "text": "iyi",
+   "clip": "IMG_0117",
+   "i": 38,
+   "start": 32.88,
+   "end": 32.94
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 39,
+   "start": 32.98,
+   "end": 33.04
+  },
+  {
+   "text": "klon",
+   "clip": "IMG_0117",
+   "i": 40,
+   "start": 33.08,
+   "end": 33.26
+  },
+  {
+   "text": "olmadı",
+   "clip": "IMG_0117",
+   "i": 41,
+   "start": 33.3,
+   "end": 33.58
+  },
+  {
+   "text": "Daha",
+   "clip": "IMG_0117",
+   "i": 42,
+   "start": 33.62,
+   "end": 33.74
+  },
+  {
+   "text": "çok",
+   "clip": "IMG_0117",
+   "i": 43,
+   "start": 33.8,
+   "end": 33.96
+  },
+  {
+   "text": "veri",
+   "clip": "IMG_0117",
+   "i": 44,
+   "start": 33.98,
+   "end": 34.14
+  },
+  {
+   "text": "vermek",
+   "clip": "IMG_0117",
+   "i": 45,
+   "start": 34.24,
+   "end": 34.56
+  },
+  {
+   "text": "gerekiyor",
+   "clip": "IMG_0117",
+   "i": 46,
+   "start": 34.58,
+   "end": 35.06
+  },
+  {
+   "text": "ama",
+   "clip": "IMG_0117",
+   "i": 47,
+   "start": 35.14,
+   "end": 35.48
+  },
+  {
+   "text": "aşağı",
+   "clip": "IMG_0117",
+   "i": 48,
+   "start": 35.56,
+   "end": 35.78
+  },
+  {
+   "text": "yukarı",
+   "clip": "IMG_0117",
+   "i": 49,
+   "start": 35.8,
+   "end": 36.12
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 50,
+   "start": 36.16,
+   "end": 36.32
+  },
+  {
+   "text": "ses",
+   "clip": "IMG_0117",
+   "i": 51,
+   "start": 36.52,
+   "end": 36.66
+  },
+  {
+   "text": "oluşturdum",
+   "clip": "IMG_0117",
+   "i": 52,
+   "start": 36.7,
+   "end": 37.28
+  },
+  {
+   "text": "Bunu",
+   "clip": "IMG_0117",
+   "i": 53,
+   "start": 37.56,
+   "end": 37.66
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0117",
+   "i": 54,
+   "start": 37.68,
+   "end": 37.74
+  },
+  {
+   "text": "ElevenLabs'ta",
+   "clip": "IMG_0117",
+   "i": 55,
+   "start": 37.78,
+   "end": 38.32
+  },
+  {
+   "text": "yaptım",
+   "clip": "IMG_0117",
+   "i": 56,
+   "start": 38.36,
+   "end": 38.64
+  },
+  {
+   "text": "ve",
+   "clip": "IMG_0117",
+   "i": 57,
+   "start": 38.833,
+   "end": 38.913
+  },
+  {
+   "text": "dediğim",
+   "clip": "IMG_0117",
+   "i": 58,
+   "start": 38.933,
+   "end": 39.113
+  },
+  {
+   "text": "gibi",
+   "clip": "IMG_0117",
+   "i": 59,
+   "start": 39.153,
+   "end": 39.293
+  },
+  {
+   "text": "büyük",
+   "clip": "IMG_0117",
+   "i": 60,
+   "start": 39.353,
+   "end": 39.553
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 61,
+   "start": 39.573,
+   "end": 39.653
+  },
+  {
+   "text": "Reels",
+   "clip": "IMG_0117",
+   "i": 62,
+   "start": 39.693,
+   "end": 39.853
+  },
+  {
+   "text": "Studio",
+   "clip": "IMG_0117",
+   "i": 63,
+   "start": 39.893,
+   "end": 40.313
+  },
+  {
+   "text": "tarzında",
+   "clip": "IMG_0117",
+   "i": 64,
+   "start": 40.413,
+   "end": 40.913
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0117",
+   "i": 65,
+   "start": 40.953,
+   "end": 41.093
+  },
+  {
+   "text": "skill",
+   "clip": "IMG_0117",
+   "i": 67,
+   "start": 41.313,
+   "end": 41.533
+  },
+  {
+   "text": "dosyası",
+   "clip": "IMG_0117",
+   "i": 68,
+   "start": 41.553,
+   "end": 42.053
+  },
+  {
+   "text": "oluşturdum",
+   "clip": "IMG_0117",
+   "i": 69,
+   "start": 42.093,
+   "end": 42.573
+  },
+  {
+   "text": "Tabii",
+   "clip": "IMG_0118",
+   "i": 0,
+   "start": 42.72,
+   "end": 42.86
+  },
+  {
+   "text": "sonrasında",
+   "clip": "IMG_0118",
+   "i": 1,
+   "start": 42.88,
+   "end": 43.18
+  },
+  {
+   "text": "kendisi",
+   "clip": "IMG_0118",
+   "i": 2,
+   "start": 43.2,
+   "end": 43.8
+  },
+  {
+   "text": "bayağı",
+   "clip": "IMG_0118",
+   "i": 3,
+   "start": 44.04,
+   "end": 44.32
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0118",
+   "i": 4,
+   "start": 44.38,
+   "end": 44.52
+  },
+  {
+   "text": "Short",
+   "clip": "IMG_0118",
+   "i": 6,
+   "start": 44.76,
+   "end": 45.02
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0118",
+   "i": 7,
+   "start": 45.06,
+   "end": 45.12
+  },
+  {
+   "text": "oluşturdu",
+   "clip": "IMG_0118",
+   "i": 8,
+   "start": 45.16,
+   "end": 45.82
+  },
+  {
+   "text": "YouTube",
+   "clip": "IMG_0118",
+   "i": 9,
+   "start": 46.06,
+   "end": 46.32
+  },
+  {
+   "text": "videosu",
+   "clip": "IMG_0118",
+   "i": 10,
+   "start": 46.36,
+   "end": 46.6
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0118",
+   "i": 11,
+   "start": 46.64,
+   "end": 46.68
+  },
+  {
+   "text": "oluşturdu",
+   "clip": "IMG_0118",
+   "i": 12,
+   "start": 46.7,
+   "end": 47.1
+  },
+  {
+   "text": "Tam",
+   "clip": "IMG_0118",
+   "i": 13,
+   "start": 47.18,
+   "end": 47.32
+  },
+  {
+   "text": "tamına",
+   "clip": "IMG_0118",
+   "i": 14,
+   "start": 47.36,
+   "end": 47.64
+  },
+  {
+   "text": "on",
+   "clip": "IMG_0118",
+   "i": 15,
+   "start": 47.7,
+   "end": 47.84
+  },
+  {
+   "text": "beş",
+   "clip": "IMG_0118",
+   "i": 16,
+   "start": 47.88,
+   "end": 48.02
+  },
+  {
+   "text": "dakikalık",
+   "clip": "IMG_0118",
+   "i": 17,
+   "start": 48.06,
+   "end": 48.66
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0118",
+   "i": 18,
+   "start": 48.68,
+   "end": 48.88
+  },
+  {
+   "text": "YouTube",
+   "clip": "IMG_0118",
+   "i": 19,
+   "start": 48.96,
+   "end": 49.2
+  },
+  {
+   "text": "videosu",
+   "clip": "IMG_0118",
+   "i": 20,
+   "start": 49.24,
+   "end": 49.52
+  },
+  {
+   "text": "oluşturdu",
+   "clip": "IMG_0118",
+   "i": 21,
+   "start": 49.56,
+   "end": 50.04
+  },
+  {
+   "text": "Hatta",
+   "clip": "IMG_0118",
+   "i": 22,
+   "start": 50.1,
+   "end": 50.48
+  },
+  {
+   "text": "şuradan",
+   "clip": "IMG_0118",
+   "i": 24,
+   "start": 50.727,
+   "end": 51.007
+  },
+  {
+   "text": "açayım",
+   "clip": "IMG_0118",
+   "i": 25,
+   "start": 51.087,
+   "end": 51.487
+  },
+  {
+   "text": "Selam",
+   "clip": "IMG_0118",
+   "i": 26,
+   "start": 51.727,
+   "end": 51.967
+  },
+  {
+   "text": "selam",
+   "clip": "IMG_0118",
+   "i": 27,
+   "start": 52.047,
+   "end": 52.307
+  },
+  {
+   "text": "selam",
+   "clip": "IMG_0118",
+   "i": 28,
+   "start": 52.387,
+   "end": 52.827
+  },
+  {
+   "text": "Deploy",
+   "clip": "IMG_0118",
+   "i": 29,
+   "start": 52.887,
+   "end": 53.167
+  },
+  {
+   "text": "TV'ye",
+   "clip": "IMG_0118",
+   "i": 30,
+   "start": 53.327,
+   "end": 53.687
+  },
+  {
+   "text": "hoş",
+   "clip": "IMG_0118",
+   "i": 31,
+   "start": 53.727,
+   "end": 53.947
+  },
+  {
+   "text": "geldiniz",
+   "clip": "IMG_0118",
+   "i": 32,
+   "start": 54.007,
+   "end": 54.727
+  },
+  {
+   "text": "Bu",
+   "clip": "IMG_0118",
+   "i": 33,
+   "start": 54.953,
+   "end": 55.073
+  },
+  {
+   "text": "hafta",
+   "clip": "IMG_0118",
+   "i": 34,
+   "start": 55.093,
+   "end": 55.533
+  },
+  {
+   "text": "teknoloji",
+   "clip": "IMG_0118",
+   "i": 35,
+   "start": 55.573,
+   "end": 56.053
+  },
+  {
+   "text": "dünyası",
+   "clip": "IMG_0118",
+   "i": 36,
+   "start": 56.112,
+   "end": 56.713
+  },
+  {
+   "text": "resmen-",
+   "clip": "IMG_0118",
+   "i": 37,
+   "start": 56.873,
+   "end": 57.233
+  },
+  {
+   "text": "Burada",
+   "clip": "IMG_0118",
+   "i": 38,
+   "start": 57.433,
+   "end": 57.633
+  },
+  {
+   "text": "tabii",
+   "clip": "IMG_0118",
+   "i": 39,
+   "start": 57.673,
+   "end": 57.853
+  },
+  {
+   "text": "bunun",
+   "clip": "IMG_0118",
+   "i": 40,
+   "start": 57.873,
+   "end": 58.053
+  },
+  {
+   "text": "uzun",
+   "clip": "IMG_0118",
+   "i": 41,
+   "start": 58.113,
+   "end": 58.273
+  },
+  {
+   "text": "hali",
+   "clip": "IMG_0118",
+   "i": 42,
+   "start": 58.333,
+   "end": 58.493
+  },
+  {
+   "text": "YouTube'da",
+   "clip": "IMG_0118",
+   "i": 43,
+   "start": 58.533,
+   "end": 58.853
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0118",
+   "i": 44,
+   "start": 58.893,
+   "end": 58.973
+  },
+  {
+   "text": "var",
+   "clip": "IMG_0118",
+   "i": 45,
+   "start": 58.993,
+   "end": 59.193
+  },
+  {
+   "text": "Bunların",
+   "clip": "IMG_0119",
+   "i": 0,
+   "start": 59.407,
+   "end": 59.767
+  },
+  {
+   "text": "hepsini",
+   "clip": "IMG_0119",
+   "i": 1,
+   "start": 59.827,
+   "end": 60.287
+  },
+  {
+   "text": "aslında",
+   "clip": "IMG_0119",
+   "i": 2,
+   "start": 60.367,
+   "end": 60.647
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0119",
+   "i": 3,
+   "start": 60.687,
+   "end": 60.767
+  },
+  {
+   "text": "panele",
+   "clip": "IMG_0119",
+   "i": 4,
+   "start": 60.847,
+   "end": 61.107
+  },
+  {
+   "text": "bağladım",
+   "clip": "IMG_0119",
+   "i": 5,
+   "start": 61.147,
+   "end": 61.547
+  },
+  {
+   "text": "Bu",
+   "clip": "IMG_0119",
+   "i": 6,
+   "start": 61.827,
+   "end": 61.887
+  },
+  {
+   "text": "panelde",
+   "clip": "IMG_0119",
+   "i": 7,
+   "start": 61.947,
+   "end": 62.407
+  },
+  {
+   "text": "Claude'a",
+   "clip": "IMG_0119",
+   "i": 10,
+   "start": 62.627,
+   "end": 62.947
+  },
+  {
+   "text": "dedim",
+   "clip": "IMG_0119",
+   "i": 11,
+   "start": 62.967,
+   "end": 63.147
+  },
+  {
+   "text": "ki",
+   "clip": "IMG_0119",
+   "i": 12,
+   "start": 63.187,
+   "end": 63.267
+  },
+  {
+   "text": "Takip",
+   "clip": "IMG_0119",
+   "i": 13,
+   "start": 63.287,
+   "end": 63.587
+  },
+  {
+   "text": "edeceksin",
+   "clip": "IMG_0119",
+   "i": 14,
+   "start": 63.627,
+   "end": 64.087
+  },
+  {
+   "text": "ve",
+   "clip": "IMG_0119",
+   "i": 15,
+   "start": 64.307,
+   "end": 64.367
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0119",
+   "i": 16,
+   "start": 64.407,
+   "end": 64.567
+  },
+  {
+   "text": "gün",
+   "clip": "IMG_0119",
+   "i": 17,
+   "start": 64.647,
+   "end": 64.767
+  },
+  {
+   "text": "yine",
+   "clip": "IMG_0119",
+   "i": 19,
+   "start": 64.993,
+   "end": 65.253
+  },
+  {
+   "text": "içerik",
+   "clip": "IMG_0119",
+   "i": 20,
+   "start": 65.313,
+   "end": 65.613
+  },
+  {
+   "text": "hazırlayacaksın",
+   "clip": "IMG_0119",
+   "i": 21,
+   "start": 65.713,
+   "end": 66.413
+  },
+  {
+   "text": "Bu",
+   "clip": "IMG_0119",
+   "i": 22,
+   "start": 66.433,
+   "end": 66.493
+  },
+  {
+   "text": "içerikleri",
+   "clip": "IMG_0119",
+   "i": 23,
+   "start": 66.553,
+   "end": 66.953
+  },
+  {
+   "text": "yükleyeceksin",
+   "clip": "IMG_0119",
+   "i": 24,
+   "start": 66.993,
+   "end": 67.693
+  },
+  {
+   "text": "Hem",
+   "clip": "IMG_0119",
+   "i": 25,
+   "start": 67.793,
+   "end": 67.933
+  },
+  {
+   "text": "Shorts",
+   "clip": "IMG_0119",
+   "i": 26,
+   "start": 67.993,
+   "end": 68.233
+  },
+  {
+   "text": "olarak",
+   "clip": "IMG_0119",
+   "i": 27,
+   "start": 68.273,
+   "end": 68.513
+  },
+  {
+   "text": "yükleyeceksin",
+   "clip": "IMG_0119",
+   "i": 28,
+   "start": 68.533,
+   "end": 69.133
+  },
+  {
+   "text": "hem",
+   "clip": "IMG_0119",
+   "i": 29,
+   "start": 69.34,
+   "end": 69.5
+  },
+  {
+   "text": "YouTube",
+   "clip": "IMG_0119",
+   "i": 30,
+   "start": 69.58,
+   "end": 69.82
+  },
+  {
+   "text": "videosu",
+   "clip": "IMG_0119",
+   "i": 31,
+   "start": 69.86,
+   "end": 70.14
+  },
+  {
+   "text": "yükleyeceksin",
+   "clip": "IMG_0119",
+   "i": 32,
+   "start": 70.16,
+   "end": 70.82
+  },
+  {
+   "text": "Aynı",
+   "clip": "IMG_0119",
+   "i": 33,
+   "start": 71.047,
+   "end": 71.167
+  },
+  {
+   "text": "zamanda",
+   "clip": "IMG_0119",
+   "i": 34,
+   "start": 71.207,
+   "end": 71.447
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0119",
+   "i": 35,
+   "start": 71.487,
+   "end": 71.547
+  },
+  {
+   "text": "Instagram'a",
+   "clip": "IMG_0119",
+   "i": 36,
+   "start": 71.587,
+   "end": 72.027
+  },
+  {
+   "text": "yükleyeceksin",
+   "clip": "IMG_0119",
+   "i": 37,
+   "start": 72.047,
+   "end": 72.587
+  },
+  {
+   "text": "dedim",
+   "clip": "IMG_0119",
+   "i": 38,
+   "start": 72.627,
+   "end": 72.927
+  },
+  {
+   "text": "Böylelikle",
+   "clip": "IMG_0119",
+   "i": 39,
+   "start": 73.133,
+   "end": 73.773
+  },
+  {
+   "text": "on",
+   "clip": "IMG_0119",
+   "i": 40,
+   "start": 73.973,
+   "end": 74.113
+  },
+  {
+   "text": "günde",
+   "clip": "IMG_0119",
+   "i": 41,
+   "start": 74.173,
+   "end": 74.513
+  },
+  {
+   "text": "bakalım",
+   "clip": "IMG_0119",
+   "i": 42,
+   "start": 74.573,
+   "end": 74.953
+  },
+  {
+   "text": "Claude",
+   "clip": "IMG_0119",
+   "i": 43,
+   "start": 75.073,
+   "end": 75.473
+  },
+  {
+   "text": "bu",
+   "clip": "IMG_0119",
+   "i": 44,
+   "start": 75.68,
+   "end": 75.76
+  },
+  {
+   "text": "hesapları",
+   "clip": "IMG_0119",
+   "i": 45,
+   "start": 75.82,
+   "end": 76.56
+  },
+  {
+   "text": "sıfırdan",
+   "clip": "IMG_0119",
+   "i": 46,
+   "start": 76.62,
+   "end": 77.1
+  },
+  {
+   "text": "nereye",
+   "clip": "IMG_0119",
+   "i": 47,
+   "start": 77.22,
+   "end": 77.46
+  },
+  {
+   "text": "getirecek",
+   "clip": "IMG_0119",
+   "i": 48,
+   "start": 77.5,
+   "end": 77.88
+  },
+  {
+   "text": "onu",
+   "clip": "IMG_0119",
+   "i": 49,
+   "start": 78.1,
+   "end": 78.26
+  },
+  {
+   "text": "göreceğiz",
+   "clip": "IMG_0119",
+   "i": 50,
+   "start": 78.3,
+   "end": 78.78
+  },
+  {
+   "text": "Şu",
+   "clip": "IMG_0119",
+   "i": 51,
+   "start": 79.027,
+   "end": 79.127
+  },
+  {
+   "text": "anda",
+   "clip": "IMG_0119",
+   "i": 52,
+   "start": 79.227,
+   "end": 79.547
+  },
+  {
+   "text": "herkes",
+   "clip": "IMG_0119",
+   "i": 53,
+   "start": 79.847,
+   "end": 80.327
+  },
+  {
+   "text": "işte",
+   "clip": "IMG_0119",
+   "i": 54,
+   "start": 80.427,
+   "end": 80.567
+  },
+  {
+   "text": "Shorts'la",
+   "clip": "IMG_0119",
+   "i": 55,
+   "start": 80.647,
+   "end": 81.087
+  },
+  {
+   "text": "şu",
+   "clip": "IMG_0119",
+   "i": 56,
+   "start": 81.127,
+   "end": 81.207
+  },
+  {
+   "text": "kadar",
+   "clip": "IMG_0119",
+   "i": 57,
+   "start": 81.247,
+   "end": 81.447
+  },
+  {
+   "text": "para",
+   "clip": "IMG_0119",
+   "i": 58,
+   "start": 81.527,
+   "end": 81.687
+  },
+  {
+   "text": "kazandım",
+   "clip": "IMG_0119",
+   "i": 59,
+   "start": 81.727,
+   "end": 82.087
+  },
+  {
+   "text": "bu",
+   "clip": "IMG_0119",
+   "i": 60,
+   "start": 82.147,
+   "end": 82.227
+  },
+  {
+   "text": "kadar",
+   "clip": "IMG_0119",
+   "i": 61,
+   "start": 82.267,
+   "end": 82.467
+  },
+  {
+   "text": "para",
+   "clip": "IMG_0119",
+   "i": 62,
+   "start": 82.547,
+   "end": 82.687
+  },
+  {
+   "text": "kazandım",
+   "clip": "IMG_0119",
+   "i": 63,
+   "start": 82.747,
+   "end": 83.167
+  },
+  {
+   "text": "YouTube'da",
+   "clip": "IMG_0119",
+   "i": 64,
+   "start": 83.287,
+   "end": 83.647
+  },
+  {
+   "text": "şunu",
+   "clip": "IMG_0119",
+   "i": 65,
+   "start": 83.687,
+   "end": 83.827
+  },
+  {
+   "text": "yaptım",
+   "clip": "IMG_0119",
+   "i": 66,
+   "start": 83.867,
+   "end": 84.167
+  },
+  {
+   "text": "vesaire",
+   "clip": "IMG_0119",
+   "i": 67,
+   "start": 84.207,
+   "end": 84.567
+  },
+  {
+   "text": "gibi",
+   "clip": "IMG_0119",
+   "i": 68,
+   "start": 84.607,
+   "end": 84.767
+  },
+  {
+   "text": "videolar",
+   "clip": "IMG_0119",
+   "i": 69,
+   "start": 84.807,
+   "end": 85.067
+  },
+  {
+   "text": "çekiyor",
+   "clip": "IMG_0119",
+   "i": 70,
+   "start": 85.147,
+   "end": 85.507
+  },
+  {
+   "text": "Aslında",
+   "clip": "IMG_0119",
+   "i": 71,
+   "start": 85.713,
+   "end": 86.053
+  },
+  {
+   "text": "bu",
+   "clip": "IMG_0119",
+   "i": 72,
+   "start": 86.113,
+   "end": 86.193
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0119",
+   "i": 73,
+   "start": 86.253,
+   "end": 86.413
+  },
+  {
+   "text": "tam",
+   "clip": "IMG_0119",
+   "i": 74,
+   "start": 86.647,
+   "end": 86.787
+  },
+  {
+   "text": "anlamıyla",
+   "clip": "IMG_0119",
+   "i": 75,
+   "start": 86.847,
+   "end": 87.247
+  },
+  {
+   "text": "filtresiz",
+   "clip": "IMG_0119",
+   "i": 76,
+   "start": 87.287,
+   "end": 87.687
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0119",
+   "i": 77,
+   "start": 87.726,
+   "end": 87.766
+  },
+  {
+   "text": "şekilde",
+   "clip": "IMG_0119",
+   "i": 78,
+   "start": 87.807,
+   "end": 88.107
+  },
+  {
+   "text": "benim",
+   "clip": "IMG_0119",
+   "i": 79,
+   "start": 88.147,
+   "end": 88.347
+  },
+  {
+   "text": "deneme",
+   "clip": "IMG_0119",
+   "i": 80,
+   "start": 88.387,
+   "end": 88.667
+  },
+  {
+   "text": "videom",
+   "clip": "IMG_0119",
+   "i": 81,
+   "start": 88.687,
+   "end": 89.047
+  },
+  {
+   "text": "Şu",
+   "clip": "IMG_0119",
+   "i": 82,
+   "start": 89.347,
+   "end": 89.407
+  },
+  {
+   "text": "an",
+   "clip": "IMG_0119",
+   "i": 83,
+   "start": 89.467,
+   "end": 89.527
+  },
+  {
+   "text": "hiçbir",
+   "clip": "IMG_0119",
+   "i": 84,
+   "start": 89.567,
+   "end": 89.767
+  },
+  {
+   "text": "şey",
+   "clip": "IMG_0119",
+   "i": 85,
+   "start": 89.787,
+   "end": 89.907
+  },
+  {
+   "text": "yapmıyorum",
+   "clip": "IMG_0119",
+   "i": 86,
+   "start": 89.947,
+   "end": 90.407
+  },
+  {
+   "text": "ben",
+   "clip": "IMG_0119",
+   "i": 87,
+   "start": 90.447,
+   "end": 90.607
+  },
+  {
+   "text": "Sadece",
+   "clip": "IMG_0119",
+   "i": 88,
+   "start": 90.827,
+   "end": 91.107
+  },
+  {
+   "text": "bütün",
+   "clip": "IMG_0119",
+   "i": 89,
+   "start": 91.147,
+   "end": 91.327
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0119",
+   "i": 90,
+   "start": 91.347,
+   "end": 91.427
+  },
+  {
+   "text": "şeyi",
+   "clip": "IMG_0119",
+   "i": 91,
+   "start": 91.487,
+   "end": 91.607
+  },
+  {
+   "text": "hazırladım",
+   "clip": "IMG_0119",
+   "i": 92,
+   "start": 91.647,
+   "end": 92.047
+  },
+  {
+   "text": "kodları",
+   "clip": "IMG_0119",
+   "i": 93,
+   "start": 92.127,
+   "end": 92.407
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0119",
+   "i": 94,
+   "start": 92.467,
+   "end": 92.587
+  },
+  {
+   "text": "şeyi",
+   "clip": "IMG_0119",
+   "i": 95,
+   "start": 92.667,
+   "end": 92.787
+  },
+  {
+   "text": "hazırladım",
+   "clip": "IMG_0119",
+   "i": 96,
+   "start": 92.807,
+   "end": 93.247
+  },
+  {
+   "text": "ve",
+   "clip": "IMG_0119",
+   "i": 97,
+   "start": 93.487,
+   "end": 93.627
+  },
+  {
+   "text": "sıfırdan",
+   "clip": "IMG_0119",
+   "i": 98,
+   "start": 93.84,
+   "end": 94.34
+  },
+  {
+   "text": "on",
+   "clip": "IMG_0119",
+   "i": 99,
+   "start": 94.553,
+   "end": 94.693
+  },
+  {
+   "text": "gün",
+   "clip": "IMG_0119",
+   "i": 100,
+   "start": 94.733,
+   "end": 94.813
+  },
+  {
+   "text": "içerisinde",
+   "clip": "IMG_0119",
+   "i": 101,
+   "start": 94.833,
+   "end": 95.493
+  },
+  {
+   "text": "nereye",
+   "clip": "IMG_0119",
+   "i": 102,
+   "start": 95.707,
+   "end": 95.947
+  },
+  {
+   "text": "getireceğini",
+   "clip": "IMG_0119",
+   "i": 103,
+   "start": 95.967,
+   "end": 96.587
+  },
+  {
+   "text": "hep",
+   "clip": "IMG_0119",
+   "i": 104,
+   "start": 96.807,
+   "end": 96.967
+  },
+  {
+   "text": "beraber",
+   "clip": "IMG_0119",
+   "i": 105,
+   "start": 97.007,
+   "end": 97.347
+  },
+  {
+   "text": "göreceğiz",
+   "clip": "IMG_0119",
+   "i": 106,
+   "start": 97.387,
+   "end": 97.727
+  },
+  {
+   "text": "aslında",
+   "clip": "IMG_0119",
+   "i": 107,
+   "start": 97.767,
+   "end": 98.167
+  },
+  {
+   "text": "Kanalın",
+   "clip": "IMG_0120",
+   "i": 0,
+   "start": 98.373,
+   "end": 98.833
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0120",
+   "i": 1,
+   "start": 98.973,
+   "end": 99.113
+  },
+  {
+   "text": "şeyi",
+   "clip": "IMG_0120",
+   "i": 2,
+   "start": 99.213,
+   "end": 99.473
+  },
+  {
+   "text": "stüdyo",
+   "clip": "IMG_0120",
+   "i": 3,
+   "start": 99.573,
+   "end": 99.933
+  },
+  {
+   "text": "tarafının",
+   "clip": "IMG_0120",
+   "i": 4,
+   "start": 99.953,
+   "end": 100.313
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0120",
+   "i": 5,
+   "start": 100.353,
+   "end": 100.473
+  },
+  {
+   "text": "şeyini",
+   "clip": "IMG_0120",
+   "i": 6,
+   "start": 100.573,
+   "end": 100.993
+  },
+  {
+   "text": "aslında",
+   "clip": "IMG_0120",
+   "i": 7,
+   "start": 101.073,
+   "end": 101.513
+  },
+  {
+   "text": "o",
+   "clip": "IMG_0120",
+   "i": 8,
+   "start": 101.553,
+   "end": 101.593
+  },
+  {
+   "text": "kontrol",
+   "clip": "IMG_0120",
+   "i": 9,
+   "start": 101.673,
+   "end": 102.033
+  },
+  {
+   "text": "ediyor",
+   "clip": "IMG_0120",
+   "i": 10,
+   "start": 102.093,
+   "end": 102.373
+  },
+  {
+   "text": "Aynı",
+   "clip": "IMG_0120",
+   "i": 11,
+   "start": 102.58,
+   "end": 102.74
+  },
+  {
+   "text": "zamanda",
+   "clip": "IMG_0120",
+   "i": 12,
+   "start": 102.78,
+   "end": 103.16
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0120",
+   "i": 13,
+   "start": 103.22,
+   "end": 103.44
+  },
+  {
+   "text": "tabii",
+   "clip": "IMG_0120",
+   "i": 14,
+   "start": 103.48,
+   "end": 103.68
+  },
+  {
+   "text": "ki",
+   "clip": "IMG_0120",
+   "i": 15,
+   "start": 103.76,
+   "end": 103.84
+  },
+  {
+   "text": "dediğim",
+   "clip": "IMG_0120",
+   "i": 16,
+   "start": 103.88,
+   "end": 104.1
+  },
+  {
+   "text": "gibi",
+   "clip": "IMG_0120",
+   "i": 17,
+   "start": 104.14,
+   "end": 104.26
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0120",
+   "i": 18,
+   "start": 104.3,
+   "end": 104.38
+  },
+  {
+   "text": "DeployTv",
+   "clip": "IMG_0120",
+   "i": 19,
+   "start": 104.42,
+   "end": 104.76
+  },
+  {
+   "text": "paneli",
+   "clip": "IMG_0120",
+   "i": 21,
+   "start": 105.08,
+   "end": 105.36
+  },
+  {
+   "text": "tarzı",
+   "clip": "IMG_0120",
+   "i": 22,
+   "start": 105.42,
+   "end": 105.66
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0120",
+   "i": 23,
+   "start": 105.68,
+   "end": 105.78
+  },
+  {
+   "text": "şey",
+   "clip": "IMG_0120",
+   "i": 24,
+   "start": 105.82,
+   "end": 105.96
+  },
+  {
+   "text": "yarattı",
+   "clip": "IMG_0120",
+   "i": 25,
+   "start": 106,
+   "end": 106.46
+  },
+  {
+   "text": "Burada",
+   "clip": "IMG_0120",
+   "i": 26,
+   "start": 106.687,
+   "end": 106.907
+  },
+  {
+   "text": "da",
+   "clip": "IMG_0120",
+   "i": 27,
+   "start": 106.947,
+   "end": 107.027
+  },
+  {
+   "text": "işte",
+   "clip": "IMG_0120",
+   "i": 28,
+   "start": 107.067,
+   "end": 107.287
+  },
+  {
+   "text": "aslında",
+   "clip": "IMG_0120",
+   "i": 29,
+   "start": 107.327,
+   "end": 107.727
+  },
+  {
+   "text": "şu",
+   "clip": "IMG_0120",
+   "i": 31,
+   "start": 107.933,
+   "end": 107.993
+  },
+  {
+   "text": "anda",
+   "clip": "IMG_0120",
+   "i": 32,
+   "start": 108.073,
+   "end": 108.213
+  },
+  {
+   "text": "attı",
+   "clip": "IMG_0120",
+   "i": 33,
+   "start": 108.293,
+   "end": 108.513
+  },
+  {
+   "text": "işte",
+   "clip": "IMG_0120",
+   "i": 34,
+   "start": 108.533,
+   "end": 108.673
+  },
+  {
+   "text": "otuz",
+   "clip": "IMG_0120",
+   "i": 35,
+   "start": 108.713,
+   "end": 108.913
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0120",
+   "i": 36,
+   "start": 108.953,
+   "end": 109.013
+  },
+  {
+   "text": "tane",
+   "clip": "IMG_0120",
+   "i": 37,
+   "start": 109.093,
+   "end": 109.273
+  },
+  {
+   "text": "izlenme",
+   "clip": "IMG_0120",
+   "i": 38,
+   "start": 109.313,
+   "end": 109.653
+  },
+  {
+   "text": "olmuş",
+   "clip": "IMG_0120",
+   "i": 39,
+   "start": 109.673,
+   "end": 109.853
+  },
+  {
+   "text": "Bir",
+   "clip": "IMG_0120",
+   "i": 40,
+   "start": 109.933,
+   "end": 109.993
+  },
+  {
+   "text": "sonraki",
+   "clip": "IMG_0120",
+   "i": 41,
+   "start": 110.033,
+   "end": 110.413
+  },
+  {
+   "text": "videolar",
+   "clip": "IMG_0120",
+   "i": 42,
+   "start": 110.453,
+   "end": 110.793
+  },
+  {
+   "text": "ne",
+   "clip": "IMG_0120",
+   "i": 43,
+   "start": 110.853,
+   "end": 110.933
+  },
+  {
+   "text": "zaman",
+   "clip": "IMG_0120",
+   "i": 44,
+   "start": 110.973,
+   "end": 111.193
+  },
+  {
+   "text": "paylaşılacakları",
+   "clip": "IMG_0120",
+   "i": 45,
+   "start": 111.233,
+   "end": 111.913
+  },
+  {
+   "text": "vesaire",
+   "clip": "IMG_0120",
+   "i": 46,
+   "start": 111.953,
+   "end": 112.413
+  },
+  {
+   "text": "her",
+   "clip": "IMG_0120",
+   "i": 47,
+   "start": 112.693,
+   "end": 112.813
+  },
+  {
+   "text": "şeyi",
+   "clip": "IMG_0120",
+   "i": 48,
+   "start": 112.893,
+   "end": 113.033
+  },
+  {
+   "text": "de",
+   "clip": "IMG_0120",
+   "i": 49,
+   "start": 113.093,
+   "end": 113.493
+  },
+  {
+   "text": "buradan",
+   "clip": "IMG_0120",
+   "i": 50,
+   "start": 113.533,
+   "end": 113.793
+  },
+  {
+   "text": "takip",
+   "clip": "IMG_0120",
+   "i": 51,
+   "start": 113.853,
+   "end": 114.153
+  },
+  {
+   "text": "ediyor",
+   "clip": "IMG_0120",
+   "i": 52,
+   "start": 114.173,
+   "end": 114.453
+  },
+  {
+   "text": "Şöyle",
+   "clip": "IMG_0121",
+   "i": 0,
+   "start": 114.64,
+   "end": 114.84
+  },
+  {
+   "text": "bir",
+   "clip": "IMG_0121",
+   "i": 1,
+   "start": 114.86,
+   "end": 114.94
+  },
+  {
+   "text": "yorumum",
+   "clip": "IMG_0121",
+   "i": 2,
+   "start": 114.96,
+   "end": 115.26
+  },
+  {
+   "text": "var",
+   "clip": "IMG_0121",
+   "i": 3,
+   "start": 115.32,
+   "end": 115.46
+  },
+  {
+   "text": "Ben",
+   "clip": "IMG_0121",
+   "i": 4,
+   "start": 115.66,
+   "end": 115.8
+  },
+  {
+   "text": "on",
+   "clip": "IMG_0121",
+   "i": 5,
+   "start": 115.82,
+   "end": 115.9
+  },
+  {
+   "text": "beş",
+   "clip": "IMG_0121",
+   "i": 6,
+   "start": 115.94,
+   "end": 116.06
+  },
+  {
+   "text": "dakikanın",
+   "clip": "IMG_0121",
+   "i": 7,
+   "start": 116.12,
+   "end": 116.42
+  },
+  {
+   "text": "tamamını",
+   "clip": "IMG_0121",
+   "i": 8,
+   "start": 116.46,
+   "end": 116.78
+  },
+  {
+   "text": "izledim",
+   "clip": "IMG_0121",
+   "i": 9,
+   "start": 116.8,
+   "end": 117.08
+  },
+  {
+   "text": "yani",
+   "clip": "IMG_0121",
+   "i": 11,
+   "start": 117.3,
+   "end": 117.46
+  },
+  {
+   "text": "kendi",
+   "clip": "IMG_0121",
+   "i": 12,
+   "start": 117.52,
+   "end": 117.82
+  },
+  {
+   "text": "ajandamı",
+   "clip": "IMG_0121",
+   "i": 13,
+   "start": 117.86,
+   "end": 118.14
+  },
+  {
+   "text": "yaptığı",
+   "clip": "IMG_0121",
+   "i": 14,
+   "start": 118.18,
+   "end": 118.46
+  },
+  {
+   "text": "için",
+   "clip": "IMG_0121",
+   "i": 15,
+   "start": 118.54,
+   "end": 118.7
+  },
+  {
+   "text": "değil",
+   "clip": "IMG_0121",
+   "i": 16,
+   "start": 118.74,
+   "end": 119.02
+  },
+  {
+   "text": "bu",
+   "clip": "IMG_0121",
+   "i": 17,
+   "start": 119.1,
+   "end": 119.16
+  },
+  {
+   "text": "arada",
+   "clip": "IMG_0121",
+   "i": 18,
+   "start": 119.22,
+   "end": 119.5
+  },
+  {
+   "text": "Ben",
+   "clip": "IMG_0121",
+   "i": 19,
+   "start": 119.64,
+   "end": 119.8
+  },
+  {
+   "text": "teknoloji",
+   "clip": "IMG_0121",
+   "i": 20,
+   "start": 119.84,
+   "end": 120.16
+  },
+  {
+   "text": "haberleri",
+   "clip": "IMG_0121",
+   "i": 21,
+   "start": 120.18,
+   "end": 120.48
+  },
+  {
+   "text": "izlemeyi",
+   "clip": "IMG_0121",
+   "i": 22,
+   "start": 120.5,
+   "end": 120.82
+  },
+  {
+   "text": "severim",
+   "clip": "IMG_0121",
+   "i": 23,
+   "start": 120.86,
+   "end": 121.16
+  },
+  {
+   "text": "ve",
+   "clip": "IMG_0121",
+   "i": 24,
+   "start": 121.44,
+   "end": 121.5
+  },
+  {
+   "text": "izlettirdi",
+   "clip": "IMG_0121",
+   "i": 25,
+   "start": 121.56,
+   "end": 122.1
+  },
+  {
+   "text": "yani",
+   "clip": "IMG_0121",
+   "i": 26,
+   "start": 122.14,
+   "end": 122.4
+  },
+  {
+   "text": "kendini",
+   "clip": "IMG_0121",
+   "i": 27,
+   "start": 122.44,
+   "end": 122.84
+  },
+  {
+   "text": "Sizin",
+   "clip": "IMG_0121",
+   "i": 28,
+   "start": 123.053,
+   "end": 123.233
+  },
+  {
+   "text": "de",
+   "clip": "IMG_0121",
+   "i": 29,
+   "start": 123.273,
+   "end": 123.333
+  },
+  {
+   "text": "yorumunuzu",
+   "clip": "IMG_0121",
+   "i": 30,
+   "start": 123.353,
+   "end": 123.673
+  },
+  {
+   "text": "merak",
+   "clip": "IMG_0121",
+   "i": 31,
+   "start": 123.693,
+   "end": 123.953
+  },
+  {
+   "text": "ediyorum",
+   "clip": "IMG_0121",
+   "i": 32,
+   "start": 124.013,
+   "end": 124.333
+  },
+  {
+   "text": "bakalım",
+   "clip": "IMG_0121",
+   "i": 34,
+   "start": 124.56,
+   "end": 124.92
+  },
+  {
+   "text": "ne",
+   "clip": "IMG_0121",
+   "i": 35,
+   "start": 125.16,
+   "end": 125.22
+  },
+  {
+   "text": "olacak",
+   "clip": "IMG_0121",
+   "i": 36,
+   "start": 125.26,
+   "end": 125.56
+  },
+  {
+   "text": "ya",
+   "clip": "IMG_0121",
+   "i": 37,
+   "start": 125.62,
+   "end": 125.72
+  },
+  {
+   "text": "on",
+   "clip": "IMG_0121",
+   "i": 38,
+   "start": 125.78,
+   "end": 125.88
+  },
+  {
+   "text": "günde?",
+   "clip": "IMG_0121",
+   "i": 39,
+   "start": 125.92,
+   "end": 126.18
+  },
+  {
+   "text": "Sizce",
+   "clip": "IMG_0121",
+   "i": 40,
+   "start": 126.3,
+   "end": 126.6
+  },
+  {
+   "text": "başaracak",
+   "clip": "IMG_0121",
+   "i": 41,
+   "start": 126.74,
+   "end": 127.18
+  },
+  {
+   "text": "mı",
+   "clip": "IMG_0121",
+   "i": 42,
+   "start": 127.22,
+   "end": 127.3
+  },
+  {
+   "text": "Claude",
+   "clip": "IMG_0121",
+   "i": 43,
+   "start": 127.32,
+   "end": 127.58
+  },
+  {
+   "text": "gerçekten?",
+   "clip": "IMG_0121",
+   "i": 45,
+   "start": 127.807,
+   "end": 128.287
+  }
+ ]
+}

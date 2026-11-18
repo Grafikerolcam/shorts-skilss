@@ -1,0 +1,51 @@
+{
+  "voiceId": "",
+  "model": "eleven_v3",
+  "voiceSettings": { "stability": 0.5, "similarity_boost": 1.0 },
+  "scenes": [
+    {
+      "text": "[excited] Bitirmeden önce, haftanın hızlı turu! Birinci durak YouTube. 9to5Google'ın haberine göre YouTube, son on yılın en büyük tasarım değişikliğini yapıyor: alttaki menü değişiyor ve Abonelikler sekmesi, ana sayfada bir kaydırma uzağa taşınıyor. Kullanıcılar pek mutlu değil. Küçük bir ipucu: uygulama simgesine basılı tutarsanız Abonelikler kısayolu çıkıyor. Yorumum: platform, Shorts'u öne çıkarmak için abonelikleri biraz saklıyor. Yani 'abone olmayı unutmayın' diyen biz YouTuber'lar, artık 'abonelikleri bulmayı unutmayın' diyeceğiz! [laughs]",
+      "tag": "HIZLI TUR", "headline": "YOUTUBE'UN EN BÜYÜK TASARIM DEĞİŞİKLİĞİ", "title": "⚡ HIZLI TUR: YOUTUBE", "accent": "#FF0033",
+      "img": "youtube-logo.svg", "fit": "contain", "imgBg": "#FFFFFF",
+      "src": "Kaynak: 9to5Google",
+      "items": [
+        { "k": "chip", "at": "menü", "t": "📱 Alt menü değişiyor" },
+        { "k": "chip", "at": "basılı", "t": "💡 Simgeye basılı tut → kısayol" },
+        { "k": "quote", "at": "saklıyor", "t": "Abonelikleri bulmayı unutmayın! 😅" }
+      ]
+    },
+    {
+      "text": "İkinci durak Steam. Steam, Steam Deck uyumluluk sayfasında artık oyunların gerçek oyunculardan toplanan ortalama FPS değerlerini gösteriyor. Veriler, anonim paylaşıma izin veren Deck sahiplerinden geliyor ve binlerce oyunda şimdiden var. Yorumum: bu, satın almadan önce 'bu oyun bende çalışır mı' sorusuna gerçek veriyle cevap demek. Ve 'bende akıyor abi' diyen arkadaşınızın yalanı, artık istatistikle çürütülebiliyor!",
+      "tag": "HIZLI TUR", "headline": "STEAM GERÇEK FPS VERİSİ GÖSTERİYOR", "title": "⚡ HIZLI TUR: STEAM", "accent": "#66C0F4",
+      "img": "steam-deck.png", "fit": "contain", "imgBg": "#1B2838",
+      "src": "Kaynak: TechSpot · GamingOnLinux",
+      "items": [
+        { "k": "chip", "at": "fps", "t": "📊 Gerçek oyuncu FPS ortalaması" },
+        { "k": "chip", "at": "anonim", "t": "🕶️ Anonim Deck verisi" },
+        { "k": "quote", "at": "çürütülebiliyor", "t": "'Bende akıyor abi' artık istatistikle çürütülüyor." }
+      ]
+    },
+    {
+      "text": "Üçüncü durak Paris. Xiaomi, 18 Pro ve 18 Pro Max'i 17 Kasım'da Paris'te tüm dünyaya tanıtıyor. Sızdırılan Avrupa fiyatları 1449 eurodan başlıyor, ama resmi fiyatlar henüz açıklanmadı. Avrupa sürümünün bataryasının Çin sürümünden küçük olduğu da konuşuluyor. Yorumum: amiral gemisi telefonlar sessiz sedasız bin beş yüz euro bandına tırmanıyor. [sighs] Yakında telefon fiyatlarını taksitle değil, kredi faiziyle konuşacağız gibi.",
+      "tag": "HIZLI TUR", "headline": "XIAOMI 18 PRO PARIS'TE TANITILIYOR", "title": "⚡ HIZLI TUR: XIAOMI", "accent": "#FF6900",
+      "img": "xiaomi-logo.svg", "fit": "contain", "imgBg": "#FFFFFF",
+      "src": "Kaynak: Tech Advisor · 9to5Google (fiyatlar sızıntı)",
+      "items": [
+        { "k": "chip", "at": "paris'te", "t": "🇫🇷 Paris · 17 Kasım" },
+        { "k": "big", "at": "1449", "to": 1449, "pre": "€", "suf": "", "label": "sızdırılan başlangıç fiyatı (resmi değil)" },
+        { "k": "quote", "at": "tırmanıyor", "t": "Amiral gemileri sessizce 1.500 € bandına." }
+      ]
+    },
+    {
+      "text": "Ve son durak uzay. Avrupa ve Japonya'nın ortak görevi BepiColombo, 21 Kasım'da Merkür yörüngesine giriyor. 2018'de fırlatılmıştı ve itici sorunları yüzünden yaklaşık bir yıl gecikti. Sekiz yıl yol, bir yıl rötar... [laughs] Uzay aracı değil, sanki aktarmalı otobüs! Ama şakası bir yana, Merkür yörüngesine girmek Güneş Sistemi'nin en zor manevralarından biri. Bu cumartesi parmaklarımızı çapraz yapıyoruz.",
+      "tag": "HIZLI TUR", "headline": "BEPICOLOMBO MERKÜR'E VARIYOR", "title": "⚡ HIZLI TUR: UZAY", "accent": "#FF8A3D",
+      "img": "bepicolombo.jpg", "fit": "cover",
+      "src": "Kaynak: ESA · Space.com",
+      "items": [
+        { "k": "chip", "at": "21", "t": "📅 21 Kasım · Merkür yörüngesi" },
+        { "k": "chip", "at": "2018'de", "t": "🚀 2018'den beri yolda" },
+        { "k": "quote", "at": "aktarmalı", "t": "8 yıl yol, 1 yıl rötar: aktarmalı otobüs! 🚌" }
+      ]
+    }
+  ]
+}

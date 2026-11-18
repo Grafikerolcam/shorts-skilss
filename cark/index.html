@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Klon Makinesi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --neon: #FFE45C; --glow: #FFC21A; --ink: #07090A; --chrome1: #2A2D33; --chrome2: #121417;
+    --red: #FF3B3B; --white: #fff; --sub: #A7ADB5;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; overflow: hidden; background: var(--ink); font-family: Montserrat, system-ui, sans-serif; color: var(--white); user-select: none; }
+  body.nocursor, body.nocursor * { cursor: none !important; }
+
+  /* full-window cinematic backdrop */
+  #bg { position: fixed; inset: 0; background:
+      radial-gradient(ellipse 30% 18% at 22% 18%, #FFB25C55 0%, transparent 100%),
+      radial-gradient(ellipse 25% 15% at 80% 22%, #FFC77A44 0%, transparent 100%),
+      radial-gradient(ellipse 60% 40% at 50% 90%, #6B3A1A66 0%, transparent 100%),
+      radial-gradient(ellipse 90% 70% at 50% 45%, #1A2727 0%, #0A1112 70%, #050707 100%); }
+  #grain { position: fixed; inset: -50%; opacity: .07; pointer-events: none; mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    animation: grain .5s steps(4) infinite; }
+  @keyframes grain { 0%{transform:translate(0,0)} 25%{transform:translate(-3%,2%)} 50%{transform:translate(2%,-3%)} 75%{transform:translate(-2%,-1%)} }
+  #vig { position: fixed; inset: 0; pointer-events: none; background: radial-gradient(ellipse 70% 65% at 50% 50%, transparent 50%, rgba(0,0,0,.8) 100%); }
+
+  /* 9:16 stage, scaled to window height and centred -> crop the recording to this column */
+  #stage { position: absolute; left: 50%; top: 50%; width: 1080px; height: 1920px; transform-origin: center; }
+  #stage.guide { outline: 2px dashed #ffffff33; }
+
+  #title { position: absolute; top: 250px; width: 100%; text-align: center; font-weight: 900; font-size: 104px; line-height: .98; letter-spacing: -2px;
+    color: var(--neon); text-shadow: 0 0 18px var(--glow), 0 0 48px var(--glow), 0 0 110px #FFC21Aaa, 0 6px 20px rgba(0,0,0,.6);
+    animation: breathe 2.4s ease-in-out infinite; }
+  @keyframes breathe { 50% { text-shadow: 0 0 12px var(--glow), 0 0 32px var(--glow), 0 0 70px #FFC21A88, 0 6px 20px rgba(0,0,0,.6); } }
+
+  /* machine */
+  #machine { position: absolute; left: 110px; top: 620px; width: 760px; height: 760px; border-radius: 60px;
+    background: linear-gradient(160deg, var(--chrome1), var(--chrome2) 60%);
+    box-shadow: 0 60px 120px rgba(0,0,0,.7), inset 0 2px 0 #ffffff22, inset 0 -6px 30px #0008; }
+  #bulbs { position: absolute; inset: 0; pointer-events: none; }
+  .bulb { position: absolute; width: 22px; height: 22px; border-radius: 50%; background: #5a4a1a; transform: translate(-50%,-50%); transition: background .08s, box-shadow .08s; }
+  .bulb.on { background: #FFF2B0; box-shadow: 0 0 10px #FFE45C, 0 0 26px #FFC21A; }
+
+  #window { position: absolute; left: 70px; right: 70px; top: 150px; height: 460px; border-radius: 34px; overflow: hidden;
+    background: linear-gradient(#0b0c0e, #16181c 50%, #0b0c0e); box-shadow: inset 0 0 0 3px #000, inset 0 20px 40px #000c, inset 0 -20px 40px #000c; }
+  #strip { position: absolute; left: 0; right: 0; top: 0; will-change: transform; }
+  .item { height: 153.33px; display: flex; align-items: center; justify-content: center; gap: 22px; font-weight: 900; font-size: 54px; letter-spacing: -1px; white-space: nowrap; color: #f3f3f3; }
+  .item .emo { font-size: 62px; }
+  #shade { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(#000e 0%, #0000 34%, #0000 66%, #000e 100%); }
+  #pick { position: absolute; left: 58px; right: 58px; top: calc(150px + 153.33px - 6px); height: 165px; border-radius: 22px; pointer-events: none;
+    border: 4px solid var(--neon); box-shadow: 0 0 18px var(--glow), 0 0 40px #FFC21A88, inset 0 0 24px #FFC21A55; }
+  .arrow { position: absolute; top: calc(150px + 230px - 22px); width: 0; height: 0; border: 22px solid transparent; filter: drop-shadow(0 0 8px var(--glow)); }
+  #arL { left: 18px; border-left: 30px solid var(--neon); }
+  #arR { right: 18px; border-right: 30px solid var(--neon); }
+  #label { position: absolute; bottom: 52px; width: 100%; text-align: center; font-weight: 800; font-size: 34px; letter-spacing: 6px; color: var(--sub); }
+
+  /* lever */
+  #lever { position: absolute; left: 880px; top: 760px; width: 120px; height: 520px; cursor: grab; }
+  #lever .base { position: absolute; left: 0; bottom: 120px; width: 70px; height: 170px; border-radius: 20px; background: linear-gradient(90deg, #1b1d21, #3a3e45 50%, #1b1d21); box-shadow: 0 20px 40px #0009; }
+  /* pivot point; rod + ball are positioned from JS (ball travels from above the pivot to below it) */
+  #arm { position: absolute; left: 35px; top: 315px; width: 0; height: 0; }
+  #arm .rod { position: absolute; left: -13px; width: 26px; border-radius: 13px; background: linear-gradient(90deg, #8d939b, #f1f3f5 45%, #6c7178); }
+  #arm .ball { position: absolute; left: -45px; width: 90px; height: 90px; border-radius: 50%;
+    background: radial-gradient(circle at 35% 30%, #ff9a9a, var(--red) 40%, #8a0d0d 100%); box-shadow: 0 0 30px #ff3b3b88, 0 14px 30px #0009; }
+  #arm .hub { position: absolute; left: -24px; top: -24px; width: 48px; height: 48px; border-radius: 50%; background: radial-gradient(circle at 40% 35%, #c9cdd2, #4a4e55); box-shadow: 0 6px 14px #0009; }
+
+  #hint { position: absolute; top: 1430px; width: 100%; text-align: center; font-weight: 800; font-size: 40px; color: #ffffffcc; text-shadow: 0 4px 14px #000a; transition: opacity .3s; }
+
+  /* result */
+  #result { position: absolute; left: 0; right: 0; top: 1410px; text-align: center; opacity: 0; transform: scale(.6); pointer-events: none; }
+  #result.show { animation: pop .6s cubic-bezier(.2,1.6,.4,1) forwards; }
+  @keyframes pop { 0% { opacity: 0; transform: scale(.6); filter: blur(10px); } 100% { opacity: 1; transform: scale(1); filter: blur(0); } }
+  #result .small { font-weight: 800; font-size: 40px; color: #fff; letter-spacing: 2px; text-shadow: 0 4px 14px #000a; }
+  #result .big { font-weight: 900; font-size: 112px; line-height: 1; margin-top: 10px; color: var(--neon); letter-spacing: -2px;
+    text-shadow: 0 0 18px var(--glow), 0 0 50px var(--glow), 0 0 120px #FFC21Aaa, 0 6px 20px #0009; }
+  #machine.win #pick { animation: flash .18s 6 alternate; }
+  @keyframes flash { to { box-shadow: 0 0 40px #fff, 0 0 90px var(--glow), inset 0 0 60px #FFC21Aaa; border-color: #fff; } }
+  #flashScreen { position: fixed; inset: 0; pointer-events: none; opacity: 0; background: radial-gradient(circle at 50% 45%, #FFF6DD, #FFB15C 40%, transparent 75%); mix-blend-mode: screen; }
+  #confetti { position: fixed; inset: 0; pointer-events: none; }
+
+  /* settings */
+  #panel { position: fixed; right: 20px; top: 20px; width: 380px; max-height: calc(100% - 40px); overflow: auto; background: #111418ee; border: 1px solid #ffffff22;
+    border-radius: 18px; padding: 18px; font-size: 14px; display: none; z-index: 10; backdrop-filter: blur(10px); }
+  #panel.open { display: block; }
+  #panel h3 { font-size: 16px; margin-bottom: 8px; }
+  #panel label { display: block; margin: 12px 0 4px; color: var(--sub); font-weight: 700; }
+  #panel textarea { width: 100%; height: 260px; background: #000; color: #fff; border: 1px solid #333; border-radius: 10px; padding: 8px; font: 14px/1.4 Montserrat, sans-serif; }
+  #panel select, #panel button { width: 100%; padding: 8px; border-radius: 10px; background: #000; color: #fff; border: 1px solid #333; font: 700 14px Montserrat, sans-serif; }
+  #panel button { margin-top: 10px; background: var(--neon); color: #000; border: 0; cursor: pointer; }
+  #panel .row { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+  #panel .row input { width: auto; }
+  #panel .keys { margin-top: 12px; color: var(--sub); line-height: 1.6; }
+</style>
+</head>
+<body>
+<div id="bg"></div>
+
+<div id="stage">
+  <div id="title">BUGÜN NEYİ<br>KLONLUYORUM?</div>
+
+  <div id="machine">
+    <div id="bulbs"></div>
+    <div id="window"><div id="strip"></div><div id="shade"></div></div>
+    <div id="pick"></div>
+    <div class="arrow" id="arL"></div><div class="arrow" id="arR"></div>
+    <div id="label">KLON MAKİNESİ</div>
+  </div>
+
+  <div id="lever"><div class="base"></div><div id="arm"><div class="rod"></div><div class="hub"></div><div class="ball"></div></div></div>
+
+  <div id="hint">Kolu çek 👉</div>
+  <div id="result"><div class="small">BUNU KLONLUYORUM:</div><div class="big" id="resultName"></div></div>
+</div>
+
+<div id="grain"></div><div id="vig"></div>
+<div id="flashScreen"></div>
+<canvas id="confetti"></canvas>
+
+<div id="panel">
+  <h3>⚙️ Ayarlar (A ile aç/kapat)</h3>
+  <label>Liste (her satıra bir tane: emoji + isim)</label>
+  <textarea id="listEdit"></textarea>
+  <label>Sonraki sonuç</label>
+  <select id="forceSel"></select>
+  <div class="row"><input type="checkbox" id="soundChk" checked><span>Ses efektleri</span></div>
+  <div class="row"><input type="checkbox" id="hintChk" checked><span>"Kolu çek" yazısı</span></div>
+  <div class="row"><input type="checkbox" id="guideChk"><span>9:16 kırpma çerçevesini göster</span></div>
+  <button id="saveBtn">Kaydet</button>
+  <div class="keys">
+    <b>Kısayollar</b><br>
+    Boşluk / Enter / kola tıkla-sürükle → çevir<br>
+    F → tam ekran · C → imleci gizle<br>
+    R → sonucu temizle · A → bu panel
+  </div>
+</div>
+
+<script>
+const DEFAULT_LIST = `🎳 Wii Sports
+🍄 Super Mario
+🎸 Guitar Hero
+💃 Just Dance
+⚡ Pokémon GO
+🕹️ Game Boy
+🦆 Duck Hunt
+🐶 Nintendogs
+🔨 Köstebek Avı
+🎤 Karaoke
+🧞 Akinator
+🐱 Talking Tom
+⛏️ Minecraft
+🛸 Among Us
+🐦 Flappy Bird
+🧱 Tetris
+🐍 Nokia Snake
+🦖 Chrome Dinozor
+👾 Pac-Man
+🍉 Fruit Ninja
+🟦 Block Blast
+🏃 Subway Surfers
+😡 Angry Birds
+🔺 Geometry Dash
+🎹 Piano Tiles
+🟩 Wordle
+🔢 2048
+🎲 Rubik Küpü
+🥚 Tamagotchi
+🎯 Kahoot`;
+
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('klon_' + k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem('klon_' + k, JSON.stringify(v)); } catch {} },
+};
+
+if (store.get('listv', 1) < 2) { try { localStorage.removeItem('klon_list'); } catch {} store.set('listv', 2); } // eski kayıtlı liste -> yeni varsayılan
+let items = parse(store.get('list', DEFAULT_LIST));
+let forceNext = '';
+let sound = store.get('sound', true);
+let lastIdx = -1, spinning = false;
+
+function parse(txt) {
+  return txt.split('\n').map(s => s.trim()).filter(Boolean).map(s => {
+    const m = s.match(/^(\p{Extended_Pictographic}[️‍\p{Extended_Pictographic}]*)\s*(.+)$/u);
+    return m ? { emo: m[1], name: m[2] } : { emo: '', name: s };
+  });
+}
+
+/* ---------- stage scaling ---------- */
+const stage = document.getElementById('stage');
+function fit() {
+  const s = Math.min(innerHeight / 1920, innerWidth / 1080);
+  stage.style.transform = `translate(-50%, -50%) scale(${s})`;
+}
+addEventListener('resize', fit); fit();
+
+/* ---------- sounds (HTMLAudio works from file://) ---------- */
+const SFX = {};
+['ui_switch','pop_plastic-click','whoosh_quick-accent','riser_trailer','impact_big-cinematic','ding_correct-reward','magic_sparkle-poof','kenney_card-slide']
+  .forEach(n => { SFX[n] = new Audio(`sfx/${n}.wav`); SFX[n].preload = 'auto'; });
+function play(n, vol = .6, rate = 1, maxDur = 0) {
+  if (!sound) return;
+  const a = SFX[n].cloneNode(); a.volume = vol; a.playbackRate = rate; a.preservesPitch = false; a.play().catch(() => {});
+  if (maxDur) setTimeout(() => { const st = performance.now(); const v0 = a.volume;
+    const f = () => { const k = (performance.now() - st) / 400; a.volume = Math.max(0, v0 * (1 - k)); if (k < 1) requestAnimationFrame(f); else a.pause(); }; f(); }, maxDur * 1000);
+}
+
+/* ---------- reel ---------- */
+const strip = document.getElementById('strip');
+const ITEM_H = 153.33, VISIBLE = 3, LOOPS = 9;
+let offset = 0; // px scrolled; centre row shows index floor(offset/ITEM_H)+1
+function buildStrip() {
+  strip.innerHTML = '';
+  const total = items.length * (LOOPS + 2);
+  for (let i = 0; i < total; i++) {
+    const it = items[i % items.length];
+    const d = document.createElement('div'); d.className = 'item';
+    d.innerHTML = `<span class="emo">${it.emo}</span><span>${it.name}</span>`;
+    strip.appendChild(d);
+  }
+  offset = 0; strip.style.transform = 'translateY(0px)';
+}
+
+/* ---------- bulbs ---------- */
+const bulbsEl = document.getElementById('bulbs'); const bulbs = [];
+(function makeBulbs() {
+  const W = 760, H = 760, pad = 34, n = 13;
+  const pts = [];
+  for (let i = 0; i < n; i++) pts.push([pad + (W - 2 * pad) * i / (n - 1), pad]);
+  for (let i = 1; i < n - 1; i++) pts.push([W - pad, pad + (H - 2 * pad) * i / (n - 1)]);
+  for (let i = n - 1; i >= 0; i--) pts.push([pad + (W - 2 * pad) * i / (n - 1), H - pad]);
+  for (let i = n - 2; i > 0; i--) pts.push([pad, pad + (H - 2 * pad) * i / (n - 1)]);
+  pts.forEach(([x, y]) => { const b = document.createElement('div'); b.className = 'bulb'; b.style.left = x + 'px'; b.style.top = y + 'px'; bulbsEl.appendChild(b); bulbs.push(b); });
+})();
+let bulbMode = 'idle', bulbT = 0;
+setInterval(() => {
+  bulbT++;
+  bulbs.forEach((b, i) => {
+    let on;
+    if (bulbMode === 'spin') on = (i + bulbT) % 4 === 0;
+    else if (bulbMode === 'win') on = bulbT % 2 === 0;
+    else on = (i + Math.floor(bulbT / 3)) % 2 === 0;
+    b.classList.toggle('on', on);
+  });
+}, 90);
+
+/* ---------- lever ---------- */
+const arm = document.getElementById('arm'), lever = document.getElementById('lever');
+let dragging = false, dragY0 = 0, pull = 0;
+const rod = arm.querySelector('.rod'), ball = arm.querySelector('.ball');
+function setArm(p) {
+  pull = p;
+  const L = 280, y = -L * Math.cos(Math.min(1.08, p) * Math.PI * 0.92); // ball centre: above pivot -> below
+  const near = 1 + 0.22 * Math.sin(Math.min(1, p) * Math.PI);           // comes towards camera mid-swing
+  ball.style.top = (y - 45) + 'px'; ball.style.transform = `scale(${near})`; ball.style.zIndex = 2;
+  rod.style.top = Math.min(0, y) + 'px'; rod.style.height = Math.abs(y) + 'px';
+  rod.style.width = 26 * near + 'px'; rod.style.left = (-13 * near) + 'px';
+}
+setArm(0);
+lever.addEventListener('pointerdown', e => { if (spinning) return; dragging = true; dragY0 = e.clientY; lever.setPointerCapture(e.pointerId); });
+lever.addEventListener('pointermove', e => {
+  if (!dragging) return;
+  const s = stage.getBoundingClientRect().height / 1920;
+  setArm(Math.max(0, Math.min(1, (e.clientY - dragY0) / (260 * s))));
+});
+lever.addEventListener('pointerup', () => { if (!dragging) return; dragging = false; if (pull > .55 || pull < .05) release(true); else release(false); });
+function release(go) {
+  const p0 = pull, st = performance.now();
+  if (go && pull < .05) { // simple click -> animate full pull first
+    animateArm(0, 1, 180, () => { play('ui_switch', .7); animateArm(1, 0, 450, null, true); spin(); });
+    return;
+  }
+  if (go) { play('ui_switch', .7); spin(); }
+  animateArm(p0, 0, 450, null, true);
+}
+function animateArm(a, b, ms, done, bounce) {
+  const st = performance.now();
+  const f = () => {
+    let k = Math.min(1, (performance.now() - st) / ms);
+    const e = bounce ? 1 - Math.pow(1 - k, 3) * Math.cos(k * 9) : k * k;
+    setArm(a + (b - a) * Math.min(1.08, e));
+    if (k < 1) requestAnimationFrame(f); else { setArm(b); done && done(); }
+  };
+  f();
+}
+
+/* ---------- spin ---------- */
+const resultEl = document.getElementById('result'), resultName = document.getElementById('resultName'), machine = document.getElementById('machine'), hint = document.getElementById('hint');
+function pickIndex() {
+  if (forceNext !== '') { const i = Number(forceNext); forceNext = ''; document.getElementById('forceSel').value = ''; return i; }
+  if (items.length < 2) return 0;
+  let i; do { i = Math.floor(Math.random() * items.length); } while (i === lastIdx);
+  return i;
+}
+function spin() {
+  if (spinning || !items.length) return;
+  spinning = true; lastIdx = pickIndex();
+  resultEl.classList.remove('show'); machine.classList.remove('win'); hint.style.opacity = 0;
+  bulbMode = 'spin';
+  play('whoosh_quick-accent', .55);
+
+  // centre row index = offset/ITEM_H + 1  -> land target item in the centre, many loops later
+  const startRow = 0; buildStrip();
+  const targetRow = items.length * LOOPS + lastIdx - 1;
+  const dist = targetRow * ITEM_H;
+  const DUR = 4600 + Math.random() * 600;
+  const st = performance.now(); let lastRow = 0, riserPlayed = false;
+  const ease = k => 1 - Math.pow(1 - k, 4.2);
+  const f = () => {
+    const k = Math.min(1, (performance.now() - st) / DUR);
+    offset = dist * ease(k);
+    const vel = dist * 4.2 * Math.pow(1 - k, 3.2) / DUR * 16; // px per frame approx
+    strip.style.transform = `translateY(${-offset}px)`;
+    strip.style.filter = `blur(${Math.min(9, vel / 14)}px)`;
+    const row = Math.floor(offset / ITEM_H + .5);
+    if (row !== lastRow) { lastRow = row; if (vel < 140) play('pop_plastic-click', Math.min(.7, .25 + (1 - vel / 140) * .5), .9 + Math.random() * .2); }
+    if (!riserPlayed && k > .55) { riserPlayed = true; play('riser_trailer', .35); }
+    if (k < 1) requestAnimationFrame(f); else land();
+  };
+  requestAnimationFrame(f);
+}
+function land() {
+  strip.style.filter = 'none';
+  const it = items[lastIdx];
+  play('impact_big-cinematic', .55, 1, 1.6); play('ding_correct-reward', .4); play('magic_sparkle-poof', .35);
+  machine.classList.add('win'); bulbMode = 'win';
+  const fl = document.getElementById('flashScreen');
+  fl.animate([{ opacity: 0 }, { opacity: .8 }, { opacity: 0 }], { duration: 450, easing: 'ease-out' });
+  stage.animate([{ transform: stage.style.transform + ' translate(0,0)' }, { transform: stage.style.transform + ' translate(6px,-5px)' }, { transform: stage.style.transform + ' translate(-5px,4px)' }, { transform: stage.style.transform }], { duration: 260 });
+  hint.style.opacity = 0;
+  // brand names are mostly English: plain upper-case (Flappy Bird -> FLAPPY BIRD, not BİRD)
+  resultName.textContent = it.name.toUpperCase();
+  resultName.style.fontSize = Math.max(60, Math.min(112, Math.floor(1120 / Math.max(1, it.name.length)))) + 'px'; // long names fit the 9:16 width
+  setTimeout(() => resultEl.classList.add('show'), 180);
+  confetti();
+  setTimeout(() => { bulbMode = 'idle'; spinning = false; }, 1600);
+}
+function reset() { resultEl.classList.remove('show'); machine.classList.remove('win'); hint.style.opacity = store.get('hint', true) ? 1 : 0; }
+
+/* ---------- confetti ---------- */
+const cv = document.getElementById('confetti'), cx = cv.getContext('2d'); let parts = [];
+function confetti() {
+  cv.width = innerWidth; cv.height = innerHeight;
+  const cols = ['#FFE45C', '#FFC21A', '#ffffff', '#FF6B6B', '#5CE1FF', '#9DFF7A'];
+  const r = stage.getBoundingClientRect();
+  for (let i = 0; i < 220; i++) parts.push({ x: r.left + r.width / 2, y: r.top + r.height * .5, vx: (Math.random() - .5) * 26, vy: -Math.random() * 26 - 6,
+    s: 6 + Math.random() * 10, c: cols[i % cols.length], rot: Math.random() * 6, vr: (Math.random() - .5) * .4, life: 0 });
+  if (parts.length === 220) requestAnimationFrame(tickConf);
+}
+function tickConf() {
+  cx.clearRect(0, 0, cv.width, cv.height);
+  parts.forEach(p => { p.vy += .6; p.vx *= .985; p.x += p.vx; p.y += p.vy; p.rot += p.vr; p.life++;
+    cx.save(); cx.translate(p.x, p.y); cx.rotate(p.rot); cx.fillStyle = p.c; cx.globalAlpha = Math.max(0, 1 - p.life / 140); cx.fillRect(-p.s / 2, -p.s / 4, p.s, p.s / 2); cx.restore(); });
+  parts = parts.filter(p => p.life < 140 && p.y < cv.height + 40);
+  if (parts.length) requestAnimationFrame(tickConf); else cx.clearRect(0, 0, cv.width, cv.height);
+}
+
+/* ---------- settings ---------- */
+const panel = document.getElementById('panel'), listEdit = document.getElementById('listEdit'), forceSel = document.getElementById('forceSel');
+function fillPanel() {
+  listEdit.value = items.map(i => (i.emo ? i.emo + ' ' : '') + i.name).join('\n');
+  forceSel.innerHTML = '<option value="">🎲 Rastgele</option>' + items.map((it, i) => `<option value="${i}">${it.emo} ${it.name}</option>`).join('');
+  document.getElementById('soundChk').checked = sound;
+  document.getElementById('hintChk').checked = store.get('hint', true);
+  document.getElementById('guideChk').checked = store.get('guide', false);
+}
+forceSel.addEventListener('change', () => { forceNext = forceSel.value; });
+document.getElementById('saveBtn').addEventListener('click', () => {
+  store.set('list', listEdit.value); items = parse(listEdit.value);
+  sound = document.getElementById('soundChk').checked; store.set('sound', sound);
+  store.set('hint', document.getElementById('hintChk').checked);
+  store.set('guide', document.getElementById('guideChk').checked);
+  applyPrefs(); buildStrip(); const keep = forceNext; fillPanel(); forceSel.value = keep;
+});
+function applyPrefs() {
+  hint.style.opacity = store.get('hint', true) ? 1 : 0;
+  stage.classList.toggle('guide', store.get('guide', false));
+}
+
+addEventListener('keydown', e => {
+  if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+  if (e.code === 'Space' || e.code === 'Enter') { e.preventDefault(); if (!spinning) release(true); }
+  else if (e.key === 'f' || e.key === 'F') { document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen().catch(() => {}); }
+  else if (e.key === 'c' || e.key === 'C') document.body.classList.toggle('nocursor');
+  else if (e.key === 'a' || e.key === 'A') { panel.classList.toggle('open'); if (panel.classList.contains('open')) fillPanel(); }
+  else if (e.key === 'r' || e.key === 'R') reset();
+});
+
+buildStrip(); applyPrefs();
+// start on a random item so the first frame isn't always the same
+offset = Math.floor(Math.random() * items.length) * ITEM_H; strip.style.transform = `translateY(${-offset}px)`;
+// #test -> auto-spin (used for automated screenshots); #pull -> freeze lever half-pulled
+if (location.hash === '#test') setTimeout(() => release(true), 300);
+if (location.hash === '#pull') setArm(0.5);
+if (location.hash === '#win') { sound = false; lastIdx = 0; offset = (items.length - 1) * ITEM_H; strip.style.transform = `translateY(${-offset}px)`; land(); }
+</script>
+</body>
+</html>

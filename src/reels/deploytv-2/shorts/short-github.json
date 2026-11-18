@@ -1,0 +1,1005 @@
+{
+ "date": "17 KASIM 2026",
+ "scenes": [
+  {
+   "text": "[excited] Şimdi yeni köşemiz: GitHub'da bu hafta ortalığı kasıp kavuran repolar! Bir numara, Meta'nın yeni açık kaynak tasarım sistemi Astryx. Yapay zeka ajanlarının kullanabileceği şekilde tasarlanmış ve bir haftada tam 13 bin 500 yıldız topladı. İkinci sırada eski bir dost var: Sherlock. Bir kullanıcı adını yazıyorsunuz, o kullanıcı adının hangi sosyal medya sitelerinde kayıtlı olduğunu buluyor; bu hafta 10 binden fazla yıldız aldı. Bir de Anthropic'in ajan becerileri reposu, yani skills, bu hafta 6 binden fazla yıldızla listede. [laughs] Bu videoyu yaparken ben de o skill'leri kullanıyorum, yani evden haber veriyorum.",
+   "tag": "GITHUB",
+   "headline": "GITHUB'DA HAFTANIN YILDIZLARI",
+   "title": "GITHUB'DA BU HAFTA",
+   "accent": "#A371F7",
+   "img": "github-mark.svg",
+   "fit": "contain",
+   "imgBg": "#F4F6FA",
+   "src": "Kaynak: GitHub Trending (haftalık, 17 Kasım)",
+   "items": [
+    {
+     "k": "chip",
+     "at": "astryx",
+     "t": "🥇 meta/astryx · +13.500 ⭐"
+    },
+    {
+     "k": "chip",
+     "at": "sherlock",
+     "t": "🥈 sherlock-project/sherlock · +10.400 ⭐"
+    },
+    {
+     "k": "chip",
+     "at": "skills,",
+     "t": "🥉 anthropics/skills · +6.000 ⭐"
+    }
+   ]
+  },
+  {
+   "text": "Yorumum: listeye bakınca bir şey hemen göze çarpıyor. İlk on dört reponun çoğu yapay zeka ajanları için: ajanlara tasarım sistemi, ajanlara tarayıcı, ajanlara kod inceleme, ajanlara beceri paketleri. Yani geliştiriciler artık sadece insanlar için değil, yapay zeka için de yazılım yazıyor. Sherlock'a gelince; bence herkes bir kere kendi kullanıcı adıyla denemeli. Ortaokulda açıp unuttuğunuz o utanç verici hesaplar hâlâ orada duruyor olabilir. [laughs] Dijital ayak izinizi temizlemenin tam zamanı!",
+   "tag": "YORUM",
+   "headline": "YAZILIM ARTIK YAPAY ZEKA İÇİN YAZILIYOR",
+   "title": "💬 YORUMUM",
+   "accent": "#FFD23F",
+   "yorum": true,
+   "items": [
+    {
+     "k": "quote",
+     "at": "çoğu",
+     "t": "Trend listesinin çoğu: yapay zeka ajanları için."
+    },
+    {
+     "k": "quote",
+     "at": "geliştiriciler",
+     "t": "Yazılım artık sadece insanlar için değil, yapay zeka için de yazılıyor."
+    },
+    {
+     "k": "quote",
+     "at": "ayak",
+     "t": "Kendi kullanıcı adınızı aratın; dijital ayak izinizi temizleyin. 🧹"
+    }
+   ]
+  }
+ ],
+ "voice": {
+  "duration": 72.537,
+  "words": [
+   {
+    "text": "Şimdi",
+    "start": 0.25,
+    "end": 0.517,
+    "scene": 0
+   },
+   {
+    "text": "yeni",
+    "start": 0.565,
+    "end": 0.757,
+    "scene": 0
+   },
+   {
+    "text": "köşemiz:",
+    "start": 0.817,
+    "end": 1.877,
+    "scene": 0
+   },
+   {
+    "text": "GitHub'da",
+    "start": 1.946,
+    "end": 2.437,
+    "scene": 0
+   },
+   {
+    "text": "bu",
+    "start": 2.49,
+    "end": 2.597,
+    "scene": 0
+   },
+   {
+    "text": "hafta",
+    "start": 2.65,
+    "end": 2.917,
+    "scene": 0
+   },
+   {
+    "text": "ortalığı",
+    "start": 2.918,
+    "end": 3.397,
+    "scene": 0
+   },
+   {
+    "text": "kasıp",
+    "start": 3.437,
+    "end": 3.637,
+    "scene": 0
+   },
+   {
+    "text": "kavuran",
+    "start": 3.697,
+    "end": 4.117,
+    "scene": 0
+   },
+   {
+    "text": "repolar!",
+    "start": 4.177,
+    "end": 4.757,
+    "scene": 0
+   },
+   {
+    "text": "Bir",
+    "start": 4.917,
+    "end": 5.397,
+    "scene": 0
+   },
+   {
+    "text": "numara,",
+    "start": 5.437,
+    "end": 5.877,
+    "scene": 0
+   },
+   {
+    "text": "Meta'nın",
+    "start": 5.973,
+    "end": 6.517,
+    "scene": 0
+   },
+   {
+    "text": "yeni",
+    "start": 6.565,
+    "end": 6.757,
+    "scene": 0
+   },
+   {
+    "text": "açık",
+    "start": 6.805,
+    "end": 6.997,
+    "scene": 0
+   },
+   {
+    "text": "kaynak",
+    "start": 7.054,
+    "end": 7.397,
+    "scene": 0
+   },
+   {
+    "text": "tasarım",
+    "start": 7.447,
+    "end": 7.797,
+    "scene": 0
+   },
+   {
+    "text": "sistemi",
+    "start": 7.857,
+    "end": 8.277,
+    "scene": 0
+   },
+   {
+    "text": "Astryx.",
+    "start": 8.437,
+    "end": 9.517,
+    "scene": 0
+   },
+   {
+    "text": "Yapay",
+    "start": 9.607,
+    "end": 9.957,
+    "scene": 0
+   },
+   {
+    "text": "zeka",
+    "start": 10.037,
+    "end": 10.277,
+    "scene": 0
+   },
+   {
+    "text": "ajanlarının",
+    "start": 10.357,
+    "end": 10.917,
+    "scene": 0
+   },
+   {
+    "text": "kullanabileceği",
+    "start": 10.951,
+    "end": 11.637,
+    "scene": 0
+   },
+   {
+    "text": "şekilde",
+    "start": 11.687,
+    "end": 12.037,
+    "scene": 0
+   },
+   {
+    "text": "tasarlanmış",
+    "start": 12.104,
+    "end": 12.837,
+    "scene": 0
+   },
+   {
+    "text": "ve",
+    "start": 12.97,
+    "end": 13.237,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 13.277,
+    "end": 13.397,
+    "scene": 0
+   },
+   {
+    "text": "haftada",
+    "start": 13.445,
+    "end": 13.797,
+    "scene": 0
+   },
+   {
+    "text": "tam",
+    "start": 13.877,
+    "end": 14.117,
+    "scene": 0
+   },
+   {
+    "text": "13",
+    "start": 14.277,
+    "end": 14.597,
+    "scene": 0
+   },
+   {
+    "text": "bin",
+    "start": 14.637,
+    "end": 14.757,
+    "scene": 0
+   },
+   {
+    "text": "500",
+    "start": 14.837,
+    "end": 15.237,
+    "scene": 0
+   },
+   {
+    "text": "yıldız",
+    "start": 15.283,
+    "end": 15.557,
+    "scene": 0
+   },
+   {
+    "text": "topladı.",
+    "start": 15.621,
+    "end": 16.197,
+    "scene": 0
+   },
+   {
+    "text": "İkinci",
+    "start": 16.557,
+    "end": 17.157,
+    "scene": 0
+   },
+   {
+    "text": "sırada",
+    "start": 17.214,
+    "end": 17.557,
+    "scene": 0
+   },
+   {
+    "text": "eski",
+    "start": 17.621,
+    "end": 17.877,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 17.897,
+    "end": 17.957,
+    "scene": 0
+   },
+   {
+    "text": "dost",
+    "start": 18.021,
+    "end": 18.277,
+    "scene": 0
+   },
+   {
+    "text": "var:",
+    "start": 18.337,
+    "end": 18.597,
+    "scene": 0
+   },
+   {
+    "text": "Sherlock.",
+    "start": 18.686,
+    "end": 19.677,
+    "scene": 0
+   },
+   {
+    "text": "Bir",
+    "start": 19.747,
+    "end": 19.957,
+    "scene": 0
+   },
+   {
+    "text": "kullanıcı",
+    "start": 20.005,
+    "end": 20.437,
+    "scene": 0
+   },
+   {
+    "text": "adını",
+    "start": 20.477,
+    "end": 20.677,
+    "scene": 0
+   },
+   {
+    "text": "yazıyorsunuz,",
+    "start": 20.737,
+    "end": 21.477,
+    "scene": 0
+   },
+   {
+    "text": "o",
+    "start": 21.637,
+    "end": 21.797,
+    "scene": 0
+   },
+   {
+    "text": "kullanıcı",
+    "start": 21.845,
+    "end": 22.277,
+    "scene": 0
+   },
+   {
+    "text": "adının",
+    "start": 22.33,
+    "end": 22.677,
+    "scene": 0
+   },
+   {
+    "text": "hangi",
+    "start": 22.73,
+    "end": 22.997,
+    "scene": 0
+   },
+   {
+    "text": "sosyal",
+    "start": 23.054,
+    "end": 23.397,
+    "scene": 0
+   },
+   {
+    "text": "medya",
+    "start": 23.437,
+    "end": 23.637,
+    "scene": 0
+   },
+   {
+    "text": "sitelerinde",
+    "start": 23.677,
+    "end": 24.117,
+    "scene": 0
+   },
+   {
+    "text": "kayıtlı",
+    "start": 24.165,
+    "end": 24.717,
+    "scene": 0
+   },
+   {
+    "text": "olduğunu",
+    "start": 24.739,
+    "end": 24.917,
+    "scene": 0
+   },
+   {
+    "text": "buluyor;",
+    "start": 24.957,
+    "end": 25.397,
+    "scene": 0
+   },
+   {
+    "text": "bu",
+    "start": 25.53,
+    "end": 25.797,
+    "scene": 0
+   },
+   {
+    "text": "hafta",
+    "start": 25.864,
+    "end": 26.197,
+    "scene": 0
+   },
+   {
+    "text": "10",
+    "start": 26.277,
+    "end": 26.437,
+    "scene": 0
+   },
+   {
+    "text": "binden",
+    "start": 26.485,
+    "end": 26.757,
+    "scene": 0
+   },
+   {
+    "text": "fazla",
+    "start": 26.81,
+    "end": 27.077,
+    "scene": 0
+   },
+   {
+    "text": "yıldız",
+    "start": 27.123,
+    "end": 27.397,
+    "scene": 0
+   },
+   {
+    "text": "aldı.",
+    "start": 27.477,
+    "end": 27.877,
+    "scene": 0
+   },
+   {
+    "text": "Bir",
+    "start": 28.077,
+    "end": 28.677,
+    "scene": 0
+   },
+   {
+    "text": "de",
+    "start": 28.757,
+    "end": 28.917,
+    "scene": 0
+   },
+   {
+    "text": "Anthropic'in",
+    "start": 28.997,
+    "end": 29.637,
+    "scene": 0
+   },
+   {
+    "text": "ajan",
+    "start": 29.717,
+    "end": 30.037,
+    "scene": 0
+   },
+   {
+    "text": "becerileri",
+    "start": 30.09,
+    "end": 30.517,
+    "scene": 0
+   },
+   {
+    "text": "reposu,",
+    "start": 30.597,
+    "end": 31.277,
+    "scene": 0
+   },
+   {
+    "text": "yani",
+    "start": 31.317,
+    "end": 31.477,
+    "scene": 0
+   },
+   {
+    "text": "skills,",
+    "start": 31.557,
+    "end": 32.117,
+    "scene": 0
+   },
+   {
+    "text": "bu",
+    "start": 32.224,
+    "end": 32.437,
+    "scene": 0
+   },
+   {
+    "text": "hafta",
+    "start": 32.504,
+    "end": 32.837,
+    "scene": 0
+   },
+   {
+    "text": "6",
+    "start": 32.917,
+    "end": 33.157,
+    "scene": 0
+   },
+   {
+    "text": "binden",
+    "start": 33.189,
+    "end": 33.477,
+    "scene": 0
+   },
+   {
+    "text": "fazla",
+    "start": 33.53,
+    "end": 33.797,
+    "scene": 0
+   },
+   {
+    "text": "yıldızla",
+    "start": 33.824,
+    "end": 34.197,
+    "scene": 0
+   },
+   {
+    "text": "listede.",
+    "start": 34.266,
+    "end": 34.837,
+    "scene": 0
+   },
+   {
+    "text": "Bu",
+    "start": 35.299,
+    "end": 35.317,
+    "scene": 0
+   },
+   {
+    "text": "videoyu",
+    "start": 35.37,
+    "end": 35.717,
+    "scene": 0
+   },
+   {
+    "text": "yaparken",
+    "start": 35.757,
+    "end": 36.277,
+    "scene": 0
+   },
+   {
+    "text": "ben",
+    "start": 36.337,
+    "end": 36.517,
+    "scene": 0
+   },
+   {
+    "text": "de",
+    "start": 36.57,
+    "end": 36.677,
+    "scene": 0
+   },
+   {
+    "text": "o",
+    "start": 36.717,
+    "end": 36.757,
+    "scene": 0
+   },
+   {
+    "text": "skill'leri",
+    "start": 36.81,
+    "end": 37.237,
+    "scene": 0
+   },
+   {
+    "text": "kullanıyorum,",
+    "start": 37.283,
+    "end": 38.037,
+    "scene": 0
+   },
+   {
+    "text": "yani",
+    "start": 38.117,
+    "end": 38.437,
+    "scene": 0
+   },
+   {
+    "text": "evden",
+    "start": 38.544,
+    "end": 38.917,
+    "scene": 0
+   },
+   {
+    "text": "haber",
+    "start": 38.97,
+    "end": 39.237,
+    "scene": 0
+   },
+   {
+    "text": "veriyorum.",
+    "start": 39.277,
+    "end": 39.797,
+    "scene": 0
+   },
+   {
+    "text": "Yorumum:",
+    "start": 40.497,
+    "end": 41.337,
+    "scene": 1
+   },
+   {
+    "text": "listeye",
+    "start": 41.481,
+    "end": 42.137,
+    "scene": 1
+   },
+   {
+    "text": "bakınca",
+    "start": 42.177,
+    "end": 42.617,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 42.657,
+    "end": 42.777,
+    "scene": 1
+   },
+   {
+    "text": "şey",
+    "start": 42.837,
+    "end": 43.017,
+    "scene": 1
+   },
+   {
+    "text": "hemen",
+    "start": 43.07,
+    "end": 43.337,
+    "scene": 1
+   },
+   {
+    "text": "göze",
+    "start": 43.364,
+    "end": 43.577,
+    "scene": 1
+   },
+   {
+    "text": "çarpıyor.",
+    "start": 43.641,
+    "end": 44.217,
+    "scene": 1
+   },
+   {
+    "text": "İlk",
+    "start": 44.357,
+    "end": 44.777,
+    "scene": 1
+   },
+   {
+    "text": "on",
+    "start": 44.83,
+    "end": 44.937,
+    "scene": 1
+   },
+   {
+    "text": "dört",
+    "start": 44.985,
+    "end": 45.177,
+    "scene": 1
+   },
+   {
+    "text": "reponun",
+    "start": 45.23,
+    "end": 45.577,
+    "scene": 1
+   },
+   {
+    "text": "çoğu",
+    "start": 45.657,
+    "end": 45.977,
+    "scene": 1
+   },
+   {
+    "text": "yapay",
+    "start": 46.057,
+    "end": 46.377,
+    "scene": 1
+   },
+   {
+    "text": "zeka",
+    "start": 46.417,
+    "end": 46.697,
+    "scene": 1
+   },
+   {
+    "text": "ajanları",
+    "start": 46.777,
+    "end": 47.177,
+    "scene": 1
+   },
+   {
+    "text": "için:",
+    "start": 47.257,
+    "end": 48.057,
+    "scene": 1
+   },
+   {
+    "text": "ajanlara",
+    "start": 48.097,
+    "end": 48.457,
+    "scene": 1
+   },
+   {
+    "text": "tasarım",
+    "start": 48.517,
+    "end": 48.937,
+    "scene": 1
+   },
+   {
+    "text": "sistemi,",
+    "start": 49.007,
+    "end": 49.737,
+    "scene": 1
+   },
+   {
+    "text": "ajanlara",
+    "start": 49.777,
+    "end": 50.217,
+    "scene": 1
+   },
+   {
+    "text": "tarayıcı,",
+    "start": 50.297,
+    "end": 50.937,
+    "scene": 1
+   },
+   {
+    "text": "ajanlara",
+    "start": 51.097,
+    "end": 51.577,
+    "scene": 1
+   },
+   {
+    "text": "kod",
+    "start": 51.657,
+    "end": 51.897,
+    "scene": 1
+   },
+   {
+    "text": "inceleme,",
+    "start": 51.95,
+    "end": 52.537,
+    "scene": 1
+   },
+   {
+    "text": "ajanlara",
+    "start": 52.697,
+    "end": 53.177,
+    "scene": 1
+   },
+   {
+    "text": "beceri",
+    "start": 53.244,
+    "end": 53.657,
+    "scene": 1
+   },
+   {
+    "text": "paketleri.",
+    "start": 53.677,
+    "end": 54.217,
+    "scene": 1
+   },
+   {
+    "text": "Yani",
+    "start": 54.377,
+    "end": 55.017,
+    "scene": 1
+   },
+   {
+    "text": "geliştiriciler",
+    "start": 55.057,
+    "end": 55.817,
+    "scene": 1
+   },
+   {
+    "text": "artık",
+    "start": 55.87,
+    "end": 56.137,
+    "scene": 1
+   },
+   {
+    "text": "sadece",
+    "start": 56.206,
+    "end": 56.617,
+    "scene": 1
+   },
+   {
+    "text": "insanlar",
+    "start": 56.67,
+    "end": 57.097,
+    "scene": 1
+   },
+   {
+    "text": "için",
+    "start": 57.145,
+    "end": 57.337,
+    "scene": 1
+   },
+   {
+    "text": "değil,",
+    "start": 57.39,
+    "end": 57.857,
+    "scene": 1
+   },
+   {
+    "text": "yapay",
+    "start": 57.907,
+    "end": 58.217,
+    "scene": 1
+   },
+   {
+    "text": "zeka",
+    "start": 58.257,
+    "end": 58.537,
+    "scene": 1
+   },
+   {
+    "text": "için",
+    "start": 58.585,
+    "end": 58.777,
+    "scene": 1
+   },
+   {
+    "text": "de",
+    "start": 58.804,
+    "end": 58.857,
+    "scene": 1
+   },
+   {
+    "text": "yazılım",
+    "start": 58.907,
+    "end": 59.257,
+    "scene": 1
+   },
+   {
+    "text": "yazıyor.",
+    "start": 59.317,
+    "end": 59.817,
+    "scene": 1
+   },
+   {
+    "text": "Sherlock'a",
+    "start": 59.924,
+    "end": 60.857,
+    "scene": 1
+   },
+   {
+    "text": "gelince;",
+    "start": 60.897,
+    "end": 61.617,
+    "scene": 1
+   },
+   {
+    "text": "bence",
+    "start": 61.717,
+    "end": 62.057,
+    "scene": 1
+   },
+   {
+    "text": "herkes",
+    "start": 62.126,
+    "end": 62.537,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 62.577,
+    "end": 62.697,
+    "scene": 1
+   },
+   {
+    "text": "kere",
+    "start": 62.737,
+    "end": 62.937,
+    "scene": 1
+   },
+   {
+    "text": "kendi",
+    "start": 62.99,
+    "end": 63.257,
+    "scene": 1
+   },
+   {
+    "text": "kullanıcı",
+    "start": 63.297,
+    "end": 63.657,
+    "scene": 1
+   },
+   {
+    "text": "adıyla",
+    "start": 63.71,
+    "end": 63.977,
+    "scene": 1
+   },
+   {
+    "text": "denemeli.",
+    "start": 64.037,
+    "end": 64.617,
+    "scene": 1
+   },
+   {
+    "text": "Ortaokulda",
+    "start": 64.761,
+    "end": 65.657,
+    "scene": 1
+   },
+   {
+    "text": "açıp",
+    "start": 65.71,
+    "end": 65.897,
+    "scene": 1
+   },
+   {
+    "text": "unuttuğunuz",
+    "start": 65.95,
+    "end": 66.457,
+    "scene": 1
+   },
+   {
+    "text": "o",
+    "start": 66.537,
+    "end": 66.617,
+    "scene": 1
+   },
+   {
+    "text": "utanç",
+    "start": 66.681,
+    "end": 67.017,
+    "scene": 1
+   },
+   {
+    "text": "verici",
+    "start": 67.037,
+    "end": 67.257,
+    "scene": 1
+   },
+   {
+    "text": "hesaplar",
+    "start": 67.324,
+    "end": 67.817,
+    "scene": 1
+   },
+   {
+    "text": "hâlâ",
+    "start": 67.897,
+    "end": 68.217,
+    "scene": 1
+   },
+   {
+    "text": "orada",
+    "start": 68.257,
+    "end": 68.457,
+    "scene": 1
+   },
+   {
+    "text": "duruyor",
+    "start": 68.497,
+    "end": 68.777,
+    "scene": 1
+   },
+   {
+    "text": "olabilir.",
+    "start": 68.839,
+    "end": 69.417,
+    "scene": 1
+   },
+   {
+    "text": "Dijital",
+    "start": 70.157,
+    "end": 70.377,
+    "scene": 1
+   },
+   {
+    "text": "ayak",
+    "start": 70.425,
+    "end": 70.617,
+    "scene": 1
+   },
+   {
+    "text": "izinizi",
+    "start": 70.67,
+    "end": 71.017,
+    "scene": 1
+   },
+   {
+    "text": "temizlemenin",
+    "start": 71.07,
+    "end": 71.657,
+    "scene": 1
+   },
+   {
+    "text": "tam",
+    "start": 71.717,
+    "end": 71.897,
+    "scene": 1
+   },
+   {
+    "text": "zamanı!",
+    "start": 71.977,
+    "end": 72.537,
+    "scene": 1
+   }
+  ]
+ }
+}

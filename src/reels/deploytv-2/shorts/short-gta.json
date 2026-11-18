@@ -1,0 +1,890 @@
+{
+ "date": "17 KASIM 2026",
+ "scenes": [
+  {
+   "text": "[excited] Ve geldik oyuncuların uykusunu kaçıran habere! Yıllardır beklenen GTA altı, 19 Kasım'da PlayStation 5 ve Xbox Series için çıkıyor, her bölgede yerel saatle gece yarısı! Dijital ön yükleme 10 Kasım'da açıldı. Oyunun 212 gigabayta kadar boş alan istediği bildiriliyor; PC için ise henüz tarih yok. YouTube da bu çılgınlığa ortak oluyor: Rockstar'la birlikte 19 Kasım'da başlayan, 24 saatlik küresel bir canlı yayın yapacaklar.",
+   "tag": "OYUN",
+   "headline": "GTA VI 19 KASIM'DA ÇIKIYOR",
+   "title": "GTA VI GELİYOR",
+   "accent": "#F25FA2",
+   "img": "gta-billboard.jpg",
+   "fit": "cover",
+   "src": "Kaynak: Rockstar Games · YouTube Blog · Forbes",
+   "items": [
+    {
+     "k": "stamp",
+     "at": "19",
+     "t": "19 KASIM",
+     "color": "#F25FA2"
+    },
+    {
+     "k": "chip",
+     "at": "ön",
+     "t": "⬇️ Ön yükleme açık"
+    },
+    {
+     "k": "chip",
+     "at": "212",
+     "t": "💾 212 GB'a kadar alan"
+    },
+    {
+     "k": "chip",
+     "at": "24",
+     "t": "📺 24 saatlik YouTube yayını"
+    }
+   ]
+  },
+  {
+   "text": "Yorumum: GTA altı sadece bir oyun değil, bir kültür olayı. Bir önceki oyun 2013'te çıkmıştı; yani bu oyunu bekleyenlerin bir kısmı o zaman ilkokuldaydı, şimdi iş görüşmesine gidiyor! [laughs] Bence bu çıkışın asıl ilginç yanı, YouTube'un bir oyun için 24 saatlik küresel yayın yapması: oyunlar artık sinema filmlerinin galası gibi. Ve 212 gigabayt... Telefonunuzdaki fotoğrafları silmeye başlamanın tam zamanı. Peki siz ilk gün oynayacak mısınız? Yorumlara yazın; hasta raporu almayı düşünenler, ben bir şey duymadım.",
+   "tag": "YORUM",
+   "headline": "OYUNLAR ARTIK FİLM GALASI GİBİ",
+   "title": "💬 YORUMUM",
+   "accent": "#FFD23F",
+   "yorum": true,
+   "items": [
+    {
+     "k": "quote",
+     "at": "2013'te",
+     "t": "2013'te ilkokulda bekleyen, şimdi iş görüşmesinde. 🎓"
+    },
+    {
+     "k": "quote",
+     "at": "galası",
+     "t": "Oyunlar artık sinema galası gibi."
+    },
+    {
+     "k": "quote",
+     "at": "oynayacak",
+     "t": "Siz ilk gün oynayacak mısınız? 🎮"
+    }
+   ]
+  }
+ ],
+ "voice": {
+  "duration": 61.697,
+  "words": [
+   {
+    "text": "Ve",
+    "start": 0.25,
+    "end": 0.277,
+    "scene": 0
+   },
+   {
+    "text": "geldik",
+    "start": 0.341,
+    "end": 0.677,
+    "scene": 0
+   },
+   {
+    "text": "oyuncuların",
+    "start": 0.73,
+    "end": 1.197,
+    "scene": 0
+   },
+   {
+    "text": "uykusunu",
+    "start": 1.217,
+    "end": 1.637,
+    "scene": 0
+   },
+   {
+    "text": "kaçıran",
+    "start": 1.677,
+    "end": 2.037,
+    "scene": 0
+   },
+   {
+    "text": "habere!",
+    "start": 2.077,
+    "end": 2.517,
+    "scene": 0
+   },
+   {
+    "text": "Yıllardır",
+    "start": 2.677,
+    "end": 3.237,
+    "scene": 0
+   },
+   {
+    "text": "beklenen",
+    "start": 3.297,
+    "end": 3.797,
+    "scene": 0
+   },
+   {
+    "text": "GTA",
+    "start": 3.917,
+    "end": 4.277,
+    "scene": 0
+   },
+   {
+    "text": "altı,",
+    "start": 4.357,
+    "end": 4.757,
+    "scene": 0
+   },
+   {
+    "text": "19",
+    "start": 5.077,
+    "end": 5.557,
+    "scene": 0
+   },
+   {
+    "text": "Kasım'da",
+    "start": 5.597,
+    "end": 5.957,
+    "scene": 0
+   },
+   {
+    "text": "PlayStation",
+    "start": 6.017,
+    "end": 6.677,
+    "scene": 0
+   },
+   {
+    "text": "5",
+    "start": 6.757,
+    "end": 6.997,
+    "scene": 0
+   },
+   {
+    "text": "ve",
+    "start": 7.104,
+    "end": 7.317,
+    "scene": 0
+   },
+   {
+    "text": "Xbox",
+    "start": 7.429,
+    "end": 7.877,
+    "scene": 0
+   },
+   {
+    "text": "Series",
+    "start": 7.923,
+    "end": 8.197,
+    "scene": 0
+   },
+   {
+    "text": "için",
+    "start": 8.261,
+    "end": 8.517,
+    "scene": 0
+   },
+   {
+    "text": "çıkıyor,",
+    "start": 8.557,
+    "end": 9.157,
+    "scene": 0
+   },
+   {
+    "text": "her",
+    "start": 9.217,
+    "end": 9.397,
+    "scene": 0
+   },
+   {
+    "text": "bölgede",
+    "start": 9.457,
+    "end": 9.957,
+    "scene": 0
+   },
+   {
+    "text": "yerel",
+    "start": 9.984,
+    "end": 10.117,
+    "scene": 0
+   },
+   {
+    "text": "saatle",
+    "start": 10.197,
+    "end": 10.597,
+    "scene": 0
+   },
+   {
+    "text": "gece",
+    "start": 10.645,
+    "end": 10.837,
+    "scene": 0
+   },
+   {
+    "text": "yarısı!",
+    "start": 10.877,
+    "end": 11.397,
+    "scene": 0
+   },
+   {
+    "text": "Dijital",
+    "start": 11.637,
+    "end": 12.277,
+    "scene": 0
+   },
+   {
+    "text": "ön",
+    "start": 12.33,
+    "end": 12.437,
+    "scene": 0
+   },
+   {
+    "text": "yükleme",
+    "start": 12.477,
+    "end": 12.917,
+    "scene": 0
+   },
+   {
+    "text": "10",
+    "start": 13.077,
+    "end": 13.157,
+    "scene": 0
+   },
+   {
+    "text": "Kasım'da",
+    "start": 13.21,
+    "end": 13.677,
+    "scene": 0
+   },
+   {
+    "text": "açıldı.",
+    "start": 13.707,
+    "end": 14.397,
+    "scene": 0
+   },
+   {
+    "text": "Oyunun",
+    "start": 14.453,
+    "end": 14.757,
+    "scene": 0
+   },
+   {
+    "text": "212",
+    "start": 14.837,
+    "end": 15.477,
+    "scene": 0
+   },
+   {
+    "text": "gigabayta",
+    "start": 15.517,
+    "end": 15.957,
+    "scene": 0
+   },
+   {
+    "text": "kadar",
+    "start": 16.01,
+    "end": 16.277,
+    "scene": 0
+   },
+   {
+    "text": "boş",
+    "start": 16.357,
+    "end": 16.597,
+    "scene": 0
+   },
+   {
+    "text": "alan",
+    "start": 16.629,
+    "end": 16.757,
+    "scene": 0
+   },
+   {
+    "text": "istediği",
+    "start": 16.814,
+    "end": 17.237,
+    "scene": 0
+   },
+   {
+    "text": "bildiriliyor;",
+    "start": 17.283,
+    "end": 17.957,
+    "scene": 0
+   },
+   {
+    "text": "PC",
+    "start": 18.144,
+    "end": 18.517,
+    "scene": 0
+   },
+   {
+    "text": "için",
+    "start": 18.581,
+    "end": 18.837,
+    "scene": 0
+   },
+   {
+    "text": "ise",
+    "start": 18.897,
+    "end": 19.077,
+    "scene": 0
+   },
+   {
+    "text": "henüz",
+    "start": 19.13,
+    "end": 19.397,
+    "scene": 0
+   },
+   {
+    "text": "tarih",
+    "start": 19.464,
+    "end": 19.797,
+    "scene": 0
+   },
+   {
+    "text": "yok.",
+    "start": 19.877,
+    "end": 20.557,
+    "scene": 0
+   },
+   {
+    "text": "YouTube",
+    "start": 20.612,
+    "end": 20.997,
+    "scene": 0
+   },
+   {
+    "text": "da",
+    "start": 21.05,
+    "end": 21.157,
+    "scene": 0
+   },
+   {
+    "text": "bu",
+    "start": 21.184,
+    "end": 21.237,
+    "scene": 0
+   },
+   {
+    "text": "çılgınlığa",
+    "start": 21.29,
+    "end": 21.797,
+    "scene": 0
+   },
+   {
+    "text": "ortak",
+    "start": 21.85,
+    "end": 22.117,
+    "scene": 0
+   },
+   {
+    "text": "oluyor:",
+    "start": 22.163,
+    "end": 22.517,
+    "scene": 0
+   },
+   {
+    "text": "Rockstar'la",
+    "start": 22.629,
+    "end": 23.397,
+    "scene": 0
+   },
+   {
+    "text": "birlikte",
+    "start": 23.441,
+    "end": 23.797,
+    "scene": 0
+   },
+   {
+    "text": "19",
+    "start": 23.877,
+    "end": 24.357,
+    "scene": 0
+   },
+   {
+    "text": "Kasım'da",
+    "start": 24.397,
+    "end": 24.757,
+    "scene": 0
+   },
+   {
+    "text": "başlayan,",
+    "start": 24.81,
+    "end": 25.317,
+    "scene": 0
+   },
+   {
+    "text": "24",
+    "start": 25.557,
+    "end": 26.037,
+    "scene": 0
+   },
+   {
+    "text": "saatlik",
+    "start": 26.101,
+    "end": 26.437,
+    "scene": 0
+   },
+   {
+    "text": "küresel",
+    "start": 26.49,
+    "end": 26.917,
+    "scene": 0
+   },
+   {
+    "text": "bir",
+    "start": 26.957,
+    "end": 27.077,
+    "scene": 0
+   },
+   {
+    "text": "canlı",
+    "start": 27.144,
+    "end": 27.477,
+    "scene": 0
+   },
+   {
+    "text": "yayın",
+    "start": 27.517,
+    "end": 27.717,
+    "scene": 0
+   },
+   {
+    "text": "yapacaklar.",
+    "start": 27.777,
+    "end": 28.597,
+    "scene": 0
+   },
+   {
+    "text": "Yorumum:",
+    "start": 29.297,
+    "end": 30.097,
+    "scene": 1
+   },
+   {
+    "text": "GTA",
+    "start": 30.297,
+    "end": 30.897,
+    "scene": 1
+   },
+   {
+    "text": "altı",
+    "start": 30.945,
+    "end": 31.137,
+    "scene": 1
+   },
+   {
+    "text": "sadece",
+    "start": 31.206,
+    "end": 31.617,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 31.657,
+    "end": 31.777,
+    "scene": 1
+   },
+   {
+    "text": "oyun",
+    "start": 31.841,
+    "end": 32.097,
+    "scene": 1
+   },
+   {
+    "text": "değil,",
+    "start": 32.15,
+    "end": 32.537,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 32.567,
+    "end": 32.657,
+    "scene": 1
+   },
+   {
+    "text": "kültür",
+    "start": 32.714,
+    "end": 33.057,
+    "scene": 1
+   },
+   {
+    "text": "olayı.",
+    "start": 33.121,
+    "end": 33.537,
+    "scene": 1
+   },
+   {
+    "text": "Bir",
+    "start": 33.637,
+    "end": 33.937,
+    "scene": 1
+   },
+   {
+    "text": "önceki",
+    "start": 33.994,
+    "end": 34.337,
+    "scene": 1
+   },
+   {
+    "text": "oyun",
+    "start": 34.385,
+    "end": 34.577,
+    "scene": 1
+   },
+   {
+    "text": "2013'te",
+    "start": 34.657,
+    "end": 35.297,
+    "scene": 1
+   },
+   {
+    "text": "çıkmıştı;",
+    "start": 35.35,
+    "end": 35.937,
+    "scene": 1
+   },
+   {
+    "text": "yani",
+    "start": 36.049,
+    "end": 36.497,
+    "scene": 1
+   },
+   {
+    "text": "bu",
+    "start": 36.55,
+    "end": 36.657,
+    "scene": 1
+   },
+   {
+    "text": "oyunu",
+    "start": 36.705,
+    "end": 37.017,
+    "scene": 1
+   },
+   {
+    "text": "bekleyenlerin",
+    "start": 37.047,
+    "end": 37.617,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 37.657,
+    "end": 37.777,
+    "scene": 1
+   },
+   {
+    "text": "kısmı",
+    "start": 37.844,
+    "end": 38.177,
+    "scene": 1
+   },
+   {
+    "text": "o",
+    "start": 38.217,
+    "end": 38.257,
+    "scene": 1
+   },
+   {
+    "text": "zaman",
+    "start": 38.31,
+    "end": 38.577,
+    "scene": 1
+   },
+   {
+    "text": "ilkokuldaydı,",
+    "start": 38.63,
+    "end": 39.537,
+    "scene": 1
+   },
+   {
+    "text": "şimdi",
+    "start": 39.63,
+    "end": 40.097,
+    "scene": 1
+   },
+   {
+    "text": "iş",
+    "start": 40.15,
+    "end": 40.257,
+    "scene": 1
+   },
+   {
+    "text": "görüşmesine",
+    "start": 40.297,
+    "end": 40.896,
+    "scene": 1
+   },
+   {
+    "text": "gidiyor!",
+    "start": 40.897,
+    "end": 41.297,
+    "scene": 1
+   },
+   {
+    "text": "Bence",
+    "start": 41.977,
+    "end": 42.417,
+    "scene": 1
+   },
+   {
+    "text": "bu",
+    "start": 42.444,
+    "end": 42.497,
+    "scene": 1
+   },
+   {
+    "text": "çıkışın",
+    "start": 42.564,
+    "end": 42.977,
+    "scene": 1
+   },
+   {
+    "text": "asıl",
+    "start": 43.041,
+    "end": 43.297,
+    "scene": 1
+   },
+   {
+    "text": "ilginç",
+    "start": 43.324,
+    "end": 43.617,
+    "scene": 1
+   },
+   {
+    "text": "yanı,",
+    "start": 43.681,
+    "end": 44.177,
+    "scene": 1
+   },
+   {
+    "text": "YouTube'un",
+    "start": 44.207,
+    "end": 44.497,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 44.537,
+    "end": 44.657,
+    "scene": 1
+   },
+   {
+    "text": "oyun",
+    "start": 44.705,
+    "end": 44.897,
+    "scene": 1
+   },
+   {
+    "text": "için",
+    "start": 44.945,
+    "end": 45.137,
+    "scene": 1
+   },
+   {
+    "text": "24",
+    "start": 45.217,
+    "end": 45.697,
+    "scene": 1
+   },
+   {
+    "text": "saatlik",
+    "start": 45.745,
+    "end": 46.097,
+    "scene": 1
+   },
+   {
+    "text": "küresel",
+    "start": 46.124,
+    "end": 46.577,
+    "scene": 1
+   },
+   {
+    "text": "yayın",
+    "start": 46.617,
+    "end": 46.817,
+    "scene": 1
+   },
+   {
+    "text": "yapması:",
+    "start": 46.877,
+    "end": 47.697,
+    "scene": 1
+   },
+   {
+    "text": "oyunlar",
+    "start": 47.777,
+    "end": 48.177,
+    "scene": 1
+   },
+   {
+    "text": "artık",
+    "start": 48.244,
+    "end": 48.577,
+    "scene": 1
+   },
+   {
+    "text": "sinema",
+    "start": 48.617,
+    "end": 48.897,
+    "scene": 1
+   },
+   {
+    "text": "filmlerinin",
+    "start": 48.937,
+    "end": 49.377,
+    "scene": 1
+   },
+   {
+    "text": "galası",
+    "start": 49.417,
+    "end": 49.777,
+    "scene": 1
+   },
+   {
+    "text": "gibi.",
+    "start": 49.841,
+    "end": 50.177,
+    "scene": 1
+   },
+   {
+    "text": "Ve",
+    "start": 50.337,
+    "end": 50.657,
+    "scene": 1
+   },
+   {
+    "text": "212",
+    "start": 50.897,
+    "end": 51.297,
+    "scene": 1
+   },
+   {
+    "text": "gigabayt...",
+    "start": 51.337,
+    "end": 52.257,
+    "scene": 1
+   },
+   {
+    "text": "Telefonunuzdaki",
+    "start": 52.307,
+    "end": 52.977,
+    "scene": 1
+   },
+   {
+    "text": "fotoğrafları",
+    "start": 53.041,
+    "end": 53.697,
+    "scene": 1
+   },
+   {
+    "text": "silmeye",
+    "start": 53.737,
+    "end": 54.097,
+    "scene": 1
+   },
+   {
+    "text": "başlamanın",
+    "start": 54.157,
+    "end": 54.657,
+    "scene": 1
+   },
+   {
+    "text": "tam",
+    "start": 54.737,
+    "end": 54.977,
+    "scene": 1
+   },
+   {
+    "text": "zamanı.",
+    "start": 55.044,
+    "end": 55.537,
+    "scene": 1
+   },
+   {
+    "text": "Peki",
+    "start": 55.737,
+    "end": 56.097,
+    "scene": 1
+   },
+   {
+    "text": "siz",
+    "start": 56.157,
+    "end": 56.337,
+    "scene": 1
+   },
+   {
+    "text": "ilk",
+    "start": 56.377,
+    "end": 56.497,
+    "scene": 1
+   },
+   {
+    "text": "gün",
+    "start": 56.537,
+    "end": 56.657,
+    "scene": 1
+   },
+   {
+    "text": "oynayacak",
+    "start": 56.717,
+    "end": 57.137,
+    "scene": 1
+   },
+   {
+    "text": "mısınız?",
+    "start": 57.217,
+    "end": 57.777,
+    "scene": 1
+   },
+   {
+    "text": "Yorumlara",
+    "start": 57.817,
+    "end": 58.257,
+    "scene": 1
+   },
+   {
+    "text": "yazın;",
+    "start": 58.317,
+    "end": 58.657,
+    "scene": 1
+   },
+   {
+    "text": "hasta",
+    "start": 58.75,
+    "end": 59.217,
+    "scene": 1
+   },
+   {
+    "text": "raporu",
+    "start": 59.257,
+    "end": 59.537,
+    "scene": 1
+   },
+   {
+    "text": "almayı",
+    "start": 59.59,
+    "end": 59.857,
+    "scene": 1
+   },
+   {
+    "text": "düşünenler,",
+    "start": 59.897,
+    "end": 60.577,
+    "scene": 1
+   },
+   {
+    "text": "ben",
+    "start": 60.617,
+    "end": 60.737,
+    "scene": 1
+   },
+   {
+    "text": "bir",
+    "start": 60.777,
+    "end": 60.897,
+    "scene": 1
+   },
+   {
+    "text": "şey",
+    "start": 60.937,
+    "end": 61.057,
+    "scene": 1
+   },
+   {
+    "text": "duymadım.",
+    "start": 61.11,
+    "end": 61.697,
+    "scene": 1
+   }
+  ]
+ }
+}

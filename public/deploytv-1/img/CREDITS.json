@@ -1,0 +1,87 @@
+{
+ "jensen.jpg": {
+  "license": "CC BY 4.0",
+  "artist": "Anders Eidesvik",
+  "url": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_011.jpg"
+ },
+ "nvidia-hq.jpg": {
+  "license": "CC BY-SA 4.0",
+  "artist": "Coolcaesar",
+  "url": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
+ },
+ "anthropic-logo.svg": {
+  "license": "Public domain",
+  "artist": "Anthropic",
+  "url": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg"
+ },
+ "openai-logo.svg": {
+  "license": "Public domain",
+  "artist": "OpenAI",
+  "url": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(wordmark).svg"
+ },
+ "gemini-icon.svg": {
+  "license": "Public domain",
+  "artist": "Google LLC",
+  "url": "https://commons.wikimedia.org/wiki/File:Google_Gemini_icon_2025.svg"
+ },
+ "meta-logo.svg": {
+  "license": "Public domain",
+  "artist": "Meta Platforms",
+  "url": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg"
+ },
+ "gta-billboard.jpg": {
+  "license": "CC0",
+  "artist": "McPhail",
+  "url": "https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_VI_billboard_on_Jenners,_Edinburgh_in_2026.jpg"
+ },
+ "gta-logo.svg": {
+  "license": "Public domain",
+  "artist": "",
+  "url": "https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_VI_logo_(with_gradient).svg"
+ },
+ "chrome-icon.svg": {
+  "license": "Public domain",
+  "artist": "Google",
+  "url": "https://commons.wikimedia.org/wiki/File:Google_Chrome_icon_(February_2022).svg"
+ },
+ "outlook-icon.svg": {
+  "license": "Public domain",
+  "artist": "Microsoft",
+  "url": "https://commons.wikimedia.org/wiki/File:Microsoft_Outlook_Icon_(2025%E2%80%93present).svg"
+ },
+ "phone-sim.jpg": {
+  "license": "CC0",
+  "artist": "Blakegripling ph",
+  "url": "https://commons.wikimedia.org/wiki/File:Lenovo_A369i_Dual_SIM_slots.jpg"
+ },
+ "starship.jpg": {
+  "license": "CC BY 2.0",
+  "artist": "Steve Jurvetson",
+  "url": "https://commons.wikimedia.org/wiki/File:SpaceX_Starship_ignition_during_IFT-5.jpg"
+ },
+ "tesla-logo.svg": {
+  "license": "Public domain",
+  "artist": "Tesla, Inc.",
+  "url": "https://commons.wikimedia.org/wiki/File:Tesla_Motors_Logo_-_White.svg"
+ },
+ "github-mark.svg": {
+  "license": "MIT",
+  "artist": "GitHub",
+  "url": "https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg"
+ },
+ "apple-logo.svg": {
+  "license": "Public domain",
+  "artist": "Original:  Rob Janoff",
+  "url": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg"
+ },
+ "mercedes-logo.svg": {
+  "license": "Public domain",
+  "artist": "Mercedes-Benz",
+  "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Logo_2010.svg"
+ },
+ "dna.png": {
+  "license": "Public domain",
+  "artist": "Jerome Walker",
+  "url": "https://commons.wikimedia.org/wiki/File:DNA_double_helix_horizontal.png"
+ }
+}
