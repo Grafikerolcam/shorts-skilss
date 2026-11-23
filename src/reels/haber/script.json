@@ -1,5 +1,6 @@
 {
-  "voiceId": "",
+  "voiceId": "mF7tIc9VLrznhGooGjaT",
+  "model": "eleven_v4",
   "scenes": [
     "Merhaba, Diploy Tivi'ye hoş geldiniz. Bu hafta teknoloji dünyası adeta sarsıldı. İşte öne çıkan dört haber.",
     "Birinci haber: Nvidia'nın kurucusu Jensen Huang, CEO'luk görevinden istifa etti. Şirketin resmi bildirimine göre karar 12 Kasım'da, anında yürürlüğe girdi. Geçici CEO, finans direktörü Colette Kress oldu. Üstelik Nvidia bugün bilançosunu açıklıyor; analistler 109 milyar dolarlık rekor gelir bekliyor.",

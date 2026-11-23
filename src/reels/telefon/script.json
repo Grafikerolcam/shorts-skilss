@@ -1,5 +1,6 @@
 {
-  "voiceId": "",
+  "voiceId": "mF7tIc9VLrznhGooGjaT",
+  "model": "eleven_v4",
   "scenes": [
     "Telefonun seni dinliyor mu? Kahve dedin, beş dakika sonra kahve reklamı geldi.",
     "Araştırmacılar bunu test etti: tam 17 bin uygulama, tek tek.",

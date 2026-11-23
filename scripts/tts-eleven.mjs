@@ -4,7 +4,7 @@
 //   node scripts/tts-eleven.mjs --voices          -> hesaptaki sesleri listeler
 // Anahtar: reels-studio/.env içinde ELEVENLABS_API_KEY=...  (.env git'e girmez)
 // Metin: src/reels/<reel>/script.json  { voiceId, model?, voiceSettings?, scenes: ["cümle" | { text, ... }] }
-// eleven_v3 duygu etiketleri ([excited], [laughs], [whispers] ...) metne yazılabilir; zamanlamadan çıkarılır.
+// eleven_v4 / eleven_v3 duygu etiketleri ([excited], [laughs], [whispers] ...) metne yazılabilir; zamanlamadan çıkarılır.
 // Uzun metinler sahne sınırlarından parçalara bölünür (v3: ~2400 karakter), sonra birleştirilir.
 import fs from "node:fs";
 import path from "node:path";
@@ -34,8 +34,9 @@ if (!reel) throw new Error("kullanım: node scripts/tts-eleven.mjs <reel> [--fak
 const fake = args.includes("--fake");
 const cfg = JSON.parse(fs.readFileSync(path.join(root, "src/reels", reel, "script.json"), "utf8"));
 const sceneTexts = cfg.scenes.map((x) => (typeof x === "string" ? x : x.text));
-const model = cfg.model || "eleven_multilingual_v2";
-const isV3 = model === "eleven_v3";
+const model = cfg.model || "eleven_v4";
+// v3/v4: satır içi etiketler, style/speed yok, previous_text yok
+const isV3 = /^eleven_v[34]/.test(model);
 const settings = isV3
   ? { stability: 0.5, similarity_boost: 1.0, ...(cfg.voiceSettings ?? {}) }
   : // style 0 + similarity 1.0: klon sese en yakın sonuç

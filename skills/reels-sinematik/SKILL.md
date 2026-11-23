@@ -120,7 +120,7 @@ Referans: illüstrasyonlu "maskot anlatıyor" reels'leri (Kasım 2026). Kit: `sr
   steps, bars; her biri `at: "kelime"` ile sese bağlı (Türkçe büyük I/İ küçülünce değişir — "IMEI", "API" gibi
   kelimelere bağlama). `Root.tsx`'e `Bulten` + defaultProps ile kaydet.
 - Ses: `node scripts/tts-eleven.mjs <bolum>` + `node scripts/envelope.mjs public/<bolum>/voice.mp3 src/reels/<bolum>/envelope.json`
-  (Bit sunucunun dudak senkronu). Varsayılan ses Hazal'ın klonu.
+  (Bit sunucunun dudak senkronu). Model `eleven_v4`; varsayılan ses Seyfullah Kartal `mF7tIc9VLrznhGooGjaT` (ikinci erkek: Doğa `ctoYieZ4J7WwcdhujpMq`, kadın: Derya `NNn9dv8zq2kUo7d3JSGG`). Başka ses/model seçme.
 - Haberler: birincil kaynak / büyük ajans; sadece bülten/agregatörde geçeni ALMA. "Raporlara göre" ayrımını koru.
 - Görseller: Wikimedia Commons API (PD/CC0/CC BY) → `public/<bolum>/img/` + `CREDITS.json`; atıf panelde otomatik.
   Commons API hız sınırı var: tek istekte `titles=A|B|C` ile toplu sorgula.
